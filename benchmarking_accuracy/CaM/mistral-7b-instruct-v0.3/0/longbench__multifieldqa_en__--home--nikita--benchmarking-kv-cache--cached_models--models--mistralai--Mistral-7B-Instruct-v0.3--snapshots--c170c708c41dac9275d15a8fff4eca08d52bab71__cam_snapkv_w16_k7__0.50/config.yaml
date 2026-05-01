@@ -1,0 +1,27 @@
+dataset: longbench
+data_dir: multifieldqa_en
+model: /home/nikita/benchmarking-kv-cache/cached_models/models--mistralai--Mistral-7B-Instruct-v0.3/snapshots/c170c708c41dac9275d15a8fff4eca08d52bab71
+device: null
+press_name: cam_snapkv_w16_k7
+compression_ratio: 0.5
+key_channel_compression_ratio: null
+threshold: null
+fraction: 1.0
+max_new_tokens: 64
+max_context_length: null
+query_aware: false
+needle_depth: null
+compression_interval: 32
+target_size: 1024
+hidden_states_buffer_size: 64
+output_dir: ../../benchmarking_accuracy/kvpress_cam_snapkv_w16_k7/mistral-7b-instruct-v0.3/0
+log_level: INFO
+model_kwargs:
+  attn_implementation: flash_attention_2
+  dtype: auto
+  device_map: auto
+press_init_command: CAMPress(base_press=SnapKVPress(compression_ratio=0.0, window_size=16,
+  kernel_size=7), compression_interval=32, target_size=1024, hidden_states_buffer_size=64,
+  merge_budget=32)
+seed: 42
+fp8: false

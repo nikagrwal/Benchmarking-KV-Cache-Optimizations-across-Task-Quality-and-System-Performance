@@ -1,0 +1,25 @@
+dataset: longbench
+data_dir: triviaqa
+model: /home/nikita/benchmarking-kv-cache/cached_models/models--mistralai--Mistral-7B-Instruct-v0.3/snapshots/c170c708c41dac9275d15a8fff4eca08d52bab71
+device: null
+press_name: snapkv_w32_k7
+compression_ratio: 0.75
+key_channel_compression_ratio: null
+threshold: null
+fraction: 1.0
+max_new_tokens: null
+max_context_length: null
+query_aware: 'true'
+needle_depth: null
+compression_interval: null
+target_size: null
+hidden_states_buffer_size: null
+output_dir: /home/nikita/benchmarking-kv-cache/benchmarking_accuracy/snapkv_0.75/mistral-7b-instruct-v0.3/1
+log_level: INFO
+model_kwargs:
+  attn_implementation: flash_attention_2
+  dtype: auto
+  device_map: auto
+press_init_command: SnapKVPress(compression_ratio=0.75, window_size=32, kernel_size=7)
+seed: 42
+fp8: false

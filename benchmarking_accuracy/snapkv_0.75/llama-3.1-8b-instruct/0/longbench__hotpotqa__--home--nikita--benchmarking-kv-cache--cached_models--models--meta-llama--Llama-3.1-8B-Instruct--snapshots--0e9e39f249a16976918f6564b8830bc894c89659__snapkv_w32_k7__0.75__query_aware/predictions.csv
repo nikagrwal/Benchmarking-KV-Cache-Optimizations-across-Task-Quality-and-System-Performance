@@ -1,0 +1,201 @@
+all_classes,compression_ratio,dataset,question,length,answers,max_new_tokens,predicted_answer,answer_prefix,_id,language,task
+,0.75,hotpotqa,,8616,['Miller v. California'],52, Miller v. California,Answer:,fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f,en,hotpotqa
+,0.75,hotpotqa,,11525,['Charles L. Clifford'],52, Charles L. Clifford,Answer:,d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160,en,hotpotqa
+,0.75,hotpotqa,,11935,['Norman'],52, Lowell,Answer:,cb9214532284b8202912b1b75592832daef0b109593185a0,en,hotpotqa
+,0.75,hotpotqa,,11879,['Sun'],52, Jupiter,Answer:,105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd,en,hotpotqa
+,0.75,hotpotqa,,9865,['erotic thriller film'],52, on film,Answer:,5ff08452b84748458e71d82a6d387599969311fd61cd8fd1,en,hotpotqa
+,0.75,hotpotqa,,10034,['Parliament'],52, Parliament,Answer:,97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8,en,hotpotqa
+,0.75,hotpotqa,,9438,['Tharangambadi'],52, Mayiladuthurai,Answer:,11a7ad9d646184c16480376226d58f1b2754b095563c8344,en,hotpotqa
+,0.75,hotpotqa,,1267,['Pleiospilos'],52, Pleiospilos,Answer:,3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59,en,hotpotqa
+,0.75,hotpotqa,,7877,['2013'],52, 2013,Answer:,f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9,en,hotpotqa
+,0.75,hotpotqa,,6021,['The Rebirth'],52, The Rebirth,Answer:,a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d,en,hotpotqa
+,0.75,hotpotqa,,12090,"['October 13, 1980']",52," October 13, 1980",Answer:,72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c,en,hotpotqa
+,0.75,hotpotqa,,11381,['Betty Cohen'],52, Cartoon Network,Answer:,77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf,en,hotpotqa
+,0.75,hotpotqa,,11127,['Mary Astor'],52, Mary Astor,Answer:,21bc398556b5612bf0437043cd2800e943bab5929c4bccc5,en,hotpotqa
+,0.75,hotpotqa,,6961,['number five'],52, number five,Answer:,e0998dbc2db68c7b18adff7fcc67081acc865c974b721312,en,hotpotqa
+,0.75,hotpotqa,,11852,"['New Zealand, Canada, the United States, the Falkland Islands, and Peru.']",52," The other Cheshire hunting forests, the Forests of Macclesfield and Wirral.",Answer:,139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0,en,hotpotqa
+,0.75,hotpotqa,,8651,['2000 Summer Olympic Games'],52, 2000,Answer:,c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9,en,hotpotqa
+,0.75,hotpotqa,,4109,['Claudio Javier López'],52, Claudio Javier López,Answer:,ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244,en,hotpotqa
+,0.75,hotpotqa,,12697,['George H. W. Bush'],52, Ronald Reagan,Answer:,cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f,en,hotpotqa
+,0.75,hotpotqa,,10290,"['""Talk That Talk""']",52, Talk That Talk,Answer:,e4df9576e5cd102024e81baf94a43325335d0ba2d8892041,en,hotpotqa
+,0.75,hotpotqa,,11185,['Bob Dylan'],52, The Traveling Wilburys,Answer:,5e3362de0244d2b96c83958c4d3229151999292c369b0197,en,hotpotqa
+,0.75,hotpotqa,,8020,['Cartoon Cartoon Fridays'],52, Cartoon Cartoon Fridays,Answer:,fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31,en,hotpotqa
+,0.75,hotpotqa,,9946,['on the Cumberland Plain'],52," Sydney, in the state of New South Wales, Australia.",Answer:,ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802,en,hotpotqa
+,0.75,hotpotqa,,3766,['Long Island'],52, Jones Beach Island.,Answer:,3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b,en,hotpotqa
+,0.75,hotpotqa,,8462,['PewDiePie'],52, PewDiePie,Answer:,3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb,en,hotpotqa
+,0.75,hotpotqa,,10483,"[""It's Always Sunny in Philadelphia""]",52, It's Always Sunny in Philadelphia,Answer:,26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e,en,hotpotqa
+,0.75,hotpotqa,,6361,['#364'],52," 1,000",Answer:,6eafb48c7a974b5097cb4752eb3853dbac8f622173d24e44,en,hotpotqa
+,0.75,hotpotqa,,11209,['Ribosomes'],52, Ribosomes,Answer:,1ceb1c91662d241b3421853112a91b5868d1b81fe3b88ce4,en,hotpotqa
+,0.75,hotpotqa,,5903,['Dracula'],52, Dracula,Answer:,7e525340152c2f4b26d7fba85c680dde7b75af77356a7c22,en,hotpotqa
+,0.75,hotpotqa,,2045,['Band-e Amir National Park'],52, Band-e Amir National Park.,Answer:,b6352c61b4a748448ce38882861cd5ae5f7f2869a81e92a1,en,hotpotqa
+,0.75,hotpotqa,,11886,['University of Southern California'],52, USC,Answer:,4b83e873a551cd83a2e409d2b4467f74dd332326fcbca843,en,hotpotqa
+,0.75,hotpotqa,,12070,['7.2 million'],52," 12,817",Answer:,cb677158d6f710ab0cb440b2024cc61c942a1ea4a963087d,en,hotpotqa
+,0.75,hotpotqa,,10275,"['A123 Systems, LLC']",52, A123 Systems,Answer:,4b1df711ec0557b9df23de534c1ce99b7f37528f643b8c29,en,hotpotqa
+,0.75,hotpotqa,,9811,"['143,372']",52, Traverse City,Answer:,02c6e6b95d2a200df20bea7495469c79b1d89ed560890ee3,en,hotpotqa
+,0.75,hotpotqa,,11339,['Taoiseach of Ireland'],52, Taoiseach,Answer:,3056e292ff1583fe84207873be57c6ec28c28b425087ca84,en,hotpotqa
+,0.75,hotpotqa,,9385,"['Troy, Montana']",52," None of the given passages mention Vegepet being based in a city in Lincoln County, Montana.",Answer:,9729ff4cf6a13382c88896cf5a5b176d082cc1137c66b38b,en,hotpotqa
+,0.75,hotpotqa,,11830,['Mika Häkkinen'],52, Mika Häkkinen,Answer:,220230ff5154e6f0ccad63965d06ce69a9226bd72cc32fa4,en,hotpotqa
+,0.75,hotpotqa,,11091,['Constantine'],52, Minority Report,Answer:,01aff89f9ce55470c12450b595c268a225a638582dac204f,en,hotpotqa
+,0.75,hotpotqa,,9169,['George Balanchine'],52, Darci Kistler,Answer:,b785963089bd7f81ee294751c688af85bfe2863dba623373,en,hotpotqa
+,0.75,hotpotqa,,11865,['Xcel Energy Inc.'],52, Xcel Energy,Answer:,72a769d6d0fd1c5c90974e60ab97e88e6853b9115a7fb85e,en,hotpotqa
+,0.75,hotpotqa,,11344,['Summer Magic'],52, Around the World in 80 Days,Answer:,207efa55e96afdf705e48bc57b58fc8232bb972a47073d50,en,hotpotqa
+,0.75,hotpotqa,,8315,['Nobel Prize'],52, Nobel Prize in Physics,Answer:,ec3b5bcfa070b047c769413b99a2f32e4f5d2f803cf81a43,en,hotpotqa
+,0.75,hotpotqa,,11635,"['seasonal television specials, particularly its work in stop motion animation']",52," Seasonal television specials, usually done in stop motion animation.",Answer:,ed6c85899d2a29f6dc8e02ba62bc8f1b1043a8c135fdd132,en,hotpotqa
+,0.75,hotpotqa,,8515,['Dame Eileen June Atkins'],52, Eileen Atkins,Answer:,4c34b33d7a545c4eba3848d54fc4568fdf186e849897aa6e,en,hotpotqa
+,0.75,hotpotqa,,11577,['Iran'],52, Iran,Answer:,74ae5bfc8bdac7b560ec92b71604e86654f87b8f7fcbb30a,en,hotpotqa
+,0.75,hotpotqa,,12247,['Hakim Abdullah Jamal'],52, Hakim Jamal,Answer:,75f3798af3596cffefe8b932a00b1976f3f25fa0f42089fc,en,hotpotqa
+,0.75,hotpotqa,,9574,['Keith Morris'],52, Both,Answer:,eac05e5d0936f802e28b0c5081a2c2a1a94fe4f2c20cb2df,en,hotpotqa
+,0.75,hotpotqa,,6346,['YIVO'],52, YIVO,Answer:,1a71b5a73ffb21cb52d41e09b1f861748b60f1e59273a080,en,hotpotqa
+,0.75,hotpotqa,,7662,"['January 18, 1813']",52, 1813,Answer:,963e90eba94bba5bf5cf56755032d7bd4a3e4e225d3b8d14,en,hotpotqa
+,0.75,hotpotqa,,6717,"['Himalchuli has three main peaks: East (7893 m), West (7540 m) and North (7371 m)']",52, Tongshanjiabu is higher.,Answer:,99635fd2d7a227cb3360253cf0f5759ed87bbac33593d830,en,hotpotqa
+,0.75,hotpotqa,,11051,['1763'],52, 1867,Answer:,76096cce081ab5b9ef72be19076ee0a79d9e9239474e8b73,en,hotpotqa
+,0.75,hotpotqa,,3291,['Pope John X'],52, Pope John X,Answer:,670498f9d7fd2582c5791cad2fe212f580d316fa49a8a984,en,hotpotqa
+,0.75,hotpotqa,,11852,['Manchester United'],52, Manchester United F.C.,Answer:,2903a54db35e788f31a967bdfa021d64ac18ed7e1aed919a,en,hotpotqa
+,0.75,hotpotqa,,10635,['yes'],52, Yes,Answer:,a7c311f9f6423063e02c8236bdd83cc8059fcb9fe78b4fff,en,hotpotqa
+,0.75,hotpotqa,,5187,"['1,693']",52, Averill Park,Answer:,afa4eccc7b711ace3270c9cbcd784c971a4f0f8d22629ebf,en,hotpotqa
+,0.75,hotpotqa,,6222,['Australian Supercars Championship'],52, IndyCar Series,Answer:,fddb2049ab13cf002eb07f658ae13d9f99d83538ed881e9b,en,hotpotqa
+,0.75,hotpotqa,,9537,['no'],52, Yes,Answer:,87fd3f0590498461d595ff1823632c79b66cf313cf55fbb3,en,hotpotqa
+,0.75,hotpotqa,,10232,['Washington State'],52, Mississippi State,Answer:,47b3fb2eb0b90839a7887fa2138662a58c0170c96479190a,en,hotpotqa
+,0.75,hotpotqa,,11849,['Floyd Casey Stadium'],52, Floyd Casey Stadium,Answer:,4b0f3138abafd9fe2f3a16c3b2ffd55199bc3771070b5cd9,en,hotpotqa
+,0.75,hotpotqa,,11456,['2010'],52, 2010,Answer:,ff048b34a9405c880ccf710acdf1a53244e6039cb76c793a,en,hotpotqa
+,0.75,hotpotqa,,8823,['Sanskrit'],52, Gajabrishta is named after the back or hip portion of a sitting elephant.,Answer:,d9f5437fa85841cb12798def39a30721d3d2d140b4982854,en,hotpotqa
+,0.75,hotpotqa,,12372,['English'],52, British,Answer:,93d2774c99edbde88789a9f989642ff160871ca09e66e46a,en,hotpotqa
+,0.75,hotpotqa,,3708,['yes'],52, Yes,Answer:,de85aaa5c535ba20bdcad5fbabfe13a03687374265a57b44,en,hotpotqa
+,0.75,hotpotqa,,10261,['November'],52," November 23, 2002",Answer:,232c2ba7b8bb5f22b77e5c55961d0cd0fe673d26870e157b,en,hotpotqa
+,0.75,hotpotqa,,9594,['Shari Shattuck'],52, There is no information about an American actress starring in Tainted in the given passages.,Answer:,780b1664552881f2c14a0d943e746855f83709a5399bb4aa,en,hotpotqa
+,0.75,hotpotqa,,12150,['British'],52, British,Answer:,0a44085d7963681015a69416470b86da02135ac722d6301b,en,hotpotqa
+,0.75,hotpotqa,,10589,['Vernon Smith'],52, Vernon L. Smith,Answer:,f1c0b9a9ec47ccda8ba4b1be0ca7083b961ba0f06b2a4df7,en,hotpotqa
+,0.75,hotpotqa,,9116,['Deftones'],52, Deftones,Answer:,75439ed8609c12817aaee0fa4f749aebb3e4a36dfa72390e,en,hotpotqa
+,0.75,hotpotqa,,8149,['810'],52, Not available,Answer:,8a5d7c131d291d2c7cf2c20ea36a629f969402e0c50a8a8a,en,hotpotqa
+,0.75,hotpotqa,,9331,['India'],52, India,Answer:,cf16ba255ad4b7b0fdae56093ac7d5fb58487dc24f2659e2,en,hotpotqa
+,0.75,hotpotqa,,11899,['yes'],52, Yes,Answer:,9a19f9594aa73716dd38bcbd5ff1c04e57a6649800570f80,en,hotpotqa
+,0.75,hotpotqa,,9716,"['May 5, 1939']",52," May 5, 1939",Answer:,0879d3f078165bdc1aabca26c8526e66d3959e8ab2c6d903,en,hotpotqa
+,0.75,hotpotqa,,11550,['Philip K. Dick'],52, Philip K. Dick,Answer:,98bf7e9946e86278d6d2b938d751861981c5fe14c356ea68,en,hotpotqa
+,0.75,hotpotqa,,6601,['821'],52, 821,Answer:,6320310adc4a826b1bb240c63ac1735b7b29e93a59782364,en,hotpotqa
+,0.75,hotpotqa,,8751,['Capital Cities'],52, Capital Cities,Answer:,11b4c60bf00735e20ae817b940d86aa8922e2fcdaa3a0b47,en,hotpotqa
+,0.75,hotpotqa,,8392,['Morgan Llywelyn'],52, Morgan Llywelyn,Answer:,c47c8d3b1917f017cafaecbb4cddd6b92171854247957c08,en,hotpotqa
+,0.75,hotpotqa,,4029,['14'],52, 12,Answer:,f536646dd72a8a4f5ebddec61a67b8319dc9187d47bb7fc6,en,hotpotqa
+,0.75,hotpotqa,,10490,['Big 12 Conference'],52, Big 12 Conference,Answer:,6e541b3b8fc7e59da0da6548a17932b403b2e865d4036982,en,hotpotqa
+,0.75,hotpotqa,,10479,"['Brittany, Cornwall, Ireland, Isle of Man, Scotland and Wales.']",52," Brittany, Cornwall, Ireland, the Isle of Man, Scotland, and Wales.",Answer:,6eca7d7affce3375ec084f6356c6fc8ddf75eda0f6a4382f,en,hotpotqa
+,0.75,hotpotqa,,3945,['coaxial'],52, Coaxial cable.,Answer:,5e7675388334946fc508c4c8ac4ab0c491910fcc0e048bfd,en,hotpotqa
+,0.75,hotpotqa,,6415,['Wicked Twister'],52, Steel Venom,Answer:,8bcda9c521bb7cb5dcd9a8d4987bd5bcf4ec455a84c62f81,en,hotpotqa
+,0.75,hotpotqa,,6674,['Levni Yilmaz'],52, Lev Yilmaz,Answer:,1d81e1f410acc77f1d9a844f811045c2cecb0fdc9e717d41,en,hotpotqa
+,0.75,hotpotqa,,12479,['Man Haron'],52, Man Haron Monis,Answer:,77a3188a3b97619e1661cc289bb1a951308223219592696b,en,hotpotqa
+,0.75,hotpotqa,,11314,['Hawaii'],52, Hawaii,Answer:,a16ac581bde4459861c8681858b07f82363f66142beed4c2,en,hotpotqa
+,0.75,hotpotqa,,6297,['100 metres'],52, 100m sprint,Answer:,81d43196cac0effe1645b207f826a30550efc3126c35371e,en,hotpotqa
+,0.75,hotpotqa,,11891,"[""due to the onset and progression of Alzheimer's disease""]",52, due to the onset and progression of Alzheimer's disease.,Answer:,3e4cce5082e968aec7f0c008b1acbd111f505d0579d1c9ee,en,hotpotqa
+,0.75,hotpotqa,,3135,['yes'],52, Yes,Answer:,9dc6d234e2406aef691ea02ddc2064f343fc30cbc534c937,en,hotpotqa
+,0.75,hotpotqa,,11424,['Leucippus'],52, Leucippus,Answer:,7bb5645d62fc946b46910757e007f59e87f52bbf8535da58,en,hotpotqa
+,0.75,hotpotqa,,11061,"['Hollywood, Florida']",52, Hollywood,Answer:,21849142d27a4c8410bf8e8042f016054a0a0493e0e8b6e6,en,hotpotqa
+,0.75,hotpotqa,,10681,['building'],52, Office buildings.,Answer:,73d978e7e37a9c7475daa9151f9ead2bd3042e72988cafdd,en,hotpotqa
+,0.75,hotpotqa,,7370,['1895'],52, 1937,Answer:,f5ca9a0360773900f848072d3d7c63034922bdd0e6925e64,en,hotpotqa
+,0.75,hotpotqa,,7697,['Pac-12 Conference'],52," The team for which Justin Bannan played college football is the University of Colorado, which is currently a member of the Pac-12 Conference.",Answer:,e7875d33cdf7138818681e7bb2a13310bba28ea94550d64f,en,hotpotqa
+,0.75,hotpotqa,,12308,['7pm'],52, 7.00pm,Answer:,561c378ca284bab34f735f05e21dae8653ca251f6480d6e4,en,hotpotqa
+,0.75,hotpotqa,,11675,['no'],52, No,Answer:,4aee23759e842807b156492356b920a11236c7ea3da20732,en,hotpotqa
+,0.75,hotpotqa,,11567,['poet'],52, Writer.,Answer:,3df75e9b85781f83af8d3011cedb0c5fc6725f3489e48e54,en,hotpotqa
+,0.75,hotpotqa,,7865,['no'],52, No,Answer:,6d8f9be94b67277442c42aa9b437edaf901efec0d0959bda,en,hotpotqa
+,0.75,hotpotqa,,11812,"['43,000 marchers']",52," 43,000",Answer:,b7af427ee230063a2aabb35691c7a81670c0b7e85ac3b7b2,en,hotpotqa
+,0.75,hotpotqa,,12038,"['Indianapolis, Indiana']",52," Republic Airline is headquartered in Indianapolis, Indiana.",Answer:,666b2401378aceb59c9a4d6cc75b006f7c6af8a00c7d6f19,en,hotpotqa
+,0.75,hotpotqa,,9588,['1909'],52, 1909,Answer:,a2bb6c8de2a57c51b35e9d5c005cf46e1c0457f4086ef77d,en,hotpotqa
+,0.75,hotpotqa,,6509,['Bill McCutcheon'],52, Bill McCutcheon,Answer:,9fe92e20febe504670266d638939a94fc57c3cf8fe9cf948,en,hotpotqa
+,0.75,hotpotqa,,12402,['Lord Gort'],52, Field Marshal Lord Gort,Answer:,203709148e7052e14bf493f95037458b606b42f2fff54c79,en,hotpotqa
+,0.75,hotpotqa,,10843,['Polk County'],52, Polk County,Answer:,2bfda75e23447ca7e3213d01331c31816f30190a2ff6df71,en,hotpotqa
+,0.75,hotpotqa,,10994,['King James II of England'],52, James II,Answer:,f1ea70c4e2c13d2fda1feda75a72a345c0e91f083220e95a,en,hotpotqa
+,0.75,hotpotqa,,8209,['Tommy'],52, Pinball Wizard,Answer:,60ec93a22fbcb65eeadd9f1d2b3c8e4ed44d3a2c4285b168,en,hotpotqa
+,0.75,hotpotqa,,6055,['2006'],52, 2006,Answer:,bcd98af30c2eb7ce1233459715d27f428b111d12fea529b4,en,hotpotqa
+,0.75,hotpotqa,,11592,['West African descendants'],52, Afro-Cuban communities following the Atlantic slave trade of the 16th to 19th centuries.,Answer:,4636487a1855382398fe1e54284cb7dd3d7b8d178ac4a476,en,hotpotqa
+,0.75,hotpotqa,,11463,['American'],52, American,Answer:,a93aa642fb8802a99b36cd62febe1c4e995096a9320b00c5,en,hotpotqa
+,0.75,hotpotqa,,12353,['Michael Swango'],52, Michael Swango,Answer:,9336554e511e88766228ffa1acd1c6f82c9a41046514c253,en,hotpotqa
+,0.75,hotpotqa,,10626,['Juan Rulfo'],52, Juan Rulfo,Answer:,fbd2e6218ec7c8fc1a90b05bf6858a15d376704a278fa79f,en,hotpotqa
+,0.75,hotpotqa,,11201,['American'],52, Merck & Co.,Answer:,0aaabfd136117761896b5931d7b468ff8c61909e00140470,en,hotpotqa
+,0.75,hotpotqa,,8030,['1961'],52, 1961,Answer:,d18fde9d0b8da2a2febb67a679847ee4ee3259e85a9565f4,en,hotpotqa
+,0.75,hotpotqa,,11879,['United States Secretary of the Interior'],52, U.S. representative for Montana's at-large congressional district,Answer:,5affd6b287c8ce97502760e33a71598e8eee24b78c3dd95c,en,hotpotqa
+,0.75,hotpotqa,,11993,"[""Alice's Adventures in Wonderland""]",52, Alice's Adventures in Wonderland,Answer:,56dbceaf2e826fbb177035f03d7a263d62365856f21f39da,en,hotpotqa
+,0.75,hotpotqa,,10968,['Vienna'],52, Vienna,Answer:,ee07a420f322205e992788e25c0b256cadcd99abd359ff0f,en,hotpotqa
+,0.75,hotpotqa,,10766,['yes'],52, Yes,Answer:,795ed5382ff9378f90123aedc2b638c049411295c5678466,en,hotpotqa
+,0.75,hotpotqa,,3326,['Albert Park'],52, Albert Park,Answer:,4d6aafffd109cb61fd543f44bda770fda0cf1e1c3798548b,en,hotpotqa
+,0.75,hotpotqa,,8556,['director'],52, Filmmaker,Answer:,7528b0be35e8e6007f07c98b9f2d45ee1c854298134aba5c,en,hotpotqa
+,0.75,hotpotqa,,8571,"['Jeffersontown, Kentucky']",52, Jeffersontown,Answer:,38bd41e515abf2a44d29c593748db043ba2276d93938fdad,en,hotpotqa
+,0.75,hotpotqa,,11970,"['Burny Mattinson, David Michener, and the team of John Musker and Ron Clements']",52," John Musker, Ron Clements, Dave Michener, and Burny Mattinson.",Answer:,e54d1e07a1fc2ce2afdf7e75f79561d8fe0abd22f4d8bd53,en,hotpotqa
+,0.75,hotpotqa,,8524,['WAMC'],52, WAMC,Answer:,034b6ac41cd902b7fbde6b304eb2930d8eea616924ba461f,en,hotpotqa
+,0.75,hotpotqa,,11587,['Bassendean'],52, Bassendean,Answer:,b4dfcf1c4f152ba5684531d0eaa43f33ec5b185b92a36884,en,hotpotqa
+,0.75,hotpotqa,,2491,['duck'],52, duck,Answer:,1fd7df3ba224e985f87e976c7a4a67ddc1012a249a542bea,en,hotpotqa
+,0.75,hotpotqa,,4266,['Mimosa'],52, Mimosa.,Answer:,3faa54c1f192293c709684aa60c6e2e8cfe34ff55c8b6248,en,hotpotqa
+,0.75,hotpotqa,,11168,['alleged paranormal phenomena'],52," Paranormal activities, disappearances, and cult activity.",Answer:,9303f959145f198df63d2d7ec604a9d6efcb3e8daca89e91,en,hotpotqa
+,0.75,hotpotqa,,10145,['Fomento Económico Mexicano'],52, Coca-Cola FEMSA,Answer:,a18c0ece7c2ae88d2f9f3ffc5eaa13297a1b5d0125a172ad,en,hotpotqa
+,0.75,hotpotqa,,11526,['Ellie Kemper'],52, Ellie Kemper,Answer:,22a4122731366b93dd7495f9cb64b9312537fbe85797efbc,en,hotpotqa
+,0.75,hotpotqa,,8413,['yes'],52, Yes,Answer:,c16a3dd0b5b97180359715cab5c41d528cf2a99e2744f037,en,hotpotqa
+,0.75,hotpotqa,,3539,"['Umina Beach, New South Wales']",52, Umina Beach,Answer:,d7d92c85b8becc33e60fc03507933f8eaf53b5e1067286de,en,hotpotqa
+,0.75,hotpotqa,,5487,['Metro Manila'],52," Ortigas Center, Mandaluyong, Metro Manila",Answer:,480b33cc38878ea4fe81b796d09ba2d10cca554611e323ec,en,hotpotqa
+,0.75,hotpotqa,,11738,['University'],52, Arizona State University,Answer:,ad26b1fdaa97e8ef1c290a41a9151cc6b453756cb2715176,en,hotpotqa
+,0.75,hotpotqa,,1078,"['In 2002, Suining had a population of 658,798.']",52, Suining,Answer:,78e73e15102e688a5b5f43155b11658907db8caa30fdb16e,en,hotpotqa
+,0.75,hotpotqa,,9597,['video game'],52, None,Answer:,e5e18488f0e900206332a857f70da66dc59829937c913ff0,en,hotpotqa
+,0.75,hotpotqa,,8291,['no'],52, No,Answer:,887be3f3f2080532b3c0f1dc4d26be4f8a06030bf2e68a1a,en,hotpotqa
+,0.75,hotpotqa,,8995,['French mathematician and physicist'],52," British, Physicist",Answer:,2bf8384417cec2f1a2d43a2602326d90a97622d87898b1cc,en,hotpotqa
+,0.75,hotpotqa,,6337,"[""Elvis' Christmas Album""]",52, Elvis' Christmas Album,Answer:,826474c90684b1813df9324f779959a5e060d1cfc893a85f,en,hotpotqa
+,0.75,hotpotqa,,11365,['Operation Iceberg'],52, Operation Iceberg,Answer:,54d1487358089d52613d8e6970c3efdd5c56d112159d2810,en,hotpotqa
+,0.75,hotpotqa,,7563,['Puli Alam'],52, Logar,Answer:,5748ce1eca37fc55596e58fcff71e45363396002d28e0af9,en,hotpotqa
+,0.75,hotpotqa,,4556,['BBC Formula One'],52, Allan McNish,Answer:,302ee593ca790dfb2dcbfd4341817fc64f8d106f65f61867,en,hotpotqa
+,0.75,hotpotqa,,12021,['Plato'],52, Plato,Answer:,efc793ac73a0341a7cc35ea6872a89be3d4fed5f64c1e043,en,hotpotqa
+,0.75,hotpotqa,,12338,['Northern Ireland'],52, Northern Ireland,Answer:,b3647c02310a89ccb2822c163da3bead1ad3cd21948d4769,en,hotpotqa
+,0.75,hotpotqa,,11449,['Joe Gooch'],52, Joe Gooch,Answer:,dc14a859291c1d678432626f6f7974f8ecca536f4b7bdd6c,en,hotpotqa
+,0.75,hotpotqa,,7658,['poet and novelist'],52, They are both poets.,Answer:,75d66ce7bb5fbcea2d942895c0b10144ba9a94282e2e9f15,en,hotpotqa
+,0.75,hotpotqa,,10664,['O'],52, O,Answer:,ea58013717bdbe9f0bad1991ed03d1afe3208bf514d9a2cd,en,hotpotqa
+,0.75,hotpotqa,,11934,"['West Lafayette, Indiana']",52, Purdue University,Answer:,228572a285ddcbb4947f362c07531238d1eec58e0fe0cfc6,en,hotpotqa
+,0.75,hotpotqa,,11398,['Father of Liberalism'],52, John Locke,Answer:,1650b91e6fb722111b6461fc9524295246c3bd3b1a342267,en,hotpotqa
+,0.75,hotpotqa,,12544,['35 people'],52, 35,Answer:,e9b828ee7169d1978f3bcb6de5bbb0f54f9ee3bfc0ffdb8b,en,hotpotqa
+,0.75,hotpotqa,,12082,"['""Currer Bell""']",52, Jane Eyre,Answer:,88b095fb93df1d962625daa1796a46ce4721c316b0ab819b,en,hotpotqa
+,0.75,hotpotqa,,12023,['no'],52, No,Answer:,690c31a6d6263dacd649fefc5b5cfa94210205fdcdb43905,en,hotpotqa
+,0.75,hotpotqa,,9364,['2011'],52, 2014,Answer:,e9348ea3d217789522ba17d5dd2c69c01bacc9d677c614a4,en,hotpotqa
+,0.75,hotpotqa,,7336,['the Veneto region of Northern Italy'],52, The Veneto region of Northern Italy.,Answer:,781060824875cb0343a110f5e6f83d46e638cbb89e2ad7c6,en,hotpotqa
+,0.75,hotpotqa,,11723,['1919'],52, 1904,Answer:,8e9e0bac1908657b2f48452fe70dd4f7ab765b9633b75627,en,hotpotqa
+,0.75,hotpotqa,,9898,['French'],52, French forces.,Answer:,e8ba4badc3c5d30cc0942ede8df86a72257c492c07025dab,en,hotpotqa
+,0.75,hotpotqa,,10206,['University of Vienna'],52, The University of Vienna,Answer:,3f17f12cfde4c677f3af81362ce1df42f949bee1ceae40f4,en,hotpotqa
+,0.75,hotpotqa,,11179,['Brian Stokes Mitchell'],52, Brian Stokes Mitchell,Answer:,83df22880fee9f761464404ca2ff6ab21954e6b0827b4142,en,hotpotqa
+,0.75,hotpotqa,,8723,['Netflix'],52, Netflix,Answer:,3518c800877d0b8cc48ca575de745502b472a139564ffa46,en,hotpotqa
+,0.75,hotpotqa,,4374,['Drunter und Drüber is a multiplayer board game invented by Klaus Teuber'],52, Yes,Answer:,3acb0cc0a04a3f71078ee120e1b7ca4f089548b7cc8a8056,en,hotpotqa
+,0.75,hotpotqa,,4002,['Louisville'],52," Louisville, Kentucky",Answer:,90caafc7fe51eee4143874971f67bb3e0107d26179c437f7,en,hotpotqa
+,0.75,hotpotqa,,12183,['Sonic Mania'],52, Sonic Mania,Answer:,8fddd32ef1d88a5f8fde49152fc015eb80b3d60d1108d073,en,hotpotqa
+,0.75,hotpotqa,,11862,['Mark Neary Donohue Jr.'],52, Mark Donohue,Answer:,bb5fb55b76b2e47a59f48907aca9db96fafabd5b874e83cf,en,hotpotqa
+,0.75,hotpotqa,,7725,['an acting career'],52, Acting,Answer:,e0a5da9581af9a4a573423cbdcf207c5436dc35ff8a9d380,en,hotpotqa
+,0.75,hotpotqa,,6236,['Veyyil'],52, Veyil,Answer:,d136a5063f8e7f5594182b51b05d626ca0671aea2ba22226,en,hotpotqa
+,0.75,hotpotqa,,7355,['Saturday'],52, The Kentucky Derby,Answer:,07f505d321fd7a7c04e158059cb69ac3ac7ecdebfb03037d,en,hotpotqa
+,0.75,hotpotqa,,8104,['Neighbours'],52, Neighbours,Answer:,019dbd177ddcff6752aaabc8c0e459f3ae4003f718bd672b,en,hotpotqa
+,0.75,hotpotqa,,7675,['Bill Miner'],52, Bill Miner,Answer:,a1cce86489841f2514678029dbe95b7289b9d47f52f44939,en,hotpotqa
+,0.75,hotpotqa,,10454,['Chippewa County'],52, Chippewa,Answer:,4b753aee2d76b79f12f1b8708dd61bde51405af6fe602520,en,hotpotqa
+,0.75,hotpotqa,,10535,"['3,677 seated']",52," 4,000",Answer:,0118217cf85bd94f6a5f65952212eb05e7176fd3b18c694a,en,hotpotqa
+,0.75,hotpotqa,,2496,['Atlantic Ocean'],52, Atlantic,Answer:,c9f8b2166f7c44bf2e0843b2c77fb9fa5738af275555ca73,en,hotpotqa
+,0.75,hotpotqa,,11183,['director'],52, Filmmaker,Answer:,a3859ad1c8ffbce9bb2952f83cb463cc7051072c38eb8d70,en,hotpotqa
+,0.75,hotpotqa,,2808,['IK Start'],52, Start,Answer:,4567b6935bf5c64a1974b1089d67d176d9acac6b29836cb7,en,hotpotqa
+,0.75,hotpotqa,,11434,['green and yellow'],52, Green and yellow.,Answer:,f327fe18cfe320df9685d7195f33d41745a432e769476dd0,en,hotpotqa
+,0.75,hotpotqa,,10461,['Claire is a married World War II nurse'],52," Claire Randall, a married former World War II nurse, later surgeon, who in 1946 finds herself transported back to the Scotland of 1743 where she meets and falls in love with the dashing Highland warrior Jamie Fraser.",Answer:,4cdf613f05eaa834f5867ee486ec94d47587f09b5a7bb6db,en,hotpotqa
+,0.75,hotpotqa,,11212,['Henry Jackson Society'],52, The Royal Ballet,Answer:,1df269c3eca341348a837f39c628f59aa40d663c07875d24,en,hotpotqa
+,0.75,hotpotqa,,10878,['the City of Peace'],52, The City of Peace,Answer:,d6fe5bc54941b566b3c88598bbc459ee4d7098d6c6f22c4d,en,hotpotqa
+,0.75,hotpotqa,,10355,['Martin Scorsese'],52, Martin Scorsese,Answer:,d3249d0550c7105bdd4ed60c9ca9d955db08d362574c2086,en,hotpotqa
+,0.75,hotpotqa,,11419,['Michael Kemp Tippett'],52, Michael Tippett,Answer:,7d3bc2e36b406094cb586b4eeb07f13a7f1ac9dfbdce7d1f,en,hotpotqa
+,0.75,hotpotqa,,10063,['Babylon'],52, Babylon,Answer:,bf8ee342564ae21a17b169023f83a20220a63198827a0232,en,hotpotqa
+,0.75,hotpotqa,,4660,['Ten Walls'],52, Ten Walls.,Answer:,c274ce731f680eb107c70386e2e341615378165ecc22799e,en,hotpotqa
+,0.75,hotpotqa,,11780,['Dragons: Riders of Berk'],52, None of the passages mention John Paesano writing a film for DreamWorks Dragons.,Answer:,861e7d3ba836f6a816d0265dc1c9f5566ef4d22b8de223ca,en,hotpotqa
+,0.75,hotpotqa,,10058,['1978'],52, 1978,Answer:,6c64a81fa526cb96d0a191d9cbd85a7e917b5d4f03b316d7,en,hotpotqa
+,0.75,hotpotqa,,5595,['Jānis Strazdiņš'],52, Not found in the given passages.,Answer:,b84411acb9b2e39a68f92ed9e164eb053d3dd9ba4160f0af,en,hotpotqa
+,0.75,hotpotqa,,11759,['writer'],52, Writers.,Answer:,de202b6e76dc82831c7f14a6d4346d84b0c0e5e3783356cf,en,hotpotqa
+,0.75,hotpotqa,,11577,['the Qin dynasty'],52, the Qin dynasty,Answer:,e0873e8c51c3e473d614f6ff9705557ec2f37972ec4be718,en,hotpotqa
+,0.75,hotpotqa,,4400,['Baron of Holberg'],52, Holberg,Answer:,c1cfe7334235bf4a9ef11293d8be2d4055a70ac89334be2c,en,hotpotqa
+,0.75,hotpotqa,,8698,['Arizona State University'],52, University of Mississippi,Answer:,de89026c970fbb6dff04176107b9cf20407d155bc1ae2eec,en,hotpotqa
+,0.75,hotpotqa,,9019,['yes'],52, Yes,Answer:,c6c1401ec6e635eac28b985621cf59bde9e416cac2b30080,en,hotpotqa
+,0.75,hotpotqa,,8396,['Switchfoot'],52, Switchfoot,Answer:,3ece2c87c1ddea4a504fd1c67fe75d34ca8f818bd9ea15d0,en,hotpotqa
+,0.75,hotpotqa,,11276,['no'],52, No,Answer:,ce14f5dd15a5819d08a11f04e015e35a6f3640119973f806,en,hotpotqa
+,0.75,hotpotqa,,10564,['Brothers Quay'],52, Brothers Quay,Answer:,d3b2acfdec13f925424cd7d96b689557edfd08e6dd6177b7,en,hotpotqa
+,0.75,hotpotqa,,5636,['37.5'],52, 72 feet,Answer:,c5d6aa8cb0ad17a88eb66d578e86f783e3ac1f3684df9425,en,hotpotqa
+,0.75,hotpotqa,,6763,['Commissioner by the Maine Senate'],52, Bangor Daily News is not talking about Sawin Millett.,Answer:,31386c51d334a83befff8c1264657e197fad8b2885906939,en,hotpotqa
+,0.75,hotpotqa,,11053,['Jodie Prenger'],52, He won Let's Dance for Comic Relief.,Answer:,27190bb50ab7e97f74e2feec7dc3ef037f1a1c74d335ecb1,en,hotpotqa
+,0.75,hotpotqa,,11460,['Thames'],52, The River Thames.,Answer:,b524574cca42824f963480aae00867719108113389d087d3,en,hotpotqa
+,0.75,hotpotqa,,3506,['Allure'],52, Both,Answer:,d3b197d5b4da1198fc9c232524faced0f528b89f919b8061,en,hotpotqa
+,0.75,hotpotqa,,8113,['Jaleel Ahmad White'],52, Jaleel White,Answer:,0d6a7aae6f7e00180107c47a73dedda18caf3949666c4d55,en,hotpotqa
+,0.75,hotpotqa,,5091,['Lake Wallace'],52, Lake Wallace,Answer:,c5f1f53de09eb82eae93ae68a9581141a8cc8f3df6851926,en,hotpotqa
+,0.75,hotpotqa,,11685,['140 million'],52, Over 100 million records worldwide.,Answer:,5fc84dadeb648a27c3aaa64698a5bec5d2ef23eb32e22e44,en,hotpotqa
+,0.75,hotpotqa,,7720,['the deadpan sketch group'],52, Two Episodes of Mash,Answer:,40b5d54934bcf22bb9267e605c49d46509f3bd41b1a34c31,en,hotpotqa
+,0.75,hotpotqa,,10424,['1998'],52, 1998,Answer:,c9ee71b5dc7f5a4538d7727c95f80c174d3c9819dfbeac5a,en,hotpotqa
+,0.75,hotpotqa,,2412,['William'],52, William,Answer:,4670f2a542ac06d27e47a74a042cf57f743fba34722a7dc5,en,hotpotqa
+,0.75,hotpotqa,,11900,"['Gerald ""Jerry"" Joseph Bingham, Jr.']",52, Jerry Bingham,Answer:,f2da37b927d3f8ce752b69d7149a6eb31aa738d123f8fdb6,en,hotpotqa
+,0.75,hotpotqa,,3777,['no'],52, No,Answer:,5da42038bb9d29bb30e4094504ad06dc2d43afa373568686,en,hotpotqa

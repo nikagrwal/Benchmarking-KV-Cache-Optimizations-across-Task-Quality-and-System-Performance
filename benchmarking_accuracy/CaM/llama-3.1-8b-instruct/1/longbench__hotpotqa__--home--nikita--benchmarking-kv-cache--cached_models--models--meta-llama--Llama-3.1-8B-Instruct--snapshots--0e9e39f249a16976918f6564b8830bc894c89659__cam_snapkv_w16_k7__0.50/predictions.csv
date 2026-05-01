@@ -1,0 +1,401 @@
+dataset,_id,answer_prefix,task,length,question,input,language,predicted_answer,answers,all_classes,max_new_tokens
+hotpotqa,fc6267db9ba02bbb251960231bc87251c581110e4e2b5f3f,Answer:,hotpotqa,8616,"Question: Which case was brought to court first Miller v. California or Gates v. Collier ?
+",Which case was brought to court first Miller v. California or Gates v. Collier ?,en, Miller v. California,['Miller v. California'],,32
+hotpotqa,d542fcd45bbf5112eee9127f04ae060a887c8ef2050aa160,Answer:,hotpotqa,11525,"Question: The actor that plays Phileas Fogg in ""Around the World in 80 Days"", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?
+","The actor that plays Phileas Fogg in ""Around the World in 80 Days"", co-starred with Gary Cooper in a 1939 Goldwyn Productions film based on a novel by what author?",en, Charles L. Clifford,['Charles L. Clifford'],,32
+hotpotqa,cb9214532284b8202912b1b75592832daef0b109593185a0,Answer:,hotpotqa,11935,"Question: Prior to playing for Michigan State, Keith Nichol played football for a school located in what city?
+","Prior to playing for Michigan State, Keith Nichol played football for a school located in what city?",en, Lowell,['Norman'],,32
+hotpotqa,105e7f4d337799315ddf870acc4ff2a62a1e6cdf489086cd,Answer:,hotpotqa,11879,"Question: Gary L. Bennett was a part of the space missions that have a primary destination of what celestial body?
+",Gary L. Bennett was a part of the space missions that have a primary destination of what celestial body?,en, Jupiter,['Sun'],,32
+hotpotqa,5ff08452b84748458e71d82a6d387599969311fd61cd8fd1,Answer:,hotpotqa,9865,"Question: Was Atom Egoyans biggest commercial success on stage or on film?
+",Was Atom Egoyans biggest commercial success on stage or on film?,en, on film,['erotic thriller film'],,32
+hotpotqa,97b31d6d7a9137c220726ad51a6dca3e957e2c94ce5e65b8,Answer:,hotpotqa,10034,"Question: Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?
+",Celebrity Fifteen to One has had more than one appearance by an English writer and former Conservative Member of what?,en, Parliament,['Parliament'],,32
+hotpotqa,11a7ad9d646184c16480376226d58f1b2754b095563c8344,Answer:,hotpotqa,9438,"Question: Thirukkalacherry is a village in which Indian town?
+",Thirukkalacherry is a village in which Indian town?,en, Mayiladuthurai,['Tharangambadi'],,32
+hotpotqa,3dd1ade26fd583844dd2af051d61eb20856ccc8e23abae59,Answer:,hotpotqa,1267,"Question: Which is a flowering plant, Pueraria or Pleiospilos?
+","Which is a flowering plant, Pueraria or Pleiospilos?",en, Pleiospilos,['Pleiospilos'],,32
+hotpotqa,f039fe9cc81a0a312f9899beca2fe26b710bf8c3aa23a4d9,Answer:,hotpotqa,7877,"Question: After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?
+",After Russell D. Moore served at the Southern Baptist Theological Seminary he became the President of The Ethics & Religious Liberty Commission (ERLC) in what year?,en, 2013,['2013'],,32
+hotpotqa,a30caa5dafcc37835bfe4093f129017adf4c814e9016e10d,Answer:,hotpotqa,6021,"Question: For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?
+","For which band, was the female member of Fitz and The Tantrums, the front woman for ten years ?",en, The Rebirth,['The Rebirth'],,32
+hotpotqa,72feb2a8e5b92548a357bfc11e94050464f93f1ce286418c,Answer:,hotpotqa,12090,"Question: When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?
+","When was the American singer, songwriter, record producer, dancer and actress born who's second studio album is Chapter II?",en," October 13, 1980","['October 13, 1980']",,32
+hotpotqa,77439b0a62b6de3a022b1d7a5678c1c00fa8d9af42fea1bf,Answer:,hotpotqa,11381,"Question: The Greatest Event in Television History aired on the channel that was founded by whom?
+",The Greatest Event in Television History aired on the channel that was founded by whom?,en, Cartoon Network,['Betty Cohen'],,32
+hotpotqa,21bc398556b5612bf0437043cd2800e943bab5929c4bccc5,Answer:,hotpotqa,11127,"Question: Who starred in her final film role in the 1964 film directed by the man who also did Vera Cruz and Kiss Me Deadly?
+",Who starred in her final film role in the 1964 film directed by the man who also did Vera Cruz and Kiss Me Deadly?,en, Mary Astor,['Mary Astor'],,32
+hotpotqa,e0998dbc2db68c7b18adff7fcc67081acc865c974b721312,Answer:,hotpotqa,6961,"Question: Finally includes the song that peaked at what on the US Hot 100
+",Finally includes the song that peaked at what on the US Hot 100,en, number five,['number five'],,32
+hotpotqa,139d2fcf8763003414ebd0187eb30b94930de13c4ab754a0,Answer:,hotpotqa,11852,"Question: What are some other areas that share a common deer species with the forests of Mara and Mondrem?
+",What are some other areas that share a common deer species with the forests of Mara and Mondrem?,en, The other areas that share a common deer species with the forests of Mara and Mondrem are the Forests of Macclesfield and Wirral.,"['New Zealand, Canada, the United States, the Falkland Islands, and Peru.']",,32
+hotpotqa,c261ca6aeaf366815232e91db1ef4dc8408cec3750c38ee9,Answer:,hotpotqa,8651,"Question: Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?
+","Professional cyclist Sara Symington competed in which Olympic Games held in Sydeney, Australia?",en, 2000,['2000 Summer Olympic Games'],,32
+hotpotqa,ab016faac478c4acc6e9ed3ed87f9e29dbed47fd946be244,Answer:,hotpotqa,4109,"Question: Which retired Argentine footballer who played as a forward was a main player for Valencia CF?
+",Which retired Argentine footballer who played as a forward was a main player for Valencia CF?,en, Claudio López,['Claudio Javier López'],,32
+hotpotqa,cae319fad2385d30d79efac0fb61e58518fbdc0703be3b0f,Answer:,hotpotqa,12697,"Question: What actor was also a president that Richard Darman worked with when they were in office?
+",What actor was also a president that Richard Darman worked with when they were in office?,en, Ronald Reagan,['George H. W. Bush'],,32
+hotpotqa,e4df9576e5cd102024e81baf94a43325335d0ba2d8892041,Answer:,hotpotqa,10290,"Question: The song that came out ahead of The Wanted's ""Lightning"" on the UK Singles Chart was featured on which album?
+","The song that came out ahead of The Wanted's ""Lightning"" on the UK Singles Chart was featured on which album?",en, Talk That Talk,"['""Talk That Talk""']",,32
+hotpotqa,5e3362de0244d2b96c83958c4d3229151999292c369b0197,Answer:,hotpotqa,11185,"Question: Name a member of a British-American supergroup who recored a version of Nobody's child in 1990
+",Name a member of a British-American supergroup who recored a version of Nobody's child in 1990,en, The Traveling Wilburys,['Bob Dylan'],,32
+hotpotqa,fda38e0c47dcd2b4f1de4adefeb00ab431221c0ef9adeb31,Answer:,hotpotqa,8020,"Question: What Friday night programming block included what collective series that includes ""Whatever Happened to... Robot Jones?""?
+","What Friday night programming block included what collective series that includes ""Whatever Happened to... Robot Jones?""?",en, Cartoon Cartoon Fridays,['Cartoon Cartoon Fridays'],,32
+hotpotqa,ef245cc27251f559f3cd900c11c7bf9f303eec3c4b346802,Answer:,hotpotqa,9946,"Question: Where does the city situated where Kellyville Ridge is located?
+",Where does the city situated where Kellyville Ridge is located?,en," Sydney, in the state of New South Wales, Australia.",['on the Cumberland Plain'],,32
+hotpotqa,3a75aba6bc2496016339474aef28ffdc9dbebdc00ccc166b,Answer:,hotpotqa,3766,"Question: Oak Beach, New York and Great South Bay are both situated between what same island?
+","Oak Beach, New York and Great South Bay are both situated between what same island?",en, Jones Beach Island.,['Long Island'],,32
+hotpotqa,3dc3db870ea907282d3160c597c4d618ae6ba2a6bdd712bb,Answer:,hotpotqa,8462,"Question: Who is a guest in the final two episodes of season eighteen of South Park?
+",Who is a guest in the final two episodes of season eighteen of South Park?,en, PewDiePie,['PewDiePie'],,32
+hotpotqa,26a5366c80c3a569c474a3990f3383beb125d34149e8ed3e,Answer:,hotpotqa,10483,"Question: Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?
+",Robbie Tucker plays in what series that follows a group of friends who run an Irish bar?,en, It's Always Sunny in Philadelphia,"[""It's Always Sunny in Philadelphia""]",,32
+hotpotqa,6eafb48c7a974b5097cb4752eb3853dbac8f622173d24e44,Answer:,hotpotqa,6361,"Question: High School Confidential, an eight part documentary followed twelve high school teenagers from a high school in Overland Park, Kansas that ranked what in the 2009 Newsweek ranking of the top 1,500 high schools in the United States?
+","High School Confidential, an eight part documentary followed twelve high school teenagers from a high school in Overland Park, Kansas that ranked what in the 2009 Newsweek ranking of the top 1,500 high schools in the United States?",en," 1,000",['#364'],,32
+hotpotqa,1ceb1c91662d241b3421853112a91b5868d1b81fe3b88ce4,Answer:,hotpotqa,11209,"Question: The large subunit and small subunit that use two types of RNA are major components that make up what?
+",The large subunit and small subunit that use two types of RNA are major components that make up what?,en, Ribosomes,['Ribosomes'],,32
+hotpotqa,7e525340152c2f4b26d7fba85c680dde7b75af77356a7c22,Answer:,hotpotqa,5903,"Question: Whiich genus has more species, Dracula or Pistacia?
+","Whiich genus has more species, Dracula or Pistacia?",en, Dracula,['Dracula'],,32
+hotpotqa,b6352c61b4a748448ce38882861cd5ae5f7f2869a81e92a1,Answer:,hotpotqa,2045,"Question: Band-e-Amir Dragons is named after the lakes in which Afghan national park?
+",Band-e-Amir Dragons is named after the lakes in which Afghan national park?,en, Band-e Amir National Park.,['Band-e Amir National Park'],,32
+hotpotqa,4b83e873a551cd83a2e409d2b4467f74dd332326fcbca843,Answer:,hotpotqa,11886,"Question: The 1958 Pro Bowl was played at the California stadium that is the home for which college?
+",The 1958 Pro Bowl was played at the California stadium that is the home for which college?,en, USC,['University of Southern California'],,32
+hotpotqa,cb677158d6f710ab0cb440b2024cc61c942a1ea4a963087d,Answer:,hotpotqa,12070,"Question: Yau Ma Tei North is a district of a city with how many citizens?
+",Yau Ma Tei North is a district of a city with how many citizens?,en," 12,817",['7.2 million'],,32
+hotpotqa,4b1df711ec0557b9df23de534c1ce99b7f37528f643b8c29,Answer:,hotpotqa,10275,"Question: Spider9 was founded in 2011 by the head of which subsidiary of Wanxiang Group?
+",Spider9 was founded in 2011 by the head of which subsidiary of Wanxiang Group?,en, A123 Systems,"['A123 Systems, LLC']",,32
+hotpotqa,02c6e6b95d2a200df20bea7495469c79b1d89ed560890ee3,Answer:,hotpotqa,9811,"Question: What is the population of the city at which the transmitter of WLLZ-LP was placed? 
+",What is the population of the city at which the transmitter of WLLZ-LP was placed? ,en, Traverse City,"['143,372']",,32
+hotpotqa,3056e292ff1583fe84207873be57c6ec28c28b425087ca84,Answer:,hotpotqa,11339,"Question: Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?
+",Charles Haughey held what position when he dissolved the list of members who were elected to the lower house of the Oireachtas of Ireland on 25 May 1989?,en, Taoiseach,['Taoiseach of Ireland'],,32
+hotpotqa,9729ff4cf6a13382c88896cf5a5b176d082cc1137c66b38b,Answer:,hotpotqa,9385,"Question: What city, located in Lincoln County, Montana, United States, is Vegepet based in?
+","What city, located in Lincoln County, Montana, United States, is Vegepet based in?",en," None of the given passages mention Vegepet being based in a city in Lincoln County, Montana.","['Troy, Montana']",,32
+hotpotqa,220230ff5154e6f0ccad63965d06ce69a9226bd72cc32fa4,Answer:,hotpotqa,11830,"Question: McLaren MP4/11 was driven by what Finnish former professional racing driver
+",McLaren MP4/11 was driven by what Finnish former professional racing driver,en, Mika Häkkinen,['Mika Häkkinen'],,32
+hotpotqa,01aff89f9ce55470c12450b595c268a225a638582dac204f,Answer:,hotpotqa,11091,"Question: Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?
+",Which of the movie which has Rich Lee 3-D previsualizations was directed by Francis Lawrence?,en, Minority Report,['Constantine'],,32
+hotpotqa,b785963089bd7f81ee294751c688af85bfe2863dba623373,Answer:,hotpotqa,9169,"Question: Who choreographed one who is said to be the last muse for the choreographer and starred in the Nutcracker?
+",Who choreographed one who is said to be the last muse for the choreographer and starred in the Nutcracker?,en, Darci Kistler,['George Balanchine'],,32
+hotpotqa,72a769d6d0fd1c5c90974e60ab97e88e6853b9115a7fb85e,Answer:,hotpotqa,11865,"Question: Which utility holding company did Alfred A. Marcus work as a consultant?
+",Which utility holding company did Alfred A. Marcus work as a consultant?,en, Xcel Energy,['Xcel Energy Inc.'],,32
+hotpotqa,207efa55e96afdf705e48bc57b58fc8232bb972a47073d50,Answer:,hotpotqa,11344,"Question: Which film was released first, Summer Magic or Around the World in 80 Days?
+","Which film was released first, Summer Magic or Around the World in 80 Days?",en, Around the World in 80 Days,['Summer Magic'],,32
+hotpotqa,ec3b5bcfa070b047c769413b99a2f32e4f5d2f803cf81a43,Answer:,hotpotqa,8315,"Question: The physicist who is responsible for identifying the Rabi cycle won what award?
+",The physicist who is responsible for identifying the Rabi cycle won what award?,en, Nobel Prize in Physics,['Nobel Prize'],,32
+hotpotqa,ed6c85899d2a29f6dc8e02ba62bc8f1b1043a8c135fdd132,Answer:,hotpotqa,11635,"Question: For what type of work is the production company for The Year Without a Santa Claus best known?
+",For what type of work is the production company for The Year Without a Santa Claus best known?,en," Seasonal television specials, usually done in stop motion animation.","['seasonal television specials, particularly its work in stop motion animation']",,32
+hotpotqa,4c34b33d7a545c4eba3848d54fc4568fdf186e849897aa6e,Answer:,hotpotqa,8515,"Question: Which three-time Olivier Award winning English actress starred in the 1981 BBC television serial, Sons and Lovers?
+","Which three-time Olivier Award winning English actress starred in the 1981 BBC television serial, Sons and Lovers?",en, Eileen Atkins,['Dame Eileen June Atkins'],,32
+hotpotqa,74ae5bfc8bdac7b560ec92b71604e86654f87b8f7fcbb30a,Answer:,hotpotqa,11577,"Question: The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in which country?
+","The historical Nimavar school in the Nimavar Bazaar, or bazar, is located in which country?",en, Iran,['Iran'],,32
+hotpotqa,75f3798af3596cffefe8b932a00b1976f3f25fa0f42089fc,Answer:,hotpotqa,12247,"Question: Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s
+",Which name adopted by African-American activist Allen Donaldson co-found Black Power movement of the 1960s and 1970s,en, Hakim Jamal,['Hakim Abdullah Jamal'],,32
+hotpotqa,eac05e5d0936f802e28b0c5081a2c2a1a94fe4f2c20cb2df,Answer:,hotpotqa,9574,"Question: Which person is known for playing in punk bands, Keith Morris or Rome Ramirez?
+","Which person is known for playing in punk bands, Keith Morris or Rome Ramirez?",en, Both,['Keith Morris'],,32
+hotpotqa,1a71b5a73ffb21cb52d41e09b1f861748b60f1e59273a080,Answer:,hotpotqa,6346,"Question: Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?
+",Arnold Richards was the former chair of what organization that is a member of the Center for Jewish History?,en, YIVO,['YIVO'],,32
+hotpotqa,963e90eba94bba5bf5cf56755032d7bd4a3e4e225d3b8d14,Answer:,hotpotqa,7662,"Question: When was the plaintiff in the 1892 Barbed Wire Patent Case born?
+",When was the plaintiff in the 1892 Barbed Wire Patent Case born?,en, 1813,"['January 18, 1813']",,32
+hotpotqa,99635fd2d7a227cb3360253cf0f5759ed87bbac33593d830,Answer:,hotpotqa,6717,"Question: Which mountain is higher, Tongshanjiabu or Himalchuli?
+","Which mountain is higher, Tongshanjiabu or Himalchuli?",en, Tongshanjiabu is higher.,"['Himalchuli has three main peaks: East (7893 m), West (7540 m) and North (7371 m)']",,32
+hotpotqa,76096cce081ab5b9ef72be19076ee0a79d9e9239474e8b73,Answer:,hotpotqa,11051,"Question: When did the place in Canada where François Beaucourt (1740-1794) was mainly active acquired its present name?
+",When did the place in Canada where François Beaucourt (1740-1794) was mainly active acquired its present name?,en, 1867,['1763'],,32
+hotpotqa,670498f9d7fd2582c5791cad2fe212f580d316fa49a8a984,Answer:,hotpotqa,3291,"Question: Who gave the mother of Alberic II of Spoleto the title ""patricia"" of Rome?
+","Who gave the mother of Alberic II of Spoleto the title ""patricia"" of Rome?",en, Pope John X,['Pope John X'],,32
+hotpotqa,2903a54db35e788f31a967bdfa021d64ac18ed7e1aed919a,Answer:,hotpotqa,11852,"Question: What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?
+",What football club plays in the area between the old tool gates: Brook Bar and Trafford bar?,en, Manchester United F.C.,['Manchester United'],,32
+hotpotqa,a7c311f9f6423063e02c8236bdd83cc8059fcb9fe78b4fff,Answer:,hotpotqa,10635,"Question: Are Stanley Elkin and Anne Tyler from the same country?
+",Are Stanley Elkin and Anne Tyler from the same country?,en, Yes,['yes'],,32
+hotpotqa,afa4eccc7b711ace3270c9cbcd784c971a4f0f8d22629ebf,Answer:,hotpotqa,5187,"Question: Sand Lake Baptist Church is located in a hamlet with a population of what at the 2010 census?
+",Sand Lake Baptist Church is located in a hamlet with a population of what at the 2010 census?,en, Averill Park,"['1,693']",,32
+hotpotqa,fddb2049ab13cf002eb07f658ae13d9f99d83538ed881e9b,Answer:,hotpotqa,6222,"Question: What championship did the person who substituted for Simon Pagenaud secure a contract to drive in 2017?
+",What championship did the person who substituted for Simon Pagenaud secure a contract to drive in 2017?,en, IndyCar,['Australian Supercars Championship'],,32
+hotpotqa,87fd3f0590498461d595ff1823632c79b66cf313cf55fbb3,Answer:,hotpotqa,9537,"Question: Are Yoo-hoo and Faygo both carbonated drinks?
+",Are Yoo-hoo and Faygo both carbonated drinks?,en, Yes,['no'],,32
+hotpotqa,47b3fb2eb0b90839a7887fa2138662a58c0170c96479190a,Answer:,hotpotqa,10232,"Question: After coaching the red raiders to several winning seasons, where does Mike Leach currently coach at?
+","After coaching the red raiders to several winning seasons, where does Mike Leach currently coach at?",en, Mississippi State,['Washington State'],,32
+hotpotqa,4b0f3138abafd9fe2f3a16c3b2ffd55199bc3771070b5cd9,Answer:,hotpotqa,11849,"Question: The Huskies football team were invited to the Alamo Bowl where they were defeated by a team coached by Art Briles and who played their home games at what statium?
+",The Huskies football team were invited to the Alamo Bowl where they were defeated by a team coached by Art Briles and who played their home games at what statium?,en, Floyd Casey Stadium,['Floyd Casey Stadium'],,32
+hotpotqa,ff048b34a9405c880ccf710acdf1a53244e6039cb76c793a,Answer:,hotpotqa,11456,"Question: Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?
+",Luther: The Calling is based on the BBC crime drama comprising six episodes that were run in which year?,en, 2010,['2010'],,32
+hotpotqa,d9f5437fa85841cb12798def39a30721d3d2d140b4982854,Answer:,hotpotqa,8823,"Question: How are elephants connected to Gajabrishta?
+",How are elephants connected to Gajabrishta?,en, Gajabrishta is named after the back or hip portion of a sitting elephant.,['Sanskrit'],,32
+hotpotqa,93d2774c99edbde88789a9f989642ff160871ca09e66e46a,Answer:,hotpotqa,12372,"Question: What is the nationality of the author of Fifty Shades Freed?
+",What is the nationality of the author of Fifty Shades Freed?,en, British,['English'],,32
+hotpotqa,de85aaa5c535ba20bdcad5fbabfe13a03687374265a57b44,Answer:,hotpotqa,3708,"Question: Were the Tundra Mine and Negus Mine located in the same country?
+",Were the Tundra Mine and Negus Mine located in the same country?,en, Yes,['yes'],,32
+hotpotqa,232c2ba7b8bb5f22b77e5c55961d0cd0fe673d26870e157b,Answer:,hotpotqa,10261,"Question: When did the animated series Kent Scott wrote end after beginning in September of 2002 on ""Nick on CBS""?
+","When did the animated series Kent Scott wrote end after beginning in September of 2002 on ""Nick on CBS""?",en," November 23, 2002",['November'],,32
+hotpotqa,780b1664552881f2c14a0d943e746855f83709a5399bb4aa,Answer:,hotpotqa,9594,"Question: What American actress stars in Tainted?
+",What American actress stars in Tainted?,en, There is no information about an American actress starring in Tainted in the given passages.,['Shari Shattuck'],,32
+hotpotqa,0a44085d7963681015a69416470b86da02135ac722d6301b,Answer:,hotpotqa,12150,"Question: Jolyon James performed the role of Moonshadow in a musical by a composer of what nationality?
+",Jolyon James performed the role of Moonshadow in a musical by a composer of what nationality?,en, British,['British'],,32
+hotpotqa,f1c0b9a9ec47ccda8ba4b1be0ca7083b961ba0f06b2a4df7,Answer:,hotpotqa,10589,"Question: What Nobel Laureate teaches at  Chapman University?
+",What Nobel Laureate teaches at  Chapman University?,en, Vernon L. Smith,['Vernon Smith'],,32
+hotpotqa,75439ed8609c12817aaee0fa4f749aebb3e4a36dfa72390e,Answer:,hotpotqa,9116,"Question: Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as ""the Radiohead of metal""?
+","Which California band, whose debut album Adrenaline appeared in 1995, has been referred to as ""the Radiohead of metal""?",en, Deftones,['Deftones'],,32
+hotpotqa,8a5d7c131d291d2c7cf2c20ea36a629f969402e0c50a8a8a,Answer:,hotpotqa,8149,"Question: What was the population in 2010 of the town where The Stelljes House is located ?
+",What was the population in 2010 of the town where The Stelljes House is located ?,en, Not available,['810'],,32
+hotpotqa,cf16ba255ad4b7b0fdae56093ac7d5fb58487dc24f2659e2,Answer:,hotpotqa,9331,"Question: Which country is home to Alsa Mall and Spencer Plaza?
+",Which country is home to Alsa Mall and Spencer Plaza?,en, India,['India'],,32
+hotpotqa,9a19f9594aa73716dd38bcbd5ff1c04e57a6649800570f80,Answer:,hotpotqa,11899,"Question: Are Mick Jagger and Brett Scallions both musicians?
+",Are Mick Jagger and Brett Scallions both musicians?,en, Yes,['yes'],,32
+hotpotqa,0879d3f078165bdc1aabca26c8526e66d3959e8ab2c6d903,Answer:,hotpotqa,9716,"Question: When was Erik Watts' father born?
+",When was Erik Watts' father born?,en," May 5, 1939","['May 5, 1939']",,32
+hotpotqa,98bf7e9946e86278d6d2b938d751861981c5fe14c356ea68,Answer:,hotpotqa,11550,"Question: Morgan Paull played Dave Holden in a 1982 film loosely adapted from a novel by what author?
+",Morgan Paull played Dave Holden in a 1982 film loosely adapted from a novel by what author?,en, Philip K. Dick,['Philip K. Dick'],,32
+hotpotqa,6320310adc4a826b1bb240c63ac1735b7b29e93a59782364,Answer:,hotpotqa,6601,"Question: What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?
+",What was the Roud Folk Song Index of the nursery rhyme inspiring What Are Little Girls Made Of?,en, 821,['821'],,32
+hotpotqa,11b4c60bf00735e20ae817b940d86aa8922e2fcdaa3a0b47,Answer:,hotpotqa,8751,"Question: Which is in the pop genre, Capital Cities or Tweaker?
+","Which is in the pop genre, Capital Cities or Tweaker?",en, Capital Cities,['Capital Cities'],,32
+hotpotqa,c47c8d3b1917f017cafaecbb4cddd6b92171854247957c08,Answer:,hotpotqa,8392,"Question: Who was born first,  Morgan Llywelyn or Robert Jordan?
+","Who was born first,  Morgan Llywelyn or Robert Jordan?",en, Morgan Llywelyn,['Morgan Llywelyn'],,32
+hotpotqa,f536646dd72a8a4f5ebddec61a67b8319dc9187d47bb7fc6,Answer:,hotpotqa,4029,"Question: The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?
+",The winner of the the London Riders' Championship in 1953 scored how many points in the 1952 Individual Speedway World Championship?,en, 12,['14'],,32
+hotpotqa,6e541b3b8fc7e59da0da6548a17932b403b2e865d4036982,Answer:,hotpotqa,10490,"Question: A wide receiver for the Toronto Argonauts played college football for a team that represents the University of Oklahoma, which belongs to what conference?
+","A wide receiver for the Toronto Argonauts played college football for a team that represents the University of Oklahoma, which belongs to what conference?",en, Big 12 Conference,['Big 12 Conference'],,32
+hotpotqa,6eca7d7affce3375ec084f6356c6fc8ddf75eda0f6a4382f,Answer:,hotpotqa,10479,"Question: In which six Western European territories have Celtic languages or cultural traits survived?
+",In which six Western European territories have Celtic languages or cultural traits survived?,en," Brittany, Cornwall, Ireland, the Isle of Man, Scotland, and Wales.","['Brittany, Cornwall, Ireland, Isle of Man, Scotland and Wales.']",,32
+hotpotqa,5e7675388334946fc508c4c8ac4ab0c491910fcc0e048bfd,Answer:,hotpotqa,3945,"Question: SR connector is based on the connector that is often used for what type of cable?
+",SR connector is based on the connector that is often used for what type of cable?,en, Coaxial cable.,['coaxial'],,32
+hotpotqa,8bcda9c521bb7cb5dcd9a8d4987bd5bcf4ec455a84c62f81,Answer:,hotpotqa,6415,"Question: Which is farther north, Steel Venom or Wicked Twister?
+","Which is farther north, Steel Venom or Wicked Twister?",en, Steel Venom,['Wicked Twister'],,32
+hotpotqa,1d81e1f410acc77f1d9a844f811045c2cecb0fdc9e717d41,Answer:,hotpotqa,6674,"Question: Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?
+","Which filmmaker was known for animation, Lev Yilmaz or Pamela B. Green?",en, Lev Yilmaz,['Levni Yilmaz'],,32
+hotpotqa,77a3188a3b97619e1661cc289bb1a951308223219592696b,Answer:,hotpotqa,12479,"Question: Who was the gunman of the hostage crisis which Chris Reason was awarded the Graham Perkin Australian Journalist of the Year Award for his coverage of?
+",Who was the gunman of the hostage crisis which Chris Reason was awarded the Graham Perkin Australian Journalist of the Year Award for his coverage of?,en, Man Haron Monis,['Man Haron'],,32
+hotpotqa,a16ac581bde4459861c8681858b07f82363f66142beed4c2,Answer:,hotpotqa,11314,"Question: 1920 Politics was a Republican political strategy to reassert the authority of the white race in which US state?
+",1920 Politics was a Republican political strategy to reassert the authority of the white race in which US state?,en, Hawaii,['Hawaii'],,32
+hotpotqa,81d43196cac0effe1645b207f826a30550efc3126c35371e,Answer:,hotpotqa,6297,"Question: In what event was Harold Davis a former record holder, but now is held by Usain Bolt?
+","In what event was Harold Davis a former record holder, but now is held by Usain Bolt?",en, 4×100m relay,['100 metres'],,32
+hotpotqa,3e4cce5082e968aec7f0c008b1acbd111f505d0579d1c9ee,Answer:,hotpotqa,11891,"Question: Why did the CEO of the football team based in Denver, Colorado step down in 2014?
+","Why did the CEO of the football team based in Denver, Colorado step down in 2014?",en, due to the onset and progression of Alzheimer's disease.,"[""due to the onset and progression of Alzheimer's disease""]",,32
+hotpotqa,9dc6d234e2406aef691ea02ddc2064f343fc30cbc534c937,Answer:,hotpotqa,3135,"Question: Are Pothos and Tibouchina Aubl both flowering genus of plants?
+",Are Pothos and Tibouchina Aubl both flowering genus of plants?,en, Yes,['yes'],,32
+hotpotqa,7bb5645d62fc946b46910757e007f59e87f52bbf8535da58,Answer:,hotpotqa,11424,"Question: The Pluralist school is said to have included what creator of the theory of atomism? 
+",The Pluralist school is said to have included what creator of the theory of atomism? ,en, Leucippus,['Leucippus'],,32
+hotpotqa,21849142d27a4c8410bf8e8042f016054a0a0493e0e8b6e6,Answer:,hotpotqa,11061,"Question: Which City in the Miami metropolitan area is home to the Primetime Race Group?
+",Which City in the Miami metropolitan area is home to the Primetime Race Group?,en, Hollywood,"['Hollywood, Florida']",,32
+hotpotqa,73d978e7e37a9c7475daa9151f9ead2bd3042e72988cafdd,Answer:,hotpotqa,10681,"Question: What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?
+",What type of structure does 277 Park Avenue and 126 Madison Avenue have in common?,en, Office buildings.,['building'],,32
+hotpotqa,f5ca9a0360773900f848072d3d7c63034922bdd0e6925e64,Answer:,hotpotqa,7370,"Question: Operation light house was an experiment by Wernher von Braun and another man born in what year?
+",Operation light house was an experiment by Wernher von Braun and another man born in what year?,en, 1937,['1895'],,32
+hotpotqa,e7875d33cdf7138818681e7bb2a13310bba28ea94550d64f,Answer:,hotpotqa,7697,"Question: Which conference is the team for which Justin Bannan played college football currently a member of?
+",Which conference is the team for which Justin Bannan played college football currently a member of?,en," The team for which Justin Bannan played college football, Colorado, is currently a member of the Pac-12 Conference.",['Pac-12 Conference'],,32
+hotpotqa,561c378ca284bab34f735f05e21dae8653ca251f6480d6e4,Answer:,hotpotqa,12308,"Question: What time did the show, in which Gordon Burns was the host, usually air on Monday?
+","What time did the show, in which Gordon Burns was the host, usually air on Monday?",en, 7.00pm.,['7pm'],,32
+hotpotqa,4aee23759e842807b156492356b920a11236c7ea3da20732,Answer:,hotpotqa,11675,"Question: Are Werther and The Odyssey both operas?
+",Are Werther and The Odyssey both operas?,en, No,['no'],,32
+hotpotqa,3df75e9b85781f83af8d3011cedb0c5fc6725f3489e48e54,Answer:,hotpotqa,11567,"Question: What occupation is shared by both Marge Piercy and Richard Aldington?
+",What occupation is shared by both Marge Piercy and Richard Aldington?,en, Writer.,['poet'],,32
+hotpotqa,6d8f9be94b67277442c42aa9b437edaf901efec0d0959bda,Answer:,hotpotqa,7865,"Question: Are both Duke Energy and Affiliated Managers Group based in Massachusetts?
+",Are both Duke Energy and Affiliated Managers Group based in Massachusetts?,en, No,['no'],,32
+hotpotqa,b7af427ee230063a2aabb35691c7a81670c0b7e85ac3b7b2,Answer:,hotpotqa,11812,"Question: How many marchers were in the protest that Pelham D. Glassford ended? 
+",How many marchers were in the protest that Pelham D. Glassford ended? ,en," 43,000","['43,000 marchers']",,32
+hotpotqa,666b2401378aceb59c9a4d6cc75b006f7c6af8a00c7d6f19,Answer:,hotpotqa,12038,"Question: Where is the airline company that operated United Express Flight 3411 on April 9, 2017 on behalf of United Express headquartered?
+","Where is the airline company that operated United Express Flight 3411 on April 9, 2017 on behalf of United Express headquartered?",en," Republic Airline is headquartered in Indianapolis, Indiana.","['Indianapolis, Indiana']",,32
+hotpotqa,a2bb6c8de2a57c51b35e9d5c005cf46e1c0457f4086ef77d,Answer:,hotpotqa,9588,"Question: What was the first year a scientific journal published by an organization located in the Bronx was published?
+",What was the first year a scientific journal published by an organization located in the Bronx was published?,en, 1909,['1909'],,32
+hotpotqa,9fe92e20febe504670266d638939a94fc57c3cf8fe9cf948,Answer:,hotpotqa,6509,"Question: The owner of radio station KWPW has the same name as an American character actor. What is it?
+",The owner of radio station KWPW has the same name as an American character actor. What is it?,en, Bill McCutcheon,['Bill McCutcheon'],,32
+hotpotqa,203709148e7052e14bf493f95037458b606b42f2fff54c79,Answer:,hotpotqa,12402,"Question: Brigadier Stanley James Ledger Hill was attached to the command post of which senior British Army officer born on July 10, 1886?
+","Brigadier Stanley James Ledger Hill was attached to the command post of which senior British Army officer born on July 10, 1886?",en, Field Marshal Lord Gort,['Lord Gort'],,32
+hotpotqa,2bfda75e23447ca7e3213d01331c31816f30190a2ff6df71,Answer:,hotpotqa,10843,"Question: Bill Bryson grew up in a city that is the seat of which county ?
+",Bill Bryson grew up in a city that is the seat of which county ?,en, Polk County,['Polk County'],,32
+hotpotqa,f1ea70c4e2c13d2fda1feda75a72a345c0e91f083220e95a,Answer:,hotpotqa,10994,"Question: Who was the last monarch of England to be overthrown before The English General Election, 1690?
+","Who was the last monarch of England to be overthrown before The English General Election, 1690?",en, James II,['King James II of England'],,32
+hotpotqa,60ec93a22fbcb65eeadd9f1d2b3c8e4ed44d3a2c4285b168,Answer:,hotpotqa,8209,"Question: What song from the fourth studio album made by The Who reached No.4 on the UK charts and No. 19 o nthe U.S. ""Billboard"" Hot 100?
+","What song from the fourth studio album made by The Who reached No.4 on the UK charts and No. 19 o nthe U.S. ""Billboard"" Hot 100?",en, Pinball Wizard,['Tommy'],,32
+hotpotqa,bcd98af30c2eb7ce1233459715d27f428b111d12fea529b4,Answer:,hotpotqa,6055,"Question: Angelspit toured the United States with an American electronic music duo from Orlando, Florida, that formed in what year?
+","Angelspit toured the United States with an American electronic music duo from Orlando, Florida, that formed in what year?",en, 2006,['2006'],,32
+hotpotqa,4636487a1855382398fe1e54284cb7dd3d7b8d178ac4a476,Answer:,hotpotqa,11592,"Question: Migene González-Wippler is leading expert on a religion that developed among which ethnic group ?
+",Migene González-Wippler is leading expert on a religion that developed among which ethnic group ?,en, Afro-Cuban communities following the Atlantic slave trade of the 16th to 19th centuries.,['West African descendants'],,32
+hotpotqa,a93aa642fb8802a99b36cd62febe1c4e995096a9320b00c5,Answer:,hotpotqa,11463,"Question: Henry Roth and Lewis Mumford are both this nationality?
+",Henry Roth and Lewis Mumford are both this nationality?,en, American,['American'],,32
+hotpotqa,9336554e511e88766228ffa1acd1c6f82c9a41046514c253,Answer:,hotpotqa,12353,"Question: Who did Fredric Rieders tesify agains who had killed as many as 60 patients and recieved three consecutive life terms to be served in Florence Colorado?
+",Who did Fredric Rieders tesify agains who had killed as many as 60 patients and recieved three consecutive life terms to be served in Florence Colorado?,en, Michael Swango,['Michael Swango'],,32
+hotpotqa,fbd2e6218ec7c8fc1a90b05bf6858a15d376704a278fa79f,Answer:,hotpotqa,10626,"Question: Who was born first, Juan Rulfo or John le Carré?
+","Who was born first, Juan Rulfo or John le Carré?",en, Juan Rulfo,['Juan Rulfo'],,32
+hotpotqa,0aaabfd136117761896b5931d7b468ff8c61909e00140470,Answer:,hotpotqa,11201,"Question: Where is the company that created Doravirine ( from?
+",Where is the company that created Doravirine ( from?,en, Merck & Co.,['American'],,32
+hotpotqa,d18fde9d0b8da2a2febb67a679847ee4ee3259e85a9565f4,Answer:,hotpotqa,8030,"Question: What year was the author of Cock and Bull born? 
+",What year was the author of Cock and Bull born? ,en, 1961,['1961'],,32
+hotpotqa,5affd6b287c8ce97502760e33a71598e8eee24b78c3dd95c,Answer:,hotpotqa,11879,"Question: On May 25, 2017 Greg Gianforte won the special election following the resignation of a politican that current holds what position?
+","On May 25, 2017 Greg Gianforte won the special election following the resignation of a politican that current holds what position?",en, U.S. Secretary of the Interior,['United States Secretary of the Interior'],,32
+hotpotqa,56dbceaf2e826fbb177035f03d7a263d62365856f21f39da,Answer:,hotpotqa,11993,"Question: The Red Queen's Race is a science fiction short story that uses the Red Queen's race from a novel by Lewis Carroll that is the sequel to what?
+",The Red Queen's Race is a science fiction short story that uses the Red Queen's race from a novel by Lewis Carroll that is the sequel to what?,en, Alice's Adventures in Wonderland,"[""Alice's Adventures in Wonderland""]",,32
+hotpotqa,ee07a420f322205e992788e25c0b256cadcd99abd359ff0f,Answer:,hotpotqa,10968,"Question: What was the home city of the author of the famous novel tracing the life of a male roe deer from his birth onward?
+",What was the home city of the author of the famous novel tracing the life of a male roe deer from his birth onward?,en, Vienna,['Vienna'],,32
+hotpotqa,795ed5382ff9378f90123aedc2b638c049411295c5678466,Answer:,hotpotqa,10766,"Question: Are Tantrix and Personal Preference both types of games?
+",Are Tantrix and Personal Preference both types of games?,en, Yes,['yes'],,32
+hotpotqa,4d6aafffd109cb61fd543f44bda770fda0cf1e1c3798548b,Answer:,hotpotqa,3326,"Question: 1956 Night Series Cup games were played at what inner suburb of Melbourne that is 3km south of Melbourne's central business district?
+",1956 Night Series Cup games were played at what inner suburb of Melbourne that is 3km south of Melbourne's central business district?,en, Albert Park,['Albert Park'],,32
+hotpotqa,7528b0be35e8e6007f07c98b9f2d45ee1c854298134aba5c,Answer:,hotpotqa,8556,"Question: Sarah Price and Rob Schneider are both what profession? 
+",Sarah Price and Rob Schneider are both what profession? ,en, Filmmaker,['director'],,32
+hotpotqa,38bd41e515abf2a44d29c593748db043ba2276d93938fdad,Answer:,hotpotqa,8571,"Question: What rule-class city of 26,595 contains the neighborhood Plainview?
+","What rule-class city of 26,595 contains the neighborhood Plainview?",en, Jeffersontown,"['Jeffersontown, Kentucky']",,32
+hotpotqa,e54d1e07a1fc2ce2afdf7e75f79561d8fe0abd22f4d8bd53,Answer:,hotpotqa,11970,"Question: Who directed the film where Susanne Pollatschek voiced Olivia Flaversham?
+",Who directed the film where Susanne Pollatschek voiced Olivia Flaversham?,en," John Musker, Ron Clements, Dave Michener, and Burny Mattinson.","['Burny Mattinson, David Michener, and the team of John Musker and Ron Clements']",,32
+hotpotqa,034b6ac41cd902b7fbde6b304eb2930d8eea616924ba461f,Answer:,hotpotqa,8524,"Question: What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?
+",What public radio network in New York has allowed Eric Plakun to dis his psychiatric work?,en, WAMC,['WAMC'],,32
+hotpotqa,b4dfcf1c4f152ba5684531d0eaa43f33ec5b185b92a36884,Answer:,hotpotqa,11587,"Question: Don Holmes played for the football club that is based in what eastern suburb of Perth?
+",Don Holmes played for the football club that is based in what eastern suburb of Perth?,en, Bassendean,['Bassendean'],,32
+hotpotqa,1fd7df3ba224e985f87e976c7a4a67ddc1012a249a542bea,Answer:,hotpotqa,2491,"Question: Hardley Flood is an area of lagoons that support populations of the waterfowl that are a medium sized version of what animal?
+",Hardley Flood is an area of lagoons that support populations of the waterfowl that are a medium sized version of what animal?,en, duck,['duck'],,32
+hotpotqa,3faa54c1f192293c709684aa60c6e2e8cfe34ff55c8b6248,Answer:,hotpotqa,4266,"Question: Which is a shrub, Mimosa or Cryptocoryne?
+","Which is a shrub, Mimosa or Cryptocoryne?",en, Mimosa.,['Mimosa'],,32
+hotpotqa,9303f959145f198df63d2d7ec604a9d6efcb3e8daca89e91,Answer:,hotpotqa,11168,"Question: What types of activities occur in both the Bennington and Bridgewater Triangles?
+",What types of activities occur in both the Bennington and Bridgewater Triangles?,en," Paranormal phenomena, cult activity, animal mutilations, and sightings of supernatural creatures.",['alleged paranormal phenomena'],,32
+hotpotqa,a18c0ece7c2ae88d2f9f3ffc5eaa13297a1b5d0125a172ad,Answer:,hotpotqa,10145,"Question: Carlos Salazar Lomelín is the CEO of which Mexican multinational beverage retailer?
+",Carlos Salazar Lomelín is the CEO of which Mexican multinational beverage retailer?,en, Coca-Cola FEMSA,['Fomento Económico Mexicano'],,32
+hotpotqa,22a4122731366b93dd7495f9cb64b9312537fbe85797efbc,Answer:,hotpotqa,11526,"Question: Who stars in the title role of a Netflix show co-created by Robert Carlock?
+",Who stars in the title role of a Netflix show co-created by Robert Carlock?,en, Ellie Kemper,['Ellie Kemper'],,32
+hotpotqa,c16a3dd0b5b97180359715cab5c41d528cf2a99e2744f037,Answer:,hotpotqa,8413,"Question: Are Yut and Tsuro both board games?
+",Are Yut and Tsuro both board games?,en, Yes,['yes'],,32
+hotpotqa,d7d92c85b8becc33e60fc03507933f8eaf53b5e1067286de,Answer:,hotpotqa,3539,"Question: What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?
+","What is the name of this suburb within the Central Coast Council local government area, where Tessa, of Microwave Jenny, grew up?",en, Umina Beach,"['Umina Beach, New South Wales']",,32
+hotpotqa,480b33cc38878ea4fe81b796d09ba2d10cca554611e323ec,Answer:,hotpotqa,5487,"Question: What city in the Philippines is home to the Robinsons Galleria and the 4th largest shopping mall in the world?
+",What city in the Philippines is home to the Robinsons Galleria and the 4th largest shopping mall in the world?,en," Ortigas Center, Mandaluyong, Metro Manila",['Metro Manila'],,32
+hotpotqa,ad26b1fdaa97e8ef1c290a41a9151cc6b453756cb2715176,Answer:,hotpotqa,11738,"Question: What organization does Sandra Pizzarello and Doctorate have in common?
+",What organization does Sandra Pizzarello and Doctorate have in common?,en, Arizona State University,['University'],,32
+hotpotqa,78e73e15102e688a5b5f43155b11658907db8caa30fdb16e,Answer:,hotpotqa,1078,"Question: Did Qionghai or Suining  have a population of 658,798 in 2002? 
+","Did Qionghai or Suining  have a population of 658,798 in 2002? ",en, Suining,"['In 2002, Suining had a population of 658,798.']",,32
+hotpotqa,e5e18488f0e900206332a857f70da66dc59829937c913ff0,Answer:,hotpotqa,9597,"Question: What form of play does Yameen and Activision have in common?
+",What form of play does Yameen and Activision have in common?,en, None,['video game'],,32
+hotpotqa,887be3f3f2080532b3c0f1dc4d26be4f8a06030bf2e68a1a,Answer:,hotpotqa,8291,"Question: Are both Frank Lloyd and Olivier Assayas American film directors?
+",Are both Frank Lloyd and Olivier Assayas American film directors?,en, No,['no'],,32
+hotpotqa,2bf8384417cec2f1a2d43a2602326d90a97622d87898b1cc,Answer:,hotpotqa,8995,"Question: What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?
+",What was the nationality and profession of the person responsible for the concept of a dimensionless number in physics and engineering?,en," British, Physicist",['French mathematician and physicist'],,32
+hotpotqa,826474c90684b1813df9324f779959a5e060d1cfc893a85f,Answer:,hotpotqa,6337,"Question: Santa Bring My Baby Back was released on which fourth Elvis studio album in 1957?
+",Santa Bring My Baby Back was released on which fourth Elvis studio album in 1957?,en, Elvis' Christmas Album,"[""Elvis' Christmas Album""]",,32
+hotpotqa,54d1487358089d52613d8e6970c3efdd5c56d112159d2810,Answer:,hotpotqa,11365,"Question: Camp Courtney was named after the Major killed in action at the battle codenamed what?
+",Camp Courtney was named after the Major killed in action at the battle codenamed what?,en, Operation Iceberg,['Operation Iceberg'],,32
+hotpotqa,5748ce1eca37fc55596e58fcff71e45363396002d28e0af9,Answer:,hotpotqa,7563,"Question: Baraki Barak District is situated in the western part of a province whose capital is what?
+",Baraki Barak District is situated in the western part of a province whose capital is what?,en, Logar,['Puli Alam'],,32
+hotpotqa,302ee593ca790dfb2dcbfd4341817fc64f8d106f65f61867,Answer:,hotpotqa,4556,"Question: Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?
+",Who is a winner of the 2013 6 Hours of Silverstone a co-commentator for?,en, Allan McNish,['BBC Formula One'],,32
+hotpotqa,efc793ac73a0341a7cc35ea6872a89be3d4fed5f64c1e043,Answer:,hotpotqa,12021,"Question: The ""New York Times"" bestselling book ""The 50th Law"" contains lessons and anecdotes from this historical figure who was a classical Greek (Athenian) philosopher who is known mainly through the writings of which philosopher?
+","The ""New York Times"" bestselling book ""The 50th Law"" contains lessons and anecdotes from this historical figure who was a classical Greek (Athenian) philosopher who is known mainly through the writings of which philosopher?",en, Plato,['Plato'],,32
+hotpotqa,b3647c02310a89ccb2822c163da3bead1ad3cd21948d4769,Answer:,hotpotqa,12338,"Question: Where is the host of the American survival skills reality show, The Island, originally from?
+","Where is the host of the American survival skills reality show, The Island, originally from?",en, Northern Ireland,['Northern Ireland'],,32
+hotpotqa,dc14a859291c1d678432626f6f7974f8ecca536f4b7bdd6c,Answer:,hotpotqa,11449,"Question: Who was born later, Jerry Garcia or Joe Gooch?
+","Who was born later, Jerry Garcia or Joe Gooch?",en, Joe Gooch,['Joe Gooch'],,32
+hotpotqa,75d66ce7bb5fbcea2d942895c0b10144ba9a94282e2e9f15,Answer:,hotpotqa,7658,"Question: What do Lavinia Greenlaw and Nâzım Hikmet have in common?
+",What do Lavinia Greenlaw and Nâzım Hikmet have in common?,en, They are both poets.,['poet and novelist'],,32
+hotpotqa,ea58013717bdbe9f0bad1991ed03d1afe3208bf514d9a2cd,Answer:,hotpotqa,10664,"Question: Le Rêve was created by the director behind what Cirque du Soleil production from 1998 onward?
+",Le Rêve was created by the director behind what Cirque du Soleil production from 1998 onward?,en, O,['O'],,32
+hotpotqa,228572a285ddcbb4947f362c07531238d1eec58e0fe0cfc6,Answer:,hotpotqa,11934,"Question: Where is the University Joe Odom played football for located?
+",Where is the University Joe Odom played football for located?,en, Purdue University,"['West Lafayette, Indiana']",,32
+hotpotqa,1650b91e6fb722111b6461fc9524295246c3bd3b1a342267,Answer:,hotpotqa,11398,"Question: Roger Stuart Woolhouse is a biographer of a philosopher commonly known as what ?
+",Roger Stuart Woolhouse is a biographer of a philosopher commonly known as what ?,en, John Locke,['Father of Liberalism'],,32
+hotpotqa,e9b828ee7169d1978f3bcb6de5bbb0f54f9ee3bfc0ffdb8b,Answer:,hotpotqa,12544,"Question: National Firearms Agreement was in response to the Port Arthur massacre that killed how many people?
+",National Firearms Agreement was in response to the Port Arthur massacre that killed how many people?,en, 35,['35 people'],,32
+hotpotqa,88b095fb93df1d962625daa1796a46ce4721c316b0ab819b,Answer:,hotpotqa,12082,"Question: The telenova ""El Ardiente Secreto"" was based ona novel published under what pen name?
+","The telenova ""El Ardiente Secreto"" was based ona novel published under what pen name?",en, Jane Eyre,"['""Currer Bell""']",,32
+hotpotqa,690c31a6d6263dacd649fefc5b5cfa94210205fdcdb43905,Answer:,hotpotqa,12023,"Question: Are both French Spaniel and Beagle universally recognized breeds?
+",Are both French Spaniel and Beagle universally recognized breeds?,en, No,['no'],,32
+hotpotqa,e9348ea3d217789522ba17d5dd2c69c01bacc9d677c614a4,Answer:,hotpotqa,9364,"Question: In what year did the Tornoto International Film Fesitval premiere a movie produced by BBC Films?
+",In what year did the Tornoto International Film Fesitval premiere a movie produced by BBC Films?,en, 2014,['2011'],,32
+hotpotqa,781060824875cb0343a110f5e6f83d46e638cbb89e2ad7c6,Answer:,hotpotqa,7336,"Question: The FIBT World Championships 1960 took place in a town located in which part of Italy ?
+",The FIBT World Championships 1960 took place in a town located in which part of Italy ?,en, The Veneto region of Northern Italy.,['the Veneto region of Northern Italy'],,32
+hotpotqa,8e9e0bac1908657b2f48452fe70dd4f7ab765b9633b75627,Answer:,hotpotqa,11723,"Question: When was the club formed, for which Adam  Johnson played as well as Middlesbrough and Watford ?
+","When was the club formed, for which Adam  Johnson played as well as Middlesbrough and Watford ?",en, 1904,['1919'],,32
+hotpotqa,e8ba4badc3c5d30cc0942ede8df86a72257c492c07025dab,Answer:,hotpotqa,9898,"Question: In modern history of Syria this kingdom lasted for only four months, this kingdom surrendered to who?
+","In modern history of Syria this kingdom lasted for only four months, this kingdom surrendered to who?",en, French forces,['French'],,32
+hotpotqa,3f17f12cfde4c677f3af81362ce1df42f949bee1ceae40f4,Answer:,hotpotqa,10206,"Question: An American who is a German literature translator and did a thesis on an Austrian prodigy born in 1874 taught at which university?
+",An American who is a German literature translator and did a thesis on an Austrian prodigy born in 1874 taught at which university?,en, The University of Vienna,['University of Vienna'],,32
+hotpotqa,83df22880fee9f761464404ca2ff6ab21954e6b0827b4142,Answer:,hotpotqa,11179,"Question: What past honoree from the New Dramatists Organization is a powerful baritone who won the Tony Award for Best Actor in 2000?
+",What past honoree from the New Dramatists Organization is a powerful baritone who won the Tony Award for Best Actor in 2000?,en, Brian Stokes Mitchell,['Brian Stokes Mitchell'],,32
+hotpotqa,3518c800877d0b8cc48ca575de745502b472a139564ffa46,Answer:,hotpotqa,8723,"Question: 3 Arts Entertainment had at least one coalition with what streaming service, with its 13-episode, 2015 season of a Tina Fey created sitcom?
+","3 Arts Entertainment had at least one coalition with what streaming service, with its 13-episode, 2015 season of a Tina Fey created sitcom?",en, Netflix,['Netflix'],,32
+hotpotqa,3acb0cc0a04a3f71078ee120e1b7ca4f089548b7cc8a8056,Answer:,hotpotqa,4374,"Question: Were the board games, Clans and Drunter und Drüber, both created by Leo Colovini?
+","Were the board games, Clans and Drunter und Drüber, both created by Leo Colovini?",en, Yes,['Drunter und Drüber is a multiplayer board game invented by Klaus Teuber'],,32
+hotpotqa,90caafc7fe51eee4143874971f67bb3e0107d26179c437f7,Answer:,hotpotqa,4002,"Question: Broadbent Arena and Freedom Hall are landmarks of which U.S. city?
+",Broadbent Arena and Freedom Hall are landmarks of which U.S. city?,en," Louisville, Kentucky",['Louisville'],,32
+hotpotqa,8fddd32ef1d88a5f8fde49152fc015eb80b3d60d1108d073,Answer:,hotpotqa,12183,"Question: What side-scrolling platform game had Christian Whitehead as project lead?
+",What side-scrolling platform game had Christian Whitehead as project lead?,en, Sonic Mania,['Sonic Mania'],,32
+hotpotqa,bb5fb55b76b2e47a59f48907aca9db96fafabd5b874e83cf,Answer:,hotpotqa,11862,"Question: Which racecar driver who performed in the 1971 Canadian Grand Prix was born in 1937?
+",Which racecar driver who performed in the 1971 Canadian Grand Prix was born in 1937?,en, Mark Donohue,['Mark Neary Donohue Jr.'],,32
+hotpotqa,e0a5da9581af9a4a573423cbdcf207c5436dc35ff8a9d380,Answer:,hotpotqa,7725,"Question: What career led Brandon James Routh to move to the city where Brian Ralston lives?
+",What career led Brandon James Routh to move to the city where Brian Ralston lives?,en, Acting,['an acting career'],,32
+hotpotqa,d136a5063f8e7f5594182b51b05d626ca0671aea2ba22226,Answer:,hotpotqa,6236,"Question: What was the first film scored by the man who composed the soundtrack for Udhayam NH4?
+",What was the first film scored by the man who composed the soundtrack for Udhayam NH4?,en, Veyil (2006),['Veyyil'],,32
+hotpotqa,07f505d321fd7a7c04e158059cb69ac3ac7ecdebfb03037d,Answer:,hotpotqa,7355,"Question: What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?
+",What is the day of the horse race of which ESPN covers both the post position draw and the undercard races?,en, The Kentucky Derby,['Saturday'],,32
+hotpotqa,019dbd177ddcff6752aaabc8c0e459f3ae4003f718bd672b,Answer:,hotpotqa,8104,"Question: Kevin Yorn an American entertainment attorney who represents an Australian actor who  played the role of Josh Taylor in what soap opera?
+",Kevin Yorn an American entertainment attorney who represents an Australian actor who  played the role of Josh Taylor in what soap opera?,en, Neighbours,['Neighbours'],,32
+hotpotqa,a1cce86489841f2514678029dbe95b7289b9d47f52f44939,Answer:,hotpotqa,7675,"Question: What stagecoach robber did Frederick John Fulton prosecute?
+",What stagecoach robber did Frederick John Fulton prosecute?,en, Bill Miner,['Bill Miner'],,32
+hotpotqa,4b753aee2d76b79f12f1b8708dd61bde51405af6fe602520,Answer:,hotpotqa,10454,"Question: H-63 is a highway that runs near the county seat of what Michigan county?
+",H-63 is a highway that runs near the county seat of what Michigan county?,en, Chippewa County,['Chippewa County'],,32
+hotpotqa,0118217cf85bd94f6a5f65952212eb05e7176fd3b18c694a,Answer:,hotpotqa,10535,"Question: The arena where the Lewiston Maineiacs played their home games can seat how many people?
+",The arena where the Lewiston Maineiacs played their home games can seat how many people?,en," 4,000","['3,677 seated']",,32
+hotpotqa,c9f8b2166f7c44bf2e0843b2c77fb9fa5738af275555ca73,Answer:,hotpotqa,2496,"Question: Which ocean would the ingredients likely come from for the She-crab soup?
+",Which ocean would the ingredients likely come from for the She-crab soup?,en, Atlantic Ocean,['Atlantic Ocean'],,32
+hotpotqa,a3859ad1c8ffbce9bb2952f83cb463cc7051072c38eb8d70,Answer:,hotpotqa,11183,"Question: What profession do Raj Kapoor and Mike Cahill share?
+",What profession do Raj Kapoor and Mike Cahill share?,en, Filmmaker,['director'],,32
+hotpotqa,4567b6935bf5c64a1974b1089d67d176d9acac6b29836cb7,Answer:,hotpotqa,2808,"Question: The 2011 La Manga Cup was won by Viking, who beat which Norwegian football club from the town of Kristiansand, currently playing in Tippeligaen having been promoted from Adeccoligaen in 2012?
+","The 2011 La Manga Cup was won by Viking, who beat which Norwegian football club from the town of Kristiansand, currently playing in Tippeligaen having been promoted from Adeccoligaen in 2012?",en, Start,['IK Start'],,32
+hotpotqa,f327fe18cfe320df9685d7195f33d41745a432e769476dd0,Answer:,hotpotqa,11434,"Question: What colors are worn by the Oregon Duck, mascot of the University of Oregon athletic teams?
+","What colors are worn by the Oregon Duck, mascot of the University of Oregon athletic teams?",en, Green and yellow.,['green and yellow'],,32
+hotpotqa,4cdf613f05eaa834f5867ee486ec94d47587f09b5a7bb6db,Answer:,hotpotqa,10461,"Question: What is the character of fictional character Claire Fraser in a British-American television drama series developed by Ronald D. Moore ?
+",What is the character of fictional character Claire Fraser in a British-American television drama series developed by Ronald D. Moore ?,en, A married World War II nurse who finds herself transported back in time to 1743 Scotland where she meets and falls in love with the dashing Highland warrior Jamie Fraser.,['Claire is a married World War II nurse'],,32
+hotpotqa,1df269c3eca341348a837f39c628f59aa40d663c07875d24,Answer:,hotpotqa,11212,"Question: For what ogranization does a commentator of Press TV serve as associate director?
+",For what ogranization does a commentator of Press TV serve as associate director?,en, The Royal Ballet,['Henry Jackson Society'],,32
+hotpotqa,d6fe5bc54941b566b3c88598bbc459ee4d7098d6c6f22c4d,Answer:,hotpotqa,10878,"Question: What else was Baghdad known as during the Abbasid Caliphate?
+",What else was Baghdad known as during the Abbasid Caliphate?,en, The City of Peace,['the City of Peace'],,32
+hotpotqa,d3249d0550c7105bdd4ed60c9ca9d955db08d362574c2086,Answer:,hotpotqa,10355,"Question: Leonard Logsdail had a cameo role in the biographical film directed by whom?
+",Leonard Logsdail had a cameo role in the biographical film directed by whom?,en, Martin Scorsese,['Martin Scorsese'],,32
+hotpotqa,7d3bc2e36b406094cb586b4eeb07f13a7f1ac9dfbdce7d1f,Answer:,hotpotqa,11419,"Question: Which composer was wrote his music most recently, Michael Tippett or Luigi Cherubini?
+","Which composer was wrote his music most recently, Michael Tippett or Luigi Cherubini?",en, Michael Tippett,['Michael Kemp Tippett'],,32
+hotpotqa,bf8ee342564ae21a17b169023f83a20220a63198827a0232,Answer:,hotpotqa,10063,"Question: The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?
+",The Panel with striding lion  was one of many that lined the way north of the gate to the inner city of what location?,en, Babylon,['Babylon'],,32
+hotpotqa,c274ce731f680eb107c70386e2e341615378165ecc22799e,Answer:,hotpotqa,4660,"Question: What Lithuanian producer is best known for a song that was one of the most popular songs in Ibiza in 2014?
+",What Lithuanian producer is best known for a song that was one of the most popular songs in Ibiza in 2014?,en, Ten Walls.,['Ten Walls'],,32
+hotpotqa,861e7d3ba836f6a816d0265dc1c9f5566ef4d22b8de223ca,Answer:,hotpotqa,11780,"Question: John Paesano wrote which film for DreamWorks Dragons?
+",John Paesano wrote which film for DreamWorks Dragons?,en, None of the passages mention John Paesano writing a film for DreamWorks Dragons.,['Dragons: Riders of Berk'],,32
+hotpotqa,6c64a81fa526cb96d0a191d9cbd85a7e917b5d4f03b316d7,Answer:,hotpotqa,10058,"Question: The player who laid motionless for ten minutes in the Todd Bertuzzi–Steve Moore incident was born in which year ?
+",The player who laid motionless for ten minutes in the Todd Bertuzzi–Steve Moore incident was born in which year ?,en, 1978,['1978'],,32
+hotpotqa,b84411acb9b2e39a68f92ed9e164eb053d3dd9ba4160f0af,Answer:,hotpotqa,5595,"Question: Who had the lowest vocal range in Cosmos?
+",Who had the lowest vocal range in Cosmos?,en, Not found in the given passages.,['Jānis Strazdiņš'],,32
+hotpotqa,de202b6e76dc82831c7f14a6d4346d84b0c0e5e3783356cf,Answer:,hotpotqa,11759,"Question: Havelock Ellis and Arnold Bennett were both what?
+",Havelock Ellis and Arnold Bennett were both what?,en, Writers and social reformers.,['writer'],,32
+hotpotqa,e0873e8c51c3e473d614f6ff9705557ec2f37972ec4be718,Answer:,hotpotqa,11577,"Question: In 135 BC, a second campaign was sent to intervene in a war between Minyue and another ancient kingdom established at the collapse of whom?
+","In 135 BC, a second campaign was sent to intervene in a war between Minyue and another ancient kingdom established at the collapse of whom?",en, the Qin dynasty,['the Qin dynasty'],,32
+hotpotqa,c1cfe7334235bf4a9ef11293d8be2d4055a70ac89334be2c,Answer:,hotpotqa,4400,"Question: What title did the author of Det norske Theater's first production hold ? 
+",What title did the author of Det norske Theater's first production hold ? ,en, Holberg,['Baron of Holberg'],,32
+hotpotqa,de89026c970fbb6dff04176107b9cf20407d155bc1ae2eec,Answer:,hotpotqa,8698,"Question: Where did the punter for the Dallas Cowboys in the 1980s play college football?
+",Where did the punter for the Dallas Cowboys in the 1980s play college football?,en, University of Mississippi,['Arizona State University'],,32
+hotpotqa,c6c1401ec6e635eac28b985621cf59bde9e416cac2b30080,Answer:,hotpotqa,9019,"Question: Are Dutch Smoushond and Sussex Spaniel's both dog breeds?
+",Are Dutch Smoushond and Sussex Spaniel's both dog breeds?,en, Yes,['yes'],,32
+hotpotqa,3ece2c87c1ddea4a504fd1c67fe75d34ca8f818bd9ea15d0,Answer:,hotpotqa,8396,"Question: Which band, Matthew Good Band or Switchfoot is still together?
+","Which band, Matthew Good Band or Switchfoot is still together?",en, Switchfoot,['Switchfoot'],,32
+hotpotqa,ce14f5dd15a5819d08a11f04e015e35a6f3640119973f806,Answer:,hotpotqa,11276,"Question: Are Portland International Airport and Gerald R. Ford International Airport both located in Oregon?
+",Are Portland International Airport and Gerald R. Ford International Airport both located in Oregon?,en, No,['no'],,32
+hotpotqa,d3b2acfdec13f925424cd7d96b689557edfd08e6dd6177b7,Answer:,hotpotqa,10564,"Question: Who won more awards, Brothers Quay or Jake Kasdan?
+","Who won more awards, Brothers Quay or Jake Kasdan?",en, Brothers Quay,['Brothers Quay'],,32
+hotpotqa,c5d6aa8cb0ad17a88eb66d578e86f783e3ac1f3684df9425,Answer:,hotpotqa,5636,"Question: How long is the river The Atherton Bridge spans?
+",How long is the river The Atherton Bridge spans?,en, 72 feet,['37.5'],,32
+hotpotqa,31386c51d334a83befff8c1264657e197fad8b2885906939,Answer:,hotpotqa,6763,"Question: Why is Bangor Daily News talkin about Sawin Millett?
+",Why is Bangor Daily News talkin about Sawin Millett?,en, Bangor Daily News is not talking about Sawin Millett.,['Commissioner by the Maine Senate'],,32
+hotpotqa,27190bb50ab7e97f74e2feec7dc3ef037f1a1c74d335ecb1,Answer:,hotpotqa,11053,"Question: Who did the actor that plays Sean Tully defeat in a dancing contest?
+",Who did the actor that plays Sean Tully defeat in a dancing contest?,en, He won Let's Dance for Comic Relief.,['Jodie Prenger'],,32
+hotpotqa,b524574cca42824f963480aae00867719108113389d087d3,Answer:,hotpotqa,11460,"Question: What river does Waterloo Bridge and London Eye have in common?
+",What river does Waterloo Bridge and London Eye have in common?,en, The River Thames.,['Thames'],,32
+hotpotqa,d3b197d5b4da1198fc9c232524faced0f528b89f919b8061,Answer:,hotpotqa,3506,"Question: Which is a beauty magazine, Allure or Claudia?
+","Which is a beauty magazine, Allure or Claudia?",en, Both,['Allure'],,32
+hotpotqa,0d6a7aae6f7e00180107c47a73dedda18caf3949666c4d55,Answer:,hotpotqa,8113,"Question: Which American actor portray Steve Urkel in ""Family Matters""
+","Which American actor portray Steve Urkel in ""Family Matters""",en, Jaleel White,['Jaleel Ahmad White'],,32
+hotpotqa,c5f1f53de09eb82eae93ae68a9581141a8cc8f3df6851926,Answer:,hotpotqa,5091,"Question: What lake in Australia is named after a Scottish Knight?
+",What lake in Australia is named after a Scottish Knight?,en, Lake Wallace,['Lake Wallace'],,32
+hotpotqa,5fc84dadeb648a27c3aaa64698a5bec5d2ef23eb32e22e44,Answer:,hotpotqa,11685,"Question: How many records did the singer who sang ""Four Seasons of Love"" sell worldwide?
+","How many records did the singer who sang ""Four Seasons of Love"" sell worldwide?",en, Over 100 million records worldwide.,['140 million'],,32
+hotpotqa,40b5d54934bcf22bb9267e605c49d46509f3bd41b1a34c31,Answer:,hotpotqa,7720,"Question: what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy ""Two Episodes of Mash""
+","what is the group called that Dianne Morgan and Joe Wilkinson a part of in the BBC comedy ""Two Episodes of Mash""",en, Two Episodes of Mash,['the deadpan sketch group'],,32
+hotpotqa,c9ee71b5dc7f5a4538d7727c95f80c174d3c9819dfbeac5a,Answer:,hotpotqa,10424,"Question: The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?
+",The 53rd National Hockey League All-Star Game took place at the indoor arena that was completed in what year?,en, 1998,['1998'],,32
+hotpotqa,4670f2a542ac06d27e47a74a042cf57f743fba34722a7dc5,Answer:,hotpotqa,2412,"Question: What is the first name of the author who wrote the play in which Rønnaug Alten made her stage debut at Den Nationale Scene in 1930 as ""Viola""?
+","What is the first name of the author who wrote the play in which Rønnaug Alten made her stage debut at Den Nationale Scene in 1930 as ""Viola""?",en, William,['William'],,32
+hotpotqa,f2da37b927d3f8ce752b69d7149a6eb31aa738d123f8fdb6,Answer:,hotpotqa,11900,"Question: Which artist is known for his work on Marvel Team-Up and Batman: Son of the Demon?
+",Which artist is known for his work on Marvel Team-Up and Batman: Son of the Demon?,en, Jerry Bingham,"['Gerald ""Jerry"" Joseph Bingham, Jr.']",,32
+hotpotqa,5da42038bb9d29bb30e4094504ad06dc2d43afa373568686,Answer:,hotpotqa,3777,"Question: Are both Kaiping and Pingxiang, Guangxi located in Guandong Province?
+","Are both Kaiping and Pingxiang, Guangxi located in Guandong Province?",en, No,['no'],,32

@@ -1,0 +1,200 @@
+{"task": "2wikimqa", "index": 0, "answers": ["Ozalj"], "predictions": {"3": "Gyulafehérvár, Transylvania", "4": "Gyulafehérvár, Transylvania"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 1, "answers": ["John the Baptist"], "predictions": {"3": "Elizabeth", "4": "Elizabeth"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 2, "answers": ["Cahiers du cinéma"], "predictions": {"3": "The director of film Man At Bath is Christophe Honoré.", "4": "Paris"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 3, "answers": ["no"], "predictions": {"3": "Yes", "4": "No"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 4, "answers": ["1510"], "predictions": {"3": "1532", "4": "c. 1532"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 5, "answers": ["Edward Watson"], "predictions": {"3": "George Sondes, 1st Earl of Feversham", "4": "George Sondes, 1st Earl of Feversham"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 6, "answers": ["16 September 1360"], "predictions": {"3": "1341", "4": "1341"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 7, "answers": ["Cunimund"], "predictions": {"3": "Rosamund", "4": "Alboin"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 8, "answers": ["St Patrick's College"], "predictions": {"3": "St Patrick's College, Dublin", "4": "St Patrick's College, Dublin."}, "scores": {"3": 0.8571428571428571, "4": 0.8571428571428571}}
+{"task": "2wikimqa", "index": 9, "answers": ["Bob Jones University"], "predictions": {"3": "Bob Jones University", "4": "Bob Jones University"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 10, "answers": ["The House Of The Seven Hawks"], "predictions": {"3": "The House Of The Seven Hawks", "4": "The House Of The Seven Hawks"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 11, "answers": ["Marie of Hohenstaufen"], "predictions": {"3": "Marie of Hohenstaufen", "4": "Marie of Brabant, Queen of France's paternal grandmother is Marie of Brabant."}, "scores": {"3": 1.0, "4": 0.26666666666666666}}
+{"task": "2wikimqa", "index": 12, "answers": ["Guy II, Count of Soissons"], "predictions": {"3": "William Busac", "4": "William Busac"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 13, "answers": ["26 April 1872"], "predictions": {"3": "26 April 1872", "4": "1837"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 14, "answers": ["America"], "predictions": {"3": "United States", "4": "United States"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 15, "answers": ["Ona Munson"], "predictions": {"3": "Edward Buzzell", "4": "Edward Buzzell"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 16, "answers": ["The Death Of Black King"], "predictions": {"3": "Indradhanura Chhai", "4": "Indradhanura Chhai"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 17, "answers": ["no"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 18, "answers": ["no"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 19, "answers": ["Mysore"], "predictions": {"3": "Mysore", "4": "Mysore."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 20, "answers": ["Kristiania"], "predictions": {"3": "Hamar", "4": "Hamar"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 21, "answers": ["Lee Strasberg Theatre and Film Institute"], "predictions": {"3": "The Lee Strasberg Theatre and Film Institute", "4": "The Lee Strasberg Theatre and Film Institute."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 22, "answers": ["Hell Up In Harlem"], "predictions": {"3": "Hell Up In Harlem", "4": "Larry Cohen was born in 1936 and directed Hell Up In Harlem in 1973. Edvīns Šnore was born in 1974 and"}, "scores": {"3": 1.0, "4": 0.32}}
+{"task": "2wikimqa", "index": 23, "answers": ["Cipriano Castro"], "predictions": {"3": "Cipriano Castro was born on 12 October 1858 and Damir Nikšić was born on 6 December 1970.", "4": "Cipriano Castro"}, "scores": {"3": 0.21052631578947367, "4": 1.0}}
+{"task": "2wikimqa", "index": 24, "answers": ["Monster On The Campus"], "predictions": {"3": "Jack Arnold", "4": "Jack Arnold"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 25, "answers": ["Altuğ Çelikbilek"], "predictions": {"3": "Altuğ Çelikbilek", "4": "Altuğ Çelikbilek"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 26, "answers": ["Jugband Blues"], "predictions": {"3": "Jugband Blues", "4": "Jugband Blues"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 27, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 28, "answers": ["Leustach Rátót"], "predictions": {"3": "Rathold Rátót", "4": "Rathold Rátót"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "2wikimqa", "index": 29, "answers": ["Nepal"], "predictions": {"3": "Kathmandu Valley", "4": "Kathmandu Valley"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 30, "answers": ["Archibald Acheson, 2nd Earl of Gosford"], "predictions": {"3": "Arthur Acheson, 1st Earl of Gosford", "4": "Arthur Acheson, 1st Earl of Gosford"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 31, "answers": ["Jean Paul Getty"], "predictions": {"3": "John Paul Getty Jr.", "4": "John Paul Getty"}, "scores": {"3": 0.5714285714285715, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 32, "answers": ["Goring-on-Thames, Oxfordshire"], "predictions": {"3": "There is no information about the performer of the song \"Fantasy\" by George Michael dying.", "4": "Goring-on-Thames, Oxfordshire"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 33, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 34, "answers": ["Wooden Crosses"], "predictions": {"3": "Raymond Bernard was born in 1891 and Stefan Schwartz was born in 1963.", "4": "Raymond Bernard, the director of Wooden Crosses, was born in 1891. Stefan Schwartz, the director of The Abduction Club, was born in"}, "scores": {"3": 0.0, "4": 0.1904761904761905}}
+{"task": "2wikimqa", "index": 35, "answers": ["Above Rubies"], "predictions": {"3": "Above Rubies (1932)", "4": "Above Rubies (1932)"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "2wikimqa", "index": 36, "answers": ["Blue Blood And Red"], "predictions": {"3": "Raoul Walsh", "4": "The Longshot"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 37, "answers": ["Castlemaine, Victoria, Australia"], "predictions": {"3": "Castlemaine, Victoria, Australia", "4": "Perth, Western Australia"}, "scores": {"3": 1.0, "4": 0.3333333333333333}}
+{"task": "2wikimqa", "index": 38, "answers": ["Lyudmyla Olyanovska"], "predictions": {"3": "Paul De Scherff (14 July 1820) was born earlier than Lyudmyla Olyanovska (20 February 1993).", "4": "Lyudmyla Olyanovska"}, "scores": {"3": 0.23529411764705882, "4": 1.0}}
+{"task": "2wikimqa", "index": 39, "answers": ["Constantinople"], "predictions": {"3": "Yıldız Palace", "4": "Yıldız Palace"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 40, "answers": ["East Francia"], "predictions": {"3": "Alemannia", "4": "Alemannia"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 41, "answers": ["Henry Goes Arizona"], "predictions": {"3": "Henry Goes Arizona", "4": "Edwin L. Marin directed Henry Goes Arizona."}, "scores": {"3": 1.0, "4": 0.6}}
+{"task": "2wikimqa", "index": 42, "answers": ["United Kingdom"], "predictions": {"3": "United Kingdom", "4": "United Kingdom"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 43, "answers": ["All-American Co-Ed"], "predictions": {"3": "Lagu Kenangan", "4": "Lagu Kenangan"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 44, "answers": ["Buenos Aires"], "predictions": {"3": "Argentina", "4": "Buenos Aires"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 45, "answers": ["Charlotte Amalie of Hesse-Kassel"], "predictions": {"3": "Magdalena Sibylla of Holstein-Gottorp", "4": "Magdalene Sibylle of Holstein-Gottorp"}, "scores": {"3": 0.25, "4": 0.25}}
+{"task": "2wikimqa", "index": 46, "answers": ["Brunswick"], "predictions": {"3": "Stahleck Castle", "4": "Stahleck Castle"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 47, "answers": ["Vibia Sabina"], "predictions": {"3": "Rupilia", "4": "Empress Faustina the Elder"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 48, "answers": ["Bajo Otro Sol"], "predictions": {"3": "1988", "4": "Bajo Otro Sol"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 49, "answers": ["Marie Laforêt"], "predictions": {"3": "Lisa Azuelos", "4": "Marie Laforêt"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 50, "answers": ["Sandra Nelson"], "predictions": {"3": "Sharon Stone", "4": "There is no information about the spouse of the director of the film Streets Of Blood in the given passages."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 51, "answers": ["May 19, 1669"], "predictions": {"3": "2 March 1702", "4": "2 March 1702"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 52, "answers": ["Palencia"], "predictions": {"3": "León", "4": "León"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 53, "answers": ["Miley Naa Miley Hum"], "predictions": {"3": "Miley Naa Miley Hum", "4": "Miley Naa Miley Hum"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 54, "answers": ["Tom Mix In Arabia"], "predictions": {"3": "Lynn Reynolds", "4": "Tom Mix In Arabia"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 55, "answers": ["Seven In The Sun"], "predictions": {"3": "Seven In The Sun", "4": "Seven In The Sun"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 56, "answers": ["Dr. Socrates"], "predictions": {"3": "Dr. Socrates", "4": "Dr. Socrates"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 57, "answers": ["Changeland"], "predictions": {"3": "Changeland", "4": "Changeland"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 58, "answers": ["Ruel Redinger"], "predictions": {"3": "Ruel Redinger", "4": "Ruel Redinger"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 59, "answers": ["Alexandra Kolosova"], "predictions": {"3": "Vasily Karatygin", "4": "Vasily Karatygin"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 60, "answers": ["Jessi Colter"], "predictions": {"3": "Waylon Jennings", "4": "Maria Elena Holly"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 61, "answers": ["yes"], "predictions": {"3": "No", "4": "Yes"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 62, "answers": ["William Pooley"], "predictions": {"3": "Erich Haenisch died on 21 December 1966, and William Pooley died on 5 August 1629.", "4": "Erich Haenisch"}, "scores": {"3": 0.23529411764705882, "4": 0.0}}
+{"task": "2wikimqa", "index": 63, "answers": ["Sweden"], "predictions": {"3": "Swedish", "4": "Swedish"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 64, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 65, "answers": ["Melody Of The World"], "predictions": {"3": "Ladies Love Danger", "4": "Melody Of The World"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 66, "answers": ["Madrid"], "predictions": {"3": "Seville", "4": "Seville."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 67, "answers": ["Gisela Elsner"], "predictions": {"3": "Oskar Roehler's mother is not mentioned in the passage.", "4": "Oskar Roehler"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 68, "answers": ["La Belle Américaine"], "predictions": {"3": "The Great Man'S Lady", "4": "The Great Man's Lady"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 69, "answers": ["Oklahoma City, Oklahoma"], "predictions": {"3": "Oklahoma City, Oklahoma", "4": "Oklahoma City, Oklahoma"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 70, "answers": ["Dubai"], "predictions": {"3": "Dubai", "4": "Dubai"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 71, "answers": ["La Trinité"], "predictions": {"3": "Nekfeu was born in La Trinité, a commune within the Nice metropolitan area.", "4": "La Trinité, a commune within the Nice metropolitan area."}, "scores": {"3": 0.3076923076923077, "4": 0.4444444444444445}}
+{"task": "2wikimqa", "index": 72, "answers": ["Prince Albert of Prussia"], "predictions": {"3": "Prince Albert of Prussia", "4": "Prince Albert of Prussia"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 73, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 74, "answers": ["Banbury"], "predictions": {"3": "Pembroke Castle", "4": "Raglan Castle"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 75, "answers": ["Sir Paul Gore, 1st Baronet"], "predictions": {"3": "Sir Paul Gore, 1st Baronet", "4": "Sir Ralph Gore, 1st Baronet"}, "scores": {"3": 1.0, "4": 0.8000000000000002}}
+{"task": "2wikimqa", "index": 76, "answers": ["Fatimid caliphate"], "predictions": {"3": "Egypt", "4": "Egypt"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 77, "answers": ["Dayton, Ohio"], "predictions": {"3": "Dayton, Ohio", "4": "Dayton, Ohio."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 78, "answers": ["Ona Munson"], "predictions": {"3": "Gene Raymond", "4": "Edward Buzzell"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 79, "answers": ["The Drover'S Sweetheart"], "predictions": {"3": "The Drover's Sweetheart", "4": "The Drover's Sweetheart (1911)"}, "scores": {"3": 1.0, "4": 0.8}}
+{"task": "2wikimqa", "index": 80, "answers": ["Tumkur"], "predictions": {"3": "North Karnataka", "4": "North Karnataka"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 81, "answers": ["Det Sande Ansigt"], "predictions": {"3": "Det Sande Ansigt", "4": "Det Sande Ansigt (1951)"}, "scores": {"3": 1.0, "4": 0.8571428571428571}}
+{"task": "2wikimqa", "index": 82, "answers": ["Bomgay"], "predictions": {"3": "Il Gaucho", "4": "Bomgay"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 83, "answers": ["Preslav"], "predictions": {"3": "Haarlem", "4": "Haarlem"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 84, "answers": ["Revolt Of The Praetorians"], "predictions": {"3": "The Pyrammmid", "4": "Revolt Of The Praetorians"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 85, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 86, "answers": ["poisoning"], "predictions": {"3": "Arsenic poisoning.", "4": "Arsenic poisoning."}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 87, "answers": ["America"], "predictions": {"3": "American.", "4": "American."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 88, "answers": ["Kingdom of Hawaii"], "predictions": {"3": "Hawaiʻi", "4": "Hawaiʻi"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 89, "answers": ["X-Paroni"], "predictions": {"3": "X-Paroni", "4": "X-Paroni"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 90, "answers": ["Vasantha Raagam"], "predictions": {"3": "Vasantha Raagam", "4": "Vasantha Raagam"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 91, "answers": ["Lee Byung-chul"], "predictions": {"3": "Lee Kun-hee", "4": "Lee Kun-hee"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "2wikimqa", "index": 92, "answers": ["John I, Duke of Bourbon"], "predictions": {"3": "Charles of Valois", "4": "Charles of Valois"}, "scores": {"3": 0.25, "4": 0.25}}
+{"task": "2wikimqa", "index": 93, "answers": ["27 June 1839"], "predictions": {"3": "23 October 1893", "4": "23 October 1893"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 94, "answers": ["Gura Humorului"], "predictions": {"3": "Big Bear Lake, California.", "4": "California"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 95, "answers": ["Françoise Hardy"], "predictions": {"3": "Jacques Lanzmann", "4": "Jacques Dutronc"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 96, "answers": ["Charles Wheatstone"], "predictions": {"3": "Charles Wheatstone", "4": "Charles Wheatstone"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 97, "answers": ["Washington"], "predictions": {"3": "Washington, D.C.", "4": "Washington, D.C."}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 98, "answers": ["London Melody"], "predictions": {"3": "London Melody", "4": "London Melody"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 99, "answers": ["Flaín Muñoz"], "predictions": {"3": "Fernando Bermúdez de Cea", "4": "Fernando Bermúdez de Cea"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 100, "answers": ["Mira Sorvino"], "predictions": {"3": "Mira Sorvino", "4": "Michael Sorvino"}, "scores": {"3": 1.0, "4": 0.5}}
+{"task": "2wikimqa", "index": 101, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 102, "answers": ["Norway"], "predictions": {"3": "Denmark", "4": "Denmark"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 103, "answers": ["illness"], "predictions": {"3": "Illness", "4": "He fell ill."}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 104, "answers": ["Harby"], "predictions": {"3": "Harby, Nottinghamshire.", "4": "Harby, Nottinghamshire."}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 105, "answers": ["Hong Kong Film Award for Best Director"], "predictions": {"3": "Hundred Flowers Award for Best Director", "4": "None"}, "scores": {"3": 0.6153846153846153, "4": 0.0}}
+{"task": "2wikimqa", "index": 106, "answers": ["3 September 1992"], "predictions": {"3": "3 September 1992", "4": "3 September 1992"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 107, "answers": ["Nathaniel Mclenaghan"], "predictions": {"3": "Nathaniel McLenaghan", "4": "Nathaniel McLenaghan died in 1912, and Frederick Cleveland Morgan died in 1962."}, "scores": {"3": 1.0, "4": 0.2857142857142857}}
+{"task": "2wikimqa", "index": 108, "answers": ["Tisch"], "predictions": {"3": "University of Texas", "4": "The University of Texas."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 109, "answers": ["Cuchillos De Fuego"], "predictions": {"3": "Vittorio Cottafavi", "4": "Román Chalbaud"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 110, "answers": ["Moment Of Danger"], "predictions": {"3": "Moment Of Danger", "4": "Moment Of Danger"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 111, "answers": ["De As"], "predictions": {"3": "Rock Street Journal", "4": "Rock Street Journal"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 112, "answers": ["The Piper'S Price"], "predictions": {"3": "The Piper's Price", "4": "The Blonde From Singapore"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 113, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 114, "answers": ["13 March 1753"], "predictions": {"3": "1761", "4": "1 January 1761"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 115, "answers": ["No Trees In The Street"], "predictions": {"3": "No Trees in the Street", "4": "No Trees In The Street"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 116, "answers": ["Methala"], "predictions": {"3": "Methala", "4": "Kerala"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 117, "answers": ["Alkohol"], "predictions": {"3": "1919", "4": "Alkohol"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 118, "answers": ["Do Musafir"], "predictions": {"3": "Do Musafir", "4": "Do Musafir"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 119, "answers": ["no"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 120, "answers": ["New York"], "predictions": {"3": "New York City", "4": "New York City"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "2wikimqa", "index": 121, "answers": ["Contragolpe"], "predictions": {"3": "Tiger In The Smoke", "4": "Tiger In The Smoke"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 122, "answers": ["Mumbai"], "predictions": {"3": "Nanavati Hospital, Mumbai", "4": "Nanavati Hospital, Mumbai."}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "2wikimqa", "index": 123, "answers": ["The Comedians Of Comedy"], "predictions": {"3": "The Comedians Of Comedy", "4": "The Comedians of Comedy"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 124, "answers": ["Tombstone Rashomon"], "predictions": {"3": "Yeşim Ustaoğlu", "4": "Yeşim Ustaoğlu, the director of Waiting For The Clouds, was born in 1960. Alex Cox, the director of Tomb"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 125, "answers": ["Dhuen Ki Lakeer"], "predictions": {"3": "Kishore Sahu", "4": "Kishore Sahu"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 126, "answers": ["Perdón, Viejita"], "predictions": {"3": "José A. Ferreyra", "4": "Perdón, Viejita"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 127, "answers": ["University of Wisconsin"], "predictions": {"3": "University of Wisconsin-Madison", "4": "University of Wisconsin-Madison"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 128, "answers": ["Dudley Russell"], "predictions": {"3": "Juan René Serrano was born on 23 February 1984, and Dudley Russell was born on 1 December 1896.", "4": "Juan René Serrano"}, "scores": {"3": 0.19999999999999998, "4": 0.0}}
+{"task": "2wikimqa", "index": 129, "answers": ["Mirjam Polkunen"], "predictions": {"3": "20 August 1936", "4": "20 August 1936"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 130, "answers": ["Saint Petersburg"], "predictions": {"3": "Buda", "4": "Saint Petersburg"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 131, "answers": ["Eindhoven"], "predictions": {"3": "Eindhoven", "4": "Eindhoven"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 132, "answers": ["Women'S Suffrage Journal"], "predictions": {"3": "Women'S Suffrage Journal", "4": "Women's Suffrage Journal"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 133, "answers": ["Fairmont, West Virginia"], "predictions": {"3": "Fairmont, West Virginia.", "4": "Fairmont, West Virginia."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 134, "answers": ["The Market Of Souls"], "predictions": {"3": "Mayor Muthanna", "4": "Mayor Muthanna"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 135, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 136, "answers": ["Morocco"], "predictions": {"3": "I could not find any information about the father of Muhammad Al-Nasir in the given passages.", "4": "Al-Mansur."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 137, "answers": ["Akkadian empire"], "predictions": {"3": "Ur", "4": "Ur"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 138, "answers": ["Tarzan The Magnificent"], "predictions": {"3": "1968 or 1960", "4": "Solemn Promise"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 139, "answers": ["Wolf Warrior"], "predictions": {"3": "Wolf Warrior", "4": "Wolf Warrior"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 140, "answers": ["Trịnh Bính"], "predictions": {"3": "Trịnh Cương", "4": "Trịnh Cương"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "2wikimqa", "index": 141, "answers": ["Gura Humorului"], "predictions": {"3": "Austro-Hungarian Empire (now Romania)", "4": "Austro-Hungarian Empire (now Romania)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 142, "answers": ["Crenshaw"], "predictions": {"3": "South Central Los Angeles", "4": "Los Angeles, California"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 143, "answers": ["Winter Sleepers"], "predictions": {"3": "Dino Risi", "4": "Poveri Milionari"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 144, "answers": ["Adolf II of Berg"], "predictions": {"3": "Adolf III of Berg", "4": "Adolf III of Berg"}, "scores": {"3": 0.75, "4": 0.75}}
+{"task": "2wikimqa", "index": 145, "answers": ["no"], "predictions": {"3": "Yes", "4": "No"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 146, "answers": ["Mülheim an der Ruhr"], "predictions": {"3": "Mülheim an der Ruhr", "4": "Mülheim an der Ruhr"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 147, "answers": ["Una Prostituta Al Servizio Del Pubblico E In Regola Con Le Leggi Dello Stato"], "predictions": {"3": "1970", "4": "Una Prostituta Al Servizio Del Pubblico E In Regola Con Le Leggi Dello Stato"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 148, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 149, "answers": ["Mongkut"], "predictions": {"3": "Prince Bhanurangsi Savangwongse", "4": "Prince Bhanurangsi Savangwongse"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 150, "answers": ["Lady Frances Manners"], "predictions": {"3": "Katherine Skipwith", "4": "Elizabeth Heneage"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 151, "answers": ["Cahiers du cinéma"], "predictions": {"3": "The Sam Spiegel Film and Television School", "4": "The Cinémathèque of the documentary she created with Scam."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 152, "answers": ["Newport, Wales"], "predictions": {"3": "Newport, Monmouthshire, Wales", "4": "Newport, Monmouthshire, Wales."}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "2wikimqa", "index": 153, "answers": ["Gordonsville, Virginia"], "predictions": {"3": "Orange County, Virginia", "4": "Orange County, Virginia."}, "scores": {"3": 0.4, "4": 0.4}}
+{"task": "2wikimqa", "index": 154, "answers": ["Mangalia"], "predictions": {"3": "Romania", "4": "Romania"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 155, "answers": ["Félix Leclerc"], "predictions": {"3": "Patrice Robitaille", "4": "Félix Leclerc"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 156, "answers": ["Jacques"], "predictions": {"3": "Charles Emmanuel", "4": "Jacques of Savoy"}, "scores": {"3": 0.0, "4": 0.5}}
+{"task": "2wikimqa", "index": 157, "answers": ["Géza"], "predictions": {"3": "Stephen I of Hungary", "4": "Stephen I of Hungary"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 158, "answers": ["Yi Jiang"], "predictions": {"3": "Queen Yi Jiang", "4": "Queen Yi Jiang"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "2wikimqa", "index": 159, "answers": ["November 3, 1867"], "predictions": {"3": "1828", "4": "5 September 1896"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 160, "answers": ["Ivy Duke"], "predictions": {"3": "Richard Cooper", "4": "Richard Cooper"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 161, "answers": ["1 August 1813"], "predictions": {"3": "1813", "4": "1813"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "2wikimqa", "index": 162, "answers": ["Season Of Strangers"], "predictions": {"3": "Season Of Strangers", "4": "Season Of Strangers"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 163, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 164, "answers": ["Antoine Casavant"], "predictions": {"3": "Antoine Casavant", "4": "Antoine Casavant"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 165, "answers": ["Oxford"], "predictions": {"3": "Allahabad University", "4": "Allahabad University, the London School of Economics, and Oxford University."}, "scores": {"3": 0.0, "4": 0.19999999999999998}}
+{"task": "2wikimqa", "index": 166, "answers": ["Sir Hew Dalrymple, 2nd Baronet"], "predictions": {"3": "Sir Hew Dalrymple, 3rd Baronet", "4": "Sir Hew Dalrymple, 3rd Baronet"}, "scores": {"3": 0.8000000000000002, "4": 0.8000000000000002}}
+{"task": "2wikimqa", "index": 167, "answers": ["Murderer In The Fog"], "predictions": {"3": "Khud-Daar", "4": "Khud-Daar"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 168, "answers": ["Milla"], "predictions": {"3": "Kurt Russell", "4": "Milla Jovovich"}, "scores": {"3": 0.0, "4": 0.6666666666666666}}
+{"task": "2wikimqa", "index": 169, "answers": ["Lecce"], "predictions": {"3": "Taranto", "4": "Nola"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 170, "answers": ["Prometheus Award"], "predictions": {"3": "Three film-festival awards: \"Best Cutting Edge Film\" at the 2008 San Diego Black Film Festival, \"Audience Choice – Feature-Length Narrative Film", "4": "\"Best Cutting Edge Film\" at the 2008 San Diego Film Festival, \"Audience Choice -- Feature-Length Narrative Film\" at the 2008 Cinema"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 171, "answers": ["Duchy of Saxe-Gotha-Altenburg"], "predictions": {"3": "German", "4": "German"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 172, "answers": ["Station For Two"], "predictions": {"3": "Station For Two", "4": "Station For Two"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 173, "answers": ["Inverkeithing"], "predictions": {"3": "Kronstadt.", "4": "Scotland"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 174, "answers": ["1234"], "predictions": {"3": "1208", "4": "1208"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 175, "answers": ["25 July 1666"], "predictions": {"3": "1642", "4": "24 October 1642"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 176, "answers": ["The Wind'S Fierce"], "predictions": {"3": "The Wind's Fierce", "4": "Mario Camus"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 177, "answers": ["drowning"], "predictions": {"3": "suicide by drowning himself in his swimming pool.", "4": "He died by suicide by drowning himself in his swimming pool."}, "scores": {"3": 0.2222222222222222, "4": 0.16666666666666669}}
+{"task": "2wikimqa", "index": 178, "answers": ["Abu Dhabi"], "predictions": {"3": "Abu Dhabi", "4": "Abu Dhabi."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 179, "answers": ["Prenzlau"], "predictions": {"3": "Prenzlau", "4": "Prenzlau"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 180, "answers": ["Poznań"], "predictions": {"3": "Poznań.", "4": "Poznań."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 181, "answers": ["Italy"], "predictions": {"3": "Forlì", "4": "Forlì"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 182, "answers": ["Toronto, Ontario"], "predictions": {"3": "Toronto, Ontario.", "4": "Toronto, Ontario."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 183, "answers": ["Forbidden Daughters"], "predictions": {"3": "Forbidden Daughters", "4": "Forbidden Daughters"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 184, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 185, "answers": ["Bogdan Țăruș"], "predictions": {"3": "Bogdan Țăruș was born on 1 August 1975 and Robert Wulnikowski was born on 11 July 197", "4": "Bogdan Țăruș was born on 1 August 1975 and Robert Wulnikowski was born on 11 July 197"}, "scores": {"3": 0.21052631578947367, "4": 0.21052631578947367}}
+{"task": "2wikimqa", "index": 186, "answers": ["Sandflow"], "predictions": {"3": "Sandflow", "4": "Lesley Selander"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 187, "answers": ["From Corleone To Brooklyn"], "predictions": {"3": "Durango Valley Raiders", "4": "Durango Valley Raiders"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 188, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 189, "answers": ["Vienna"], "predictions": {"3": "Vienna", "4": "Vienna"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 190, "answers": ["Johnny Ekström"], "predictions": {"3": "Johnny Ekström", "4": "Johnny Ekström"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 191, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 192, "answers": ["England"], "predictions": {"3": "English", "4": "English"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 193, "answers": ["Parkinson"], "predictions": {"3": "Parkinson's disease.", "4": "Parkinson's disease."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 194, "answers": ["Roger Mortimer, 1st Earl of March"], "predictions": {"3": "Roger Mortimer, 1st Earl of March", "4": "Thomas de Berkeley, 3rd Baron Berkeley"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 195, "answers": ["Albertus Seba"], "predictions": {"3": "Ali Dinar", "4": "Ali Dinar"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 196, "answers": ["Ferdinand I of the Two Sicilies"], "predictions": {"3": "Francis II, Holy Roman Emperor", "4": "Francis II, Holy Roman Emperor"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 197, "answers": ["Prince Of Arcadia"], "predictions": {"3": "Italia-Germania 4-3", "4": "Italia-Germania 4-3"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "2wikimqa", "index": 198, "answers": ["Milan"], "predictions": {"3": "Milan", "4": "Milan"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "2wikimqa", "index": 199, "answers": ["Köln"], "predictions": {"3": "Köln", "4": "Köln"}, "scores": {"3": 1.0, "4": 1.0}}

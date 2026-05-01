@@ -1,0 +1,11 @@
+{
+    "hotpotqa": 54.42,
+    "passage_retrieval_en": 99.0,
+    "gov_report": 35.05,
+    "2wikimqa": 42.94,
+    "qasper": 44.07,
+    "multi_news": 26.99,
+    "multifieldqa_en": 54.98,
+    "triviaqa": 92.56,
+    "narrativeqa": 29.6
+}

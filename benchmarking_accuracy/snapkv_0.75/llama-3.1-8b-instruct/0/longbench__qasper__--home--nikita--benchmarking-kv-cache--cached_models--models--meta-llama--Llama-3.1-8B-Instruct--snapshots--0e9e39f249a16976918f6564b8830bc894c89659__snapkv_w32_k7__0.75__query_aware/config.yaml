@@ -1,0 +1,25 @@
+dataset: longbench
+data_dir: qasper
+model: /home/nikita/benchmarking-kv-cache/cached_models/models--meta-llama--Llama-3.1-8B-Instruct/snapshots/0e9e39f249a16976918f6564b8830bc894c89659
+device: null
+press_name: snapkv_w32_k7
+compression_ratio: 0.75
+key_channel_compression_ratio: null
+threshold: null
+fraction: 1.0
+max_new_tokens: null
+max_context_length: null
+query_aware: 'true'
+needle_depth: null
+compression_interval: null
+target_size: null
+hidden_states_buffer_size: null
+output_dir: /home/nikita/benchmarking-kv-cache/benchmarking_accuracy/kvpress_snapkv/llama-3.1-8b-instruct
+log_level: INFO
+model_kwargs:
+  attn_implementation: flash_attention_2
+  dtype: auto
+  device_map: auto
+press_init_command: SnapKVPress(compression_ratio=0.75, window_size=32, kernel_size=7)
+seed: 42
+fp8: false

@@ -1,0 +1,200 @@
+{"task": "hotpotqa", "index": 0, "answers": ["Miller v. California"], "predictions": {"3": "Gates v. Collier was brought to court first.", "4": "Gates v. Collier was brought to court first."}, "scores": {"3": 0.18181818181818182, "4": 0.18181818181818182}}
+{"task": "hotpotqa", "index": 1, "answers": ["Charles L. Clifford"], "predictions": {"3": "Charles L. Clifford", "4": "Charles L. Clifford"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 2, "answers": ["Norman"], "predictions": {"3": "Lowell, Michigan", "4": "Lowell, Michigan"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 3, "answers": ["Sun"], "predictions": {"3": "Jupiter", "4": "Sun"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 4, "answers": ["erotic thriller film"], "predictions": {"3": "Film", "4": "Film"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 5, "answers": ["Parliament"], "predictions": {"3": "Jonathan Aitken", "4": "Parliament"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 6, "answers": ["Tharangambadi"], "predictions": {"3": "Kumbakonam", "4": "Mayiladuthurai District, Tranquebar (Tharangambadi) Taluk, Tamil Nadu, India."}, "scores": {"3": 0.0, "4": 0.2222222222222222}}
+{"task": "hotpotqa", "index": 7, "answers": ["Pleiospilos"], "predictions": {"3": "Pleiospilos", "4": "Pleiospilos"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 8, "answers": ["2013"], "predictions": {"3": "2013", "4": "2013"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 9, "answers": ["The Rebirth"], "predictions": {"3": "The Rebirth", "4": "The Rebirth"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 10, "answers": ["October 13, 1980"], "predictions": {"3": "Ashanti was born on October 13, 1980.", "4": "October 13, 1980"}, "scores": {"3": 0.6, "4": 1.0}}
+{"task": "hotpotqa", "index": 11, "answers": ["Betty Cohen"], "predictions": {"3": "NBC", "4": "Cartoon Network (founded by Ted Turner)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 12, "answers": ["Mary Astor"], "predictions": {"3": "Mary Astor", "4": "Mary Astor"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 13, "answers": ["number five"], "predictions": {"3": "5 (Finally peaked at number five on the US Hot 100)", "4": "5"}, "scores": {"3": 0.33333333333333337, "4": 0.0}}
+{"task": "hotpotqa", "index": 14, "answers": ["New Zealand, Canada, the United States, the Falkland Islands, and Peru."], "predictions": {"3": "India and Sri Lanka", "4": "India and Sri Lanka (Sri Lankan sambar deer)"}, "scores": {"3": 0.15384615384615383, "4": 0.11764705882352941}}
+{"task": "hotpotqa", "index": 15, "answers": ["2000 Summer Olympic Games"], "predictions": {"3": "2000", "4": "2000"}, "scores": {"3": 0.4, "4": 0.4}}
+{"task": "hotpotqa", "index": 16, "answers": ["Claudio Javier López"], "predictions": {"3": "Claudio López", "4": "Claudio López"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "hotpotqa", "index": 17, "answers": ["George H. W. Bush"], "predictions": {"3": "Ronald Reagan", "4": "Ronald Reagan"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 18, "answers": ["\"Talk That Talk\""], "predictions": {"3": "Rihanna's \"We Found Love\" was the song that came out ahead of The Wanted's \"Lightning\" on the UK Singles Chart", "4": "Rihanna's \"We Found Love\""}, "scores": {"3": 0.1, "4": 0.0}}
+{"task": "hotpotqa", "index": 19, "answers": ["Bob Dylan"], "predictions": {"3": "George Harrison", "4": "George Harrison"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 20, "answers": ["Cartoon Cartoon Fridays"], "predictions": {"3": "Cartoon Cartoon Fridays", "4": "Cartoon Cartoon Fridays"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 21, "answers": ["on the Cumberland Plain"], "predictions": {"3": "New South Wales, Australia", "4": "New South Wales, Australia"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 22, "answers": ["Long Island"], "predictions": {"3": "Jones Beach Island", "4": "Long Island"}, "scores": {"3": 0.4, "4": 1.0}}
+{"task": "hotpotqa", "index": 23, "answers": ["PewDiePie"], "predictions": {"3": "PewDiePie", "4": "PewDiePie"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 24, "answers": ["It's Always Sunny in Philadelphia"], "predictions": {"3": "It's Always Sunny in Philadelphia", "4": "It's Always Sunny in Philadelphia"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 25, "answers": ["#364"], "predictions": {"3": "439th", "4": "439th"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 26, "answers": ["Ribosomes"], "predictions": {"3": "Ribosome", "4": "Ribosomes"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 27, "answers": ["Dracula"], "predictions": {"3": "Dracula has more species.", "4": "Dracula"}, "scores": {"3": 0.4, "4": 1.0}}
+{"task": "hotpotqa", "index": 28, "answers": ["Band-e Amir National Park"], "predictions": {"3": "Band-e Amir", "4": "Band-e Amir"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 29, "answers": ["University of Southern California"], "predictions": {"3": "Los Angeles Memorial Coliseum is the home for University of Southern California (USC).", "4": "University of Southern California (USC)"}, "scores": {"3": 0.5, "4": 0.888888888888889}}
+{"task": "hotpotqa", "index": 30, "answers": ["7.2 million"], "predictions": {"3": "12,817", "4": "12,817"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 31, "answers": ["A123 Systems, LLC"], "predictions": {"3": "A123 Systems", "4": "A123 Systems"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "hotpotqa", "index": 32, "answers": ["143,372"], "predictions": {"3": "Traverse City", "4": "Traverse City"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 33, "answers": ["Taoiseach of Ireland"], "predictions": {"3": "Taoiseach", "4": "Taoiseach"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 34, "answers": ["Troy, Montana"], "predictions": {"3": "Troy", "4": "Troy"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 35, "answers": ["Mika Häkkinen"], "predictions": {"3": "Mika Häkkinen", "4": "Mika Häkkinen"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 36, "answers": ["Constantine"], "predictions": {"3": "Pirates of the Caribbean", "4": "Pirates of the Caribbean"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 37, "answers": ["George Balanchine"], "predictions": {"3": "Darci Kistler", "4": "Darci Kistler"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 38, "answers": ["Xcel Energy Inc."], "predictions": {"3": "3M, Corning Inc., Xcel Energy, Medtronic, General Mills, IBM", "4": "3M, Corning Inc., Xcel Energy, Medtronic, General Mills, and IBM."}, "scores": {"3": 0.5, "4": 0.4615384615384615}}
+{"task": "hotpotqa", "index": 39, "answers": ["Summer Magic"], "predictions": {"3": "Around the World in 80 Days was released first.", "4": "Around the World in 80 Days was released first."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 40, "answers": ["Nobel Prize"], "predictions": {"3": "Nobel Prize in Physics", "4": "Nobel Prize in Physics"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 41, "answers": ["seasonal television specials, particularly its work in stop motion animation"], "predictions": {"3": "Stop motion animation", "4": "Stop motion animation"}, "scores": {"3": 0.4615384615384615, "4": 0.4615384615384615}}
+{"task": "hotpotqa", "index": 42, "answers": ["Dame Eileen June Atkins"], "predictions": {"3": "Eileen Atkins", "4": "Eileen Atkins"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 43, "answers": ["Iran"], "predictions": {"3": "Iran", "4": "Iran"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 44, "answers": ["Hakim Abdullah Jamal"], "predictions": {"3": "Maulana Karenga", "4": "Maulana Karenga"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 45, "answers": ["Keith Morris"], "predictions": {"3": "Keith Morris", "4": "Keith Morris"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 46, "answers": ["YIVO"], "predictions": {"3": "YIVO", "4": "YIVO"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 47, "answers": ["January 18, 1813"], "predictions": {"3": "1813", "4": "1813"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 48, "answers": ["Himalchuli has three main peaks: East (7893 m), West (7540 m) and North (7371 m)"], "predictions": {"3": "Tongshanjiabu is higher than Himalchuli.", "4": "Himalchuli"}, "scores": {"3": 0.1, "4": 0.125}}
+{"task": "hotpotqa", "index": 49, "answers": ["1763"], "predictions": {"3": "1763", "4": "In 1784."}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 50, "answers": ["Pope John X"], "predictions": {"3": "John X", "4": "Pope John X"}, "scores": {"3": 0.8, "4": 1.0}}
+{"task": "hotpotqa", "index": 51, "answers": ["Manchester United"], "predictions": {"3": "Manchester United F.C.", "4": "Manchester United F.C."}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "hotpotqa", "index": 52, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 53, "answers": ["1,693"], "predictions": {"3": "Averill Park, New York", "4": "Averill Park"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 54, "answers": ["Australian Supercars Championship"], "predictions": {"3": "FIA Formula E Championship", "4": "FIA Formula E Championship"}, "scores": {"3": 0.28571428571428575, "4": 0.28571428571428575}}
+{"task": "hotpotqa", "index": 55, "answers": ["no"], "predictions": {"3": "No. Yoo-hoo is a chocolate-flavored beverage, while Faygo is a brand of soft drinks.", "4": "No, Yoo-hoo is not carbonated, while Faygo is a carbonated drink."}, "scores": {"3": 0.15384615384615385, "4": 0.18181818181818182}}
+{"task": "hotpotqa", "index": 56, "answers": ["Washington State"], "predictions": {"3": "Mississippi State", "4": "Mississippi State"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 57, "answers": ["Floyd Casey Stadium"], "predictions": {"3": "Baylor (Floyd Casey Stadium)", "4": "Baylor, Floyd Casey Stadium"}, "scores": {"3": 0.8571428571428571, "4": 0.8571428571428571}}
+{"task": "hotpotqa", "index": 58, "answers": ["2010"], "predictions": {"3": "2010", "4": "2010"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 59, "answers": ["Sanskrit"], "predictions": {"3": "Elephants are connected to Gajabrishta as Gaja in Sanskrit means elephant and 'Brishta' is the back", "4": "Gajabrishta is a style of vimana (temple tower) in Shiva temples of Tamil Nadu, which is connected"}, "scores": {"3": 0.125, "4": 0.0}}
+{"task": "hotpotqa", "index": 60, "answers": ["English"], "predictions": {"3": "British", "4": "British"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 61, "answers": ["yes"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 62, "answers": ["November"], "predictions": {"3": "2005", "4": "The animated series Kent Scott wrote, Iggy Arbuckle, ended in 2005."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 63, "answers": ["Shari Shattuck"], "predictions": {"3": "Not provided in the passages.", "4": "Not provided in the passages."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 64, "answers": ["British"], "predictions": {"3": "Cat Stevens (Yusuf)", "4": "Cat Stevens (British)"}, "scores": {"3": 0.0, "4": 0.5}}
+{"task": "hotpotqa", "index": 65, "answers": ["Vernon Smith"], "predictions": {"3": "Vernon L. Smith", "4": "François Englert"}, "scores": {"3": 0.8, "4": 0.0}}
+{"task": "hotpotqa", "index": 66, "answers": ["Deftones"], "predictions": {"3": "Deftones", "4": "Deftones"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 67, "answers": ["810"], "predictions": {"3": "Not provided in the passages.", "4": "Not provided in the passages."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 68, "answers": ["India"], "predictions": {"3": "India", "4": "India"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 69, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 70, "answers": ["May 5, 1939"], "predictions": {"3": "15 October 1733", "4": "1939"}, "scores": {"3": 0.0, "4": 0.5}}
+{"task": "hotpotqa", "index": 71, "answers": ["Philip K. Dick"], "predictions": {"3": "Philip K. Dick", "4": "Philip K. Dick"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 72, "answers": ["821"], "predictions": {"3": "12986", "4": "821"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 73, "answers": ["Capital Cities"], "predictions": {"3": "Capital Cities", "4": "Capital Cities"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 74, "answers": ["Morgan Llywelyn"], "predictions": {"3": "Morgan Llywelyn", "4": "Morgan Llywelyn"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 75, "answers": ["14"], "predictions": {"3": "14", "4": "Not provided in the passages."}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 76, "answers": ["Big 12 Conference"], "predictions": {"3": "Big 12 Conference", "4": "Big 12 Conference"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 77, "answers": ["Brittany, Cornwall, Ireland, Isle of Man, Scotland and Wales."], "predictions": {"3": "Brittany (Breizh), Cornwall (Kernow), Ireland (Éire), the Isle of Man (Mannin, or", "4": "Brittany, Cornwall, Ireland, Isle of Man, Scotland, Wales"}, "scores": {"3": 0.6, "4": 0.9411764705882353}}
+{"task": "hotpotqa", "index": 78, "answers": ["coaxial"], "predictions": {"3": "American BNC connector", "4": "American BNC connector"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 79, "answers": ["Wicked Twister"], "predictions": {"3": "Wicked Twister", "4": "Steel Venom"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 80, "answers": ["Levni Yilmaz"], "predictions": {"3": "Lev Yilmaz", "4": "Lev Yilmaz"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 81, "answers": ["Man Haron"], "predictions": {"3": "Lindt Cafe siege gunman was Man Haron Monis.", "4": "Man Haron Monis (Lindt Café siege)"}, "scores": {"3": 0.4, "4": 0.5}}
+{"task": "hotpotqa", "index": 82, "answers": ["Hawaii"], "predictions": {"3": "Hawaii (Territory)", "4": "Hawaii Territory"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 83, "answers": ["100 metres"], "predictions": {"3": "100m", "4": "100m"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 84, "answers": ["due to the onset and progression of Alzheimer's disease"], "predictions": {"3": "Due to the onset and progression of Alzheimer's disease.", "4": "Due to the onset and progression of Alzheimer's disease."}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 85, "answers": ["yes"], "predictions": {"3": "No", "4": "Yes"}, "scores": {"3": 0.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 86, "answers": ["Leucippus"], "predictions": {"3": "Leucippus", "4": "Democritus"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 87, "answers": ["Hollywood, Florida"], "predictions": {"3": "Hollywood", "4": "Hollywood"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 88, "answers": ["building"], "predictions": {"3": "Residential skyscraper", "4": "Residential skyscraper"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 89, "answers": ["1895"], "predictions": {"3": "1937", "4": "1937"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 90, "answers": ["Pac-12 Conference"], "predictions": {"3": "Not provided in the passages.", "4": "Not provided in the passages."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 91, "answers": ["7pm"], "predictions": {"3": "7.00pm", "4": "7.00pm"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 92, "answers": ["no"], "predictions": {"3": "No", "4": "No. Werther is an opera, but The Odyssey is not."}, "scores": {"3": 1.0, "4": 0.2222222222222222}}
+{"task": "hotpotqa", "index": 93, "answers": ["poet"], "predictions": {"3": "Writer", "4": "Writer"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 94, "answers": ["no"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 95, "answers": ["43,000 marchers"], "predictions": {"3": "70000", "4": "17,000"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 96, "answers": ["Indianapolis, Indiana"], "predictions": {"3": "Air Wisconsin Airlines Corporation (AWAC)", "4": "Republic Airways (operating as United Express)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 97, "answers": ["1909"], "predictions": {"3": "1891", "4": "1891"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 98, "answers": ["Bill McCutcheon"], "predictions": {"3": "McCutcheon", "4": "Bill McCutcheon"}, "scores": {"3": 0.6666666666666666, "4": 1.0}}
+{"task": "hotpotqa", "index": 99, "answers": ["Lord Gort"], "predictions": {"3": "Field Marshal John Standish Surtees Prendergast Vereker, 6th Viscount Gort", "4": "Field Marshal John Standish Surtees Prendergast Vereker, 6th Viscount Gort"}, "scores": {"3": 0.16666666666666669, "4": 0.16666666666666669}}
+{"task": "hotpotqa", "index": 100, "answers": ["Polk County"], "predictions": {"3": "Polk County", "4": "Polk County"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 101, "answers": ["King James II of England"], "predictions": {"3": "James II", "4": "James II"}, "scores": {"3": 0.5714285714285715, "4": 0.5714285714285715}}
+{"task": "hotpotqa", "index": 102, "answers": ["Tommy"], "predictions": {"3": "Pinball Wizard", "4": "Pinball Wizard"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 103, "answers": ["2006"], "predictions": {"3": "2011", "4": "2011"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 104, "answers": ["West African descendants"], "predictions": {"3": "Santería (developed among Afro-Cuban people)", "4": "Santería developed among Afro-Cuban communities."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 105, "answers": ["American"], "predictions": {"3": "American", "4": "American"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 106, "answers": ["Michael Swango"], "predictions": {"3": "Michael Swango", "4": "Michael Swango"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 107, "answers": ["Juan Rulfo"], "predictions": {"3": "Juan Rulfo was born first.", "4": "Juan Rulfo was born first."}, "scores": {"3": 0.5714285714285715, "4": 0.5714285714285715}}
+{"task": "hotpotqa", "index": 108, "answers": ["American"], "predictions": {"3": "Merck & Co.", "4": "Merck & Co."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 109, "answers": ["1961"], "predictions": {"3": "1961", "4": "1961"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 110, "answers": ["United States Secretary of the Interior"], "predictions": {"3": "U.S. House of Representatives at-large congressional district", "4": "U.S. House of Representatives (Montana's at-large congressional district)"}, "scores": {"3": 0.16666666666666666, "4": 0.15384615384615385}}
+{"task": "hotpotqa", "index": 111, "answers": ["Alice's Adventures in Wonderland"], "predictions": {"3": "Alice Through the Looking-Glass", "4": "Alice Through the Looking-Glass"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 112, "answers": ["Vienna"], "predictions": {"3": "Vienna", "4": "Vienna"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 113, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 114, "answers": ["Albert Park"], "predictions": {"3": "Albert Park", "4": "Albert Park"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 115, "answers": ["director"], "predictions": {"3": "Filmmaker", "4": "Film director and producer"}, "scores": {"3": 0.0, "4": 0.4}}
+{"task": "hotpotqa", "index": 116, "answers": ["Jeffersontown, Kentucky"], "predictions": {"3": "Jeffersontown", "4": "Jeffersontown"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 117, "answers": ["Burny Mattinson, David Michener, and the team of John Musker and Ron Clements"], "predictions": {"3": "The film was directed by John Musker, Ron Clements, Dave Michener, and Burny Mattinson.", "4": "The film where Susanne Pollatschek voiced Olivia Flaversham was directed by John Musker, Ron Clements, Dave Michen"}, "scores": {"3": 0.64, "4": 0.28571428571428575}}
+{"task": "hotpotqa", "index": 118, "answers": ["WAMC"], "predictions": {"3": "WAMC", "4": "WAMC"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 119, "answers": ["Bassendean"], "predictions": {"3": "Bassendean", "4": "Bassendean"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 120, "answers": ["duck"], "predictions": {"3": "Duck", "4": "Duck"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 121, "answers": ["Mimosa"], "predictions": {"3": "Mimosa", "4": "Mimosa"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 122, "answers": ["alleged paranormal phenomena"], "predictions": {"3": "Unidentified flying objects, unnatural animal sightings, paranormal humanoids, and thunderbird sightings.", "4": "Unidentified flying objects, unnatural animal sightings, paranormal humanoids, and bigfoot-like sightings."}, "scores": {"3": 0.14285714285714288, "4": 0.14285714285714288}}
+{"task": "hotpotqa", "index": 123, "answers": ["Fomento Económico Mexicano"], "predictions": {"3": "Coca-Cola FEMSA", "4": "Coca-Cola FEMSA"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 124, "answers": ["Ellie Kemper"], "predictions": {"3": "Ellie Kemper", "4": "Ellie Kemper (Kimmy Schmidt)"}, "scores": {"3": 1.0, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 125, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 126, "answers": ["Umina Beach, New South Wales"], "predictions": {"3": "Umina Beach", "4": "Umina Beach"}, "scores": {"3": 0.5714285714285715, "4": 0.5714285714285715}}
+{"task": "hotpotqa", "index": 127, "answers": ["Metro Manila"], "predictions": {"3": "Metro Manila", "4": "Metro Manila"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 128, "answers": ["University"], "predictions": {"3": "Arizona State University (ASU)", "4": "Arizona State University (ASU)"}, "scores": {"3": 0.4, "4": 0.4}}
+{"task": "hotpotqa", "index": 129, "answers": ["In 2002, Suining had a population of 658,798."], "predictions": {"3": "Suining", "4": "Suining"}, "scores": {"3": 0.25, "4": 0.25}}
+{"task": "hotpotqa", "index": 130, "answers": ["video game"], "predictions": {"3": "Video game publisher", "4": "Lotion play (Yameen) and video game publishing (Activision)"}, "scores": {"3": 0.8, "4": 0.4}}
+{"task": "hotpotqa", "index": 131, "answers": ["no"], "predictions": {"3": "No, Frank Lloyd was British-born American and Olivier Assayas is French.", "4": "No, Frank Lloyd was a British-born American film director and Olivier Assayas is a French film director."}, "scores": {"3": 0.16666666666666669, "4": 0.125}}
+{"task": "hotpotqa", "index": 132, "answers": ["French mathematician and physicist"], "predictions": {"3": "French mathematician and physicist", "4": "French mathematician and physicist"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 133, "answers": ["Elvis' Christmas Album"], "predictions": {"3": "Elvis' Christmas Album", "4": "Elvis' Christmas Album"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 134, "answers": ["Operation Iceberg"], "predictions": {"3": "Okinawa", "4": "Okinawa"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 135, "answers": ["Puli Alam"], "predictions": {"3": "Logar", "4": "Logar Province"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 136, "answers": ["BBC Formula One"], "predictions": {"3": "BBC Sport", "4": "BBC Sport"}, "scores": {"3": 0.4, "4": 0.4}}
+{"task": "hotpotqa", "index": 137, "answers": ["Plato"], "predictions": {"3": "Plato", "4": "Plato"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 138, "answers": ["Northern Ireland"], "predictions": {"3": "United Kingdom", "4": "Bear Grylls is originally from Donaghadee, Northern Ireland."}, "scores": {"3": 0.0, "4": 0.4}}
+{"task": "hotpotqa", "index": 139, "answers": ["Joe Gooch"], "predictions": {"3": "Jerry Garcia", "4": "Jerry Garcia was born before Joe Gooch."}, "scores": {"3": 0.0, "4": 0.4444444444444445}}
+{"task": "hotpotqa", "index": 140, "answers": ["poet and novelist"], "predictions": {"3": "Both are poets.", "4": "Both are poets."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 141, "answers": ["O"], "predictions": {"3": "Franco Dragone", "4": "Franco Dragone"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 142, "answers": ["West Lafayette, Indiana"], "predictions": {"3": "Houston (Oilers)", "4": "Howard College (now Samford University) in Birmingham, Alabama"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 143, "answers": ["Father of Liberalism"], "predictions": {"3": "John Locke", "4": "John Locke"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 144, "answers": ["35 people"], "predictions": {"3": "35 people", "4": "35 people"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 145, "answers": ["\"Currer Bell\""], "predictions": {"3": "Pauline Réage", "4": "Pauline Réage"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 146, "answers": ["no"], "predictions": {"3": "Yes, both French Spaniel and Beagle are recognized by international kennel clubs.", "4": "No, the French Spaniel is recognized by the Fédération Cynologique Internationale, the Canadian Kennel Club, and the United Kennel Club"}, "scores": {"3": 0.0, "4": 0.11764705882352941}}
+{"task": "hotpotqa", "index": 147, "answers": ["2011"], "predictions": {"3": "2008 (for The Meerkats)", "4": "2008 (for The Meerkats)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 148, "answers": ["the Veneto region of Northern Italy"], "predictions": {"3": "Cortina d'Ampezzo", "4": "Cortina d'Ampezzo"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 149, "answers": ["1919"], "predictions": {"3": "St Albans RFC was formed in 1970.", "4": "St Albans RFC was formed in 1970."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 150, "answers": ["French"], "predictions": {"3": "French forces", "4": "French forces"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 151, "answers": ["University of Vienna"], "predictions": {"3": "University of Vienna", "4": "University of Vienna"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 152, "answers": ["Brian Stokes Mitchell"], "predictions": {"3": "Brian Stokes Mitchell", "4": "Brian Stokes Mitchell"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 153, "answers": ["Netflix"], "predictions": {"3": "Netflix", "4": "Netflix"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 154, "answers": ["Drunter und Drüber is a multiplayer board game invented by Klaus Teuber"], "predictions": {"3": "Yes", "4": "No"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 155, "answers": ["Louisville"], "predictions": {"3": "Louisville", "4": "Louisville"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 156, "answers": ["Sonic Mania"], "predictions": {"3": "Sonic Mania", "4": "Sonic Mania"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 157, "answers": ["Mark Neary Donohue Jr."], "predictions": {"3": "Mark Donohue", "4": "Mark Donohue"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 158, "answers": ["an acting career"], "predictions": {"3": "Moved to Los Angeles", "4": "Hollywood career"}, "scores": {"3": 0.0, "4": 0.5}}
+{"task": "hotpotqa", "index": 159, "answers": ["Veyyil"], "predictions": {"3": "Veyil (2006)", "4": "Veyil (2006)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 160, "answers": ["Saturday"], "predictions": {"3": "Kentucky Derby Day", "4": "Kentucky Derby Day"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 161, "answers": ["Neighbours"], "predictions": {"3": "Neighbours", "4": "Neighbours"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 162, "answers": ["Bill Miner"], "predictions": {"3": "Bill Miner", "4": "Bill Miner"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 163, "answers": ["Chippewa County"], "predictions": {"3": "Saginaw County", "4": "Marquette County"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 164, "answers": ["3,677 seated"], "predictions": {"3": "3,677", "4": "4,000"}, "scores": {"3": 0.6666666666666666, "4": 0.0}}
+{"task": "hotpotqa", "index": 165, "answers": ["Atlantic Ocean"], "predictions": {"3": "Atlantic", "4": "Atlantic Ocean"}, "scores": {"3": 0.6666666666666666, "4": 1.0}}
+{"task": "hotpotqa", "index": 166, "answers": ["director"], "predictions": {"3": "Film director", "4": "Film director"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 167, "answers": ["IK Start"], "predictions": {"3": "Start", "4": "Start"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 168, "answers": ["green and yellow"], "predictions": {"3": "Green and yellow", "4": "Garnet and blue"}, "scores": {"3": 1.0, "4": 0.3333333333333333}}
+{"task": "hotpotqa", "index": 169, "answers": ["Claire is a married World War II nurse"], "predictions": {"3": "Claire Fraser is a fictional character in the Outlander series of multi-genre novels by Diana Gabaldon, and its television adaptation.", "4": "Claire Fraser is a fictional character in the British-American television drama series Outlander developed by Ronald D. Moore."}, "scores": {"3": 0.16, "4": 0.17391304347826086}}
+{"task": "hotpotqa", "index": 170, "answers": ["Henry Jackson Society"], "predictions": {"3": "Islamic Republic of Iran Broadcasting (IRIB)", "4": "Islamic Republic of Iran Broadcasting (IRIB)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 171, "answers": ["the City of Peace"], "predictions": {"3": "City of Peace (Madīnat al-Salām)", "4": "City of Peace (Baghdad, the City of Peace)"}, "scores": {"3": 0.7499999999999999, "4": 0.6}}
+{"task": "hotpotqa", "index": 172, "answers": ["Martin Scorsese"], "predictions": {"3": "Martin Scorsese", "4": "Martin Scorsese (in The Wolf of Wall Street)"}, "scores": {"3": 1.0, "4": 0.4444444444444445}}
+{"task": "hotpotqa", "index": 173, "answers": ["Michael Kemp Tippett"], "predictions": {"3": "Michael Tippett", "4": "Luigi Cherubini"}, "scores": {"3": 0.8, "4": 0.0}}
+{"task": "hotpotqa", "index": 174, "answers": ["Babylon"], "predictions": {"3": "Babylon", "4": "Babylon"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 175, "answers": ["Ten Walls"], "predictions": {"3": "Ten Walls", "4": "Ten Walls"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 176, "answers": ["Dragons: Riders of Berk"], "predictions": {"3": "DreamWorks Dragons", "4": "Spider-Man"}, "scores": {"3": 0.3333333333333333, "4": 0.0}}
+{"task": "hotpotqa", "index": 177, "answers": ["1978"], "predictions": {"3": "1978", "4": "1978"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 178, "answers": ["Jānis Strazdiņš"], "predictions": {"3": "Jānis Šipkēvics (countertenor)", "4": "Jānis Strazdiņš (bass)"}, "scores": {"3": 0.4, "4": 0.8}}
+{"task": "hotpotqa", "index": 179, "answers": ["writer"], "predictions": {"3": "English physicians, eugenicists, writers, progressive intellectuals, and social reformers who studied human sexuality.", "4": "English authors"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 180, "answers": ["the Qin dynasty"], "predictions": {"3": "Qin dynasty", "4": "Chu"}, "scores": {"3": 1.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 181, "answers": ["Baron of Holberg"], "predictions": {"3": "Primus motor", "4": "Primus motor, violinist Ole Bull"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 182, "answers": ["Arizona State University"], "predictions": {"3": "Arizona State University", "4": "Arizona State University"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 183, "answers": ["yes"], "predictions": {"3": "Yes", "4": "Yes"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 184, "answers": ["Switchfoot"], "predictions": {"3": "Switchfoot", "4": "Switchfoot is still together."}, "scores": {"3": 1.0, "4": 0.4}}
+{"task": "hotpotqa", "index": 185, "answers": ["no"], "predictions": {"3": "No. Portland International Airport is located in Oregon, but Gerald R. Ford International Airport is located in Michigan.", "4": "No. Portland International Airport is located in Oregon, while Gerald R. Ford International Airport is located in Michigan."}, "scores": {"3": 0.10526315789473684, "4": 0.10526315789473684}}
+{"task": "hotpotqa", "index": 186, "answers": ["Brothers Quay"], "predictions": {"3": "Brothers Quay", "4": "Brothers Quay won more awards."}, "scores": {"3": 1.0, "4": 0.5714285714285715}}
+{"task": "hotpotqa", "index": 187, "answers": ["37.5"], "predictions": {"3": "72 feet (22 m)", "4": "72 feet (22 m)"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 188, "answers": ["Commissioner by the Maine Senate"], "predictions": {"3": "Bangor Daily News is talking about Sawin Millett because he was the Commissioner of Administrative and Financial Services in the administration of Governor Paul LePage", "4": "Bangor Daily News is talking about Sawin Millett because he served as the Commissioner of Administrative and Financial Services in the administration of Governor Paul Le"}, "scores": {"3": 0.07407407407407408, "4": 0.07142857142857142}}
+{"task": "hotpotqa", "index": 189, "answers": ["Jodie Prenger"], "predictions": {"3": "Marcus Dent", "4": "Not provided in the passages."}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 190, "answers": ["Thames"], "predictions": {"3": "River Thames", "4": "River Thames"}, "scores": {"3": 0.6666666666666666, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 191, "answers": ["Allure"], "predictions": {"3": "Allure", "4": "Allure"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 192, "answers": ["Jaleel Ahmad White"], "predictions": {"3": "Jaleel White", "4": "Jaleel White"}, "scores": {"3": 0.8, "4": 0.8}}
+{"task": "hotpotqa", "index": 193, "answers": ["Lake Wallace"], "predictions": {"3": "Lake Wallace", "4": "Lake Wallace"}, "scores": {"3": 1.0, "4": 1.0}}
+{"task": "hotpotqa", "index": 194, "answers": ["140 million"], "predictions": {"3": "100 million", "4": "100 million"}, "scores": {"3": 0.5, "4": 0.5}}
+{"task": "hotpotqa", "index": 195, "answers": ["the deadpan sketch group"], "predictions": {"3": "Two Episodes of Mash", "4": "Two Episodes of Mash"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 196, "answers": ["1998"], "predictions": {"3": "2003", "4": "2003"}, "scores": {"3": 0.0, "4": 0.0}}
+{"task": "hotpotqa", "index": 197, "answers": ["William"], "predictions": {"3": "Shakespeare", "4": "William Shakespeare"}, "scores": {"3": 0.0, "4": 0.6666666666666666}}
+{"task": "hotpotqa", "index": 198, "answers": ["Gerald \"Jerry\" Joseph Bingham, Jr."], "predictions": {"3": "Jerry Bingham", "4": "Jerry Bingham"}, "scores": {"3": 0.5714285714285715, "4": 0.5714285714285715}}
+{"task": "hotpotqa", "index": 199, "answers": ["no"], "predictions": {"3": "No", "4": "No"}, "scores": {"3": 1.0, "4": 1.0}}

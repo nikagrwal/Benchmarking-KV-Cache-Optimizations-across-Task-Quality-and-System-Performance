@@ -1,0 +1,303 @@
+length,language,answer_prefix,predicted_answer,_id,max_new_tokens,all_classes,dataset,task,question,answers,input
+819,en,Answer:, South West Ultras,c29e95ab6195406aceecf3874186150cb1b8b26db5bcd0e4,64,,multifieldqa_en,multifieldqa_en,"Question: What is the name of the most active fan club?
+",['South West Ultras fan club.'],What is the name of the most active fan club?
+6900,en,Answer:, No.,1d46294ee8fcc0a64828778b04198fcbe4f75841775e1205,64,,multifieldqa_en,multifieldqa_en,"Question: Is the ISR necessary for transgene reactivation?
+","['No, it is not necessary.']",Is the ISR necessary for transgene reactivation?
+4297,en,Answer:," Low-temperature scanning tunneling microscopy and spectroscopy (STM/STS), ab-initio calculations based on density functional theory and Green's functions.",5b978c8d5792b07ad99da0fc2639c6046051e9c29825ad25,64,,multifieldqa_en,multifieldqa_en,"Question: What experimental techniques were used to study the quantum dot structures in this research?
+",['Low temperature scanning tunneling microscopy and spectroscopy (STM/STS).'],What experimental techniques were used to study the quantum dot structures in this research?
+8925,en,Answer:, A surgically implanted electronic device to treat life-threatening heartbeat irregularities.,2f73cf12085e3fb879c775fc4851b72092a060cad5a927c6,64,,multifieldqa_en,multifieldqa_en,"Question: What is the purpose of an ICD?
+",['Implantable Cardioverter Defibrillator (ICD) is a surgically implanted electronic device to treat life-threatening heartbeat irregularities.'],What is the purpose of an ICD?
+6250,en,Answer:," If the sides were not sloped, the section formed would be cylindrical and the longerons would lie flat, but since the sides are tumbled home, the section formed is now conical, and when a conical shape is cut with a plane (building surface) not perpendicular to its axis, the shape formed is",41e27260a12cc40a778f8c1ba8bf643ee655871a458e5e1c,64,,multifieldqa_en,multifieldqa_en,"Question: Why is it important for the sides of the fuselage to be sloped (tumbled home)?
+",['The sides of the fuselage are sloped to create a conical section when the fuselage is formed.'],Why is it important for the sides of the fuselage to be sloped (tumbled home)?
+5009,en,Answer:, The proximity of superconductivity tends to suppress the Kondo effect if the superconducting energy gap becomes larger than the relevant Kondo temperature.,917f18543035ee1b9161cded1d3352531dbf3b249b5f0a18,64,,multifieldqa_en,multifieldqa_en,"Question: What is the effect of the proximity of superconductivity on the Kondo effect?
+",['It tends to suppress the Kondo effect.'],What is the effect of the proximity of superconductivity on the Kondo effect?
+6202,en,Answer:," Electricity is used in a huge and growing number of uses, including lighting, heating, refrigeration, telecommunications, electric vehicles, and electronic devices.",b5b0eb150f44a4d7641b9adf9267ca0c2492ea46626449b3,64,,multifieldqa_en,multifieldqa_en,"Question: How is electricity used in everyday life?
+","['Electricity is used for transport, heating, lighting, communications, and computation.']",How is electricity used in everyday life?
+2292,en,Answer:, Vice Admiral.,e02f6a69d7b2a96a3aa6cd84a9189c2d552f6fb089f216e1,64,,multifieldqa_en,multifieldqa_en,"Question: What was Hugh H. Goodwin's rank in the United States Navy?
+",['Vice Admiral.'],What was Hugh H. Goodwin's rank in the United States Navy?
+972,en,Answer:, 15–3,ed61bdde19a3446389e989c06ab4209f464f9484d42dbd1c,64,,multifieldqa_en,multifieldqa_en,"Question: What was the Buckeyes' record in their first game of the season?
+",['They won their first game with a score of 15-3.'],What was the Buckeyes' record in their first game of the season?
+7133,en,Answer:," Vitamins K3, K4, and K5.",c7ad556387e8215bae3f8ccd30ba35e0093218fe48168718,64,,multifieldqa_en,multifieldqa_en,"Question: What are the three synthetic types of vitamin K?
+","['Vitamins K3, K4, and K5.']",What are the three synthetic types of vitamin K?
+5523,en,Answer:, Yes.,566881d2138d7e29cd6dd2b661b6f7ffe4c515c92fdaf837,64,,multifieldqa_en,multifieldqa_en,"Question: Can individual molecules of indeno[1,2-a]fluorene switch between open-shell and closed-shell states?
+","['Yes, individual molecules of indeno[1,2-a]fluorene can switch between open-shell and closed-shell states by changing their adsorption site on the surface.']","Can individual molecules of indeno[1,2-a]fluorene switch between open-shell and closed-shell states?"
+8501,en,Answer:, 3-D printing and software development.,0f101ee4ea9d1d88998598e0405367ad95912c92a7d7a31d,64,,multifieldqa_en,multifieldqa_en,"Question: What field does Danny work in in Tennessee?
+",['3-D printing and software development.'],What field does Danny work in in Tennessee?
+7142,en,Answer:, 90 μg and 120 μg respectively.,b3f3be2f0b46c0df08868f749519635186e6e22cf054ca79,64,,multifieldqa_en,multifieldqa_en,"Question: What is the recommended daily intake of vitamin K for adult women and men?
+",['90 μg for women and 120 μg for men.'],What is the recommended daily intake of vitamin K for adult women and men?
+6197,en,Answer:, The watt.,4c7891d780eb3f45e8c4e5bf14fd9ed6c0bf898fb159b329,64,,multifieldqa_en,multifieldqa_en,"Question: What is the SI unit of power?
+","['Watt, one joule per second.']",What is the SI unit of power?
+7565,en,Answer:, Flexibility.,04b588ff2dea15f4a9c4fdbaabc55aaad1ba3446114d6741,64,,multifieldqa_en,multifieldqa_en,"Question: What is the main advantage of a horizontal business model for mobile devices?
+",['Flexibility.'],What is the main advantage of a horizontal business model for mobile devices?
+2085,en,Answer:, Jacob C. Landau,470018af720bc15decf8f7a9643250c9a6548c8efeb394cd,64,,multifieldqa_en,multifieldqa_en,"Question: Who was Brooksley Elizabeth's first husband?
+",['Jacob C. Landau.'],Who was Brooksley Elizabeth's first husband?
+6235,en,Answer:," The main methodology used in the research is a compositional emergent communication paradigm, which exhibits clustering and informativeness properties, and is combined with contrastive learning to outperform competing methods.",120cb783c796fbedbc76f04cf9be3318e54a63cd642c4401,64,,multifieldqa_en,multifieldqa_en,"Question: What is the main methodology used in the research?
+",['An unsupervised method based on the information bottleneck and contrastive learning.'],What is the main methodology used in the research?
+4982,en,Answer:," The function beta(r) is determined by applying the vacuum Einstein equation to a test ball in free fall alongside one of the family of infalling observers, which leads to the differential equation beta(r) = sqrt(2GM/r^3), where G is the gravitational constant and M is the mass of the central object.",032ee1448dec7751d00cd9f752fc61c5843a47e49dd7fcb6,64,,multifieldqa_en,multifieldqa_en,"Question: How is the function beta(r) determined in the derivation?
+",['Using the vacuum Einstein equation and the Baez-Bunn form.'],How is the function beta(r) determined in the derivation?
+6625,en,Answer:, 70-75 metres.,18ef34b54d2ddc134e1be7cae3d6101432465011d016c77a,64,,multifieldqa_en,multifieldqa_en,"Question: What is the water depth in the Greater Ekofisk Area?
+",['The water depth in the Greater Ekofisk Area is 70-75 meters.'],What is the water depth in the Greater Ekofisk Area?
+3141,en,Answer:," Other toxic products, not saline.",74334862b5d8e2a02deb3c24aa90d5339e443fbc412453b8,64,,multifieldqa_en,multifieldqa_en,"Question: What were the vaccines trialed against?
+",['Other toxic products.'],What were the vaccines trialed against?
+1203,en,Answer:," Brisbane, Cleveland, Queensland, Australia.",934162f30867844eb8d74c9d62c1e2aba3fca790b5b1d53e,64,,multifieldqa_en,multifieldqa_en,"Question: Where was Margaret Way born and where did she die?
+","['Margaret Way was born in Brisbane and died in Cleveland, Queensland, Australia.']",Where was Margaret Way born and where did she die?
+5385,en,Answer:, L = 8 and L = 14.,e568cc6d77a0a433937ab4bcf62e49b36a5cf7b3faa0d3ab,64,,multifieldqa_en,multifieldqa_en,"Question: What size chains were used in the benchmarking?
+",['L = 8 and L = 14.'],What size chains were used in the benchmarking?
+4837,en,Answer:, 5,daa4eb9d8b28a987b1c2c049200634cdc510636b19a64ccd,64,,multifieldqa_en,multifieldqa_en,"Question: How many experiments were demonstrated to test the capabilities of the controller?
+",['5.'],How many experiments were demonstrated to test the capabilities of the controller?
+3791,en,Answer:," Lasa, Gitastrophe, and Shadoks.",191c14b84f0c8cdad3297f2bee552fb089178995208d7185,64,,multifieldqa_en,multifieldqa_en,"Question: What are the three teams that used conflict optimization in the challenge?
+","['Lasa, Gitastrophe, and Shadoks.']",What are the three teams that used conflict optimization in the challenge?
+6925,en,Answer:," The court concluded that the claimed transformation process be both ‘‘(1) limited to methods of specific data, and 2) limited to a visual depiction representing specific objects or substances.’’",9831469b98405cd1fc1bee7de6f9630ae1cbb5946fd7ca0b,64,,multifieldqa_en,multifieldqa_en,"Question: What did the court in In re Ferguson conclude about the transformation prong of the Bilski test?
+",['It required the transformation to be limited to specific data and a visual depiction representing specific objects or substances.'],What did the court in In re Ferguson conclude about the transformation prong of the Bilski test?
+5346,en,Answer:," The learning rate rapidly rises as the transition probability increases, reaches a peak, and then declines slowly, eventually reaching zero.",7ae0ad8d4ded2dee79251ff4f951ecfcabad31d8b4f896ae,64,,multifieldqa_en,multifieldqa_en,"Question: How does the transition probability of the environment affect the learning rate in the static agent?
+","['As the transition probability increases, the learning rate initially rises and then declines.']",How does the transition probability of the environment affect the learning rate in the static agent?
+5088,en,Answer:," Ultracold neutral plasmas that form via kinetic rate processes from state-selected Rydberg gases, with a particular emphasis on the distinctive dynamics found in the evolution of molecular ultracold plasmas.",91c198d5820bfba5caf396532a0b30a531e9d09a7a9005a4,64,,multifieldqa_en,multifieldqa_en,"Question: What kind of ultracold neutral plasmas does this study focus on?
+",['A subset that form via kinetic rate processes from state-selected Rydberg gases.'],What kind of ultracold neutral plasmas does this study focus on?
+7670,en,Answer:, Wearable sensors.,34f9b2c3d79ced580687f9653a6908215f79b1405a918cd0,64,,multifieldqa_en,multifieldqa_en,"Question: What types of sensors are now capable of estimating physical activity levels and physiological outcomes of older adults?
+",['Wearable sensors.'],What types of sensors are now capable of estimating physical activity levels and physiological outcomes of older adults?
+5701,en,Answer:, fairness,8fbf0a6531d9250e6bcda0c7ba456441f6d4073bf08de826,64,,multifieldqa_en,multifieldqa_en,"Question: What did the decision to base the water rates on usage reflect?
+",['Fairness.'],What did the decision to base the water rates on usage reflect?
+6856,en,Answer:," ""I have seen the Lord""; and she told them that he had said these things to her.",d1f31d2998513a4552d0419e16f8eba896e9ea1c8403605b,64,,multifieldqa_en,multifieldqa_en,"Question: What did Mary tell the disciples?
+","['""I have seen the Lord."".']",What did Mary tell the disciples?
+2947,en,Answer:, Developing a robust and flexible research infrastructure to conduct a more large scale cross-sectional study in the future.,6caa98612cf0e2ddf58e1ba70daaf79a3ac616280fb48188,64,,multifieldqa_en,multifieldqa_en,"Question: What is the future direction mentioned in the conclusion?
+","[""Verifying other meta-information such as patient's gender, age, race, etc.""]",What is the future direction mentioned in the conclusion?
+2554,en,Answer:," Simulated and real data, specifically a wireless MISO channel acquired in a realistic indoor scenario.",1f3b1e37c3d2ead7ab4fe7dd9d5cddd55b2c76d28e6bfc86,64,,multifieldqa_en,multifieldqa_en,"Question: What types of data did the authors use in their experiments?
+",['The authors used simulated data and real data from a wireless MISO channel.'],What types of data did the authors use in their experiments?
+6340,en,Answer:, The baseline references the mid point of the firewall for the developed (and true dimensioned) side panel.,33bfe67a3d40e71a5e5351ea5db4ea55df61a018d071074b,64,,multifieldqa_en,multifieldqa_en,"Question: What is the purpose of the baseline in the layout procedure?
+",['The baseline is used as a reference for the mid point of the firewall for the developed side panel.'],What is the purpose of the baseline in the layout procedure?
+4467,en,Answer:," It provides cover for the war and allows supporters of the illegal war to point to it and insist/slur ""Things aren't so bad!""",048c12357868d908dfb979ef3c5c6cf7f6d85053acf1cac4,64,,multifieldqa_en,multifieldqa_en,"Question: What does the new Iraqi Body Count organization do?
+",['It provides cover for the war and allows supporters of the illegal war to point to it.'],What does the new Iraqi Body Count organization do?
+5665,en,Answer:, The main advantage of the proposed method is that the time required to update the robot's belief does not increase with the complexity of the environment.,aeb34faf1b5507b32d6d5b49474ea5c71d4ec2aa84a82d93,64,,multifieldqa_en,multifieldqa_en,"Question: What is the main advantage of the proposed method in terms of computation time?
+",['The time required to update the belief does not increase with the complexity of the environment.'],What is the main advantage of the proposed method in terms of computation time?
+2431,en,Answer:, The Tevatron Collider Run II started in March 2002 and is expected to continue until the end of this decade.,d70ca68d05af951cd8ff2052095597d1b4dca557bfb0b40b,64,,multifieldqa_en,multifieldqa_en,"Question: When did the Tevatron Collider Run II start and when is it expected to end?
+",['The Tevatron Collider Run II started in March 2002 and is expected to continue until the end of this decade.'],When did the Tevatron Collider Run II start and when is it expected to end?
+1414,en,Answer:, Four,69e69439e349a539ca4cff96ae35aa8499ca61886801d488,64,,multifieldqa_en,multifieldqa_en,"Question: How many brother does Njoroge have?
+",['Four.'],How many brother does Njoroge have?
+3743,en,Answer:," The stability of $u$ is just saying that the second variation at $u$ of the energy associated with the equation is non-negative, which is equivalent to $\int f'(u) \psi^2 \le \int | \nabla \psi|^2$ for all $\psi \in C_c",135b82aecda3c83cfd73d1447e8f92a8a44de50ffdb09444,64,,multifieldqa_en,multifieldqa_en,"Question: What are the stability conditions for a solution of $-\Delta u = f(u)$?
+","[""$\\int f'(u) \\psi^2 \\le \\int | \\nabla \\psi|^2, \\forall \\psi \\in C_c^2$.""]",What are the stability conditions for a solution of $-\Delta u = f(u)$?
+2008,en,Answer:, The normalized least mean square (NLMS) algorithm.,49d0334d26929f712de2cba070a74752f415313c08166f80,64,,multifieldqa_en,multifieldqa_en,"Question: What algorithm is engaged in the PLMS-PPIC method?
+",['The normalized least mean square (NLMS) algorithm.'],What algorithm is engaged in the PLMS-PPIC method?
+3150,en,Answer:, Del Bigtree and his team at ICAN.,751053416f74a11311a13e801634fff8fd48649d3921b368,64,,multifieldqa_en,multifieldqa_en,"Question: Who compiled the 88-page letter to the HHS regarding vaccine safety?
+",['Del Bigtree and his team at ICAN.'],Who compiled the 88-page letter to the HHS regarding vaccine safety?
+2115,en,Answer:, Ethynyl (C2H),b619fa683cbbeb8db3d575fc2e261940701a530452b14eef,64,,multifieldqa_en,multifieldqa_en,"Question: What molecule was the focus of the study?
+",['The focus of the study was on the reactive radical ethynyl (C$_2$H).'],What molecule was the focus of the study?
+1489,en,Answer:, 1964,25ebcea4435f88495b4175446d1d7d6dacb1034a8f861ca5,64,,multifieldqa_en,multifieldqa_en,"Question: When was Weep Not, Child first published?
+","['Weep Not, Child was first published in 1964.']","When was Weep Not, Child first published?"
+2748,en,Answer:, The maximum velocity is proportional to the square root of the amplitude of the blob or depletion.,7a503a81877d3baca86f8d7179209e4899823433ab3326f3,64,,multifieldqa_en,multifieldqa_en,"Question: What is the relationship between the maximum velocity and the amplitude of the blob or depletion?
+",['The maximum velocity scales with the square root of the amplitude.'],What is the relationship between the maximum velocity and the amplitude of the blob or depletion?
+6654,en,Answer:, A complex network of proteins that link extracellular signals with the actin cytoskeleton.,4214e20df9d299bae4fb9ba8d1b4792d516812e86960009c,64,,multifieldqa_en,multifieldqa_en,"Question: What do dendritic spines contain?
+",['They are rich in actin and have been shown to be highly dynamic.'],What do dendritic spines contain?
+6444,en,Answer:," 14,520",ddfed65e5495d0257b22a9537993c3453d8590cc94b8e0d6,64,,multifieldqa_en,multifieldqa_en,"Question: How many people attend the 233rd ACS national meeting?
+","['There are 14,520 attendees, including 7,152 chemical scientists, 5,059 students, 1,283 exhibitors, 119 precollege teachers, 573 exposition visitors, and 453 guests.']",How many people attend the 233rd ACS national meeting?
+5429,en,Answer:," He acknowledged that the Internet has caused far-reaching systemic and structural changes in the economy and therefore ""Quill now harms States to a degree far greater than could have been anticipated earlier.""",e4725ed7b6df9933d5336f79d5c9d1d803a3e475831f1017,64,,multifieldqa_en,multifieldqa_en,"Question: What did Justice Kennedy argue about Quill in Direct Marketing Ass'n v. Brohl?
+",['Quill harmed states more than anticipated due to the Internet.'],What did Justice Kennedy argue about Quill in Direct Marketing Ass'n v. Brohl?
+5339,en,Answer:, Environmental fluctuation and uncertainty.,79ffdceb9859803e365c3de5d24c187ed06b15f04d04ae6a,64,,multifieldqa_en,multifieldqa_en,"Question: What factors control the reliance of artificial organisms on plasticity?
+",['Environmental fluctuation and uncertainty control the reliance of artificial organisms on plasticity.'],What factors control the reliance of artificial organisms on plasticity?
+6240,en,Answer:," The completed fuselage sides bow up from the building surface, forming a ""banana"" shape.",9ac60cf60d4bae1dc93b09f374b74b3dec8b1b333397d7cd,64,,multifieldqa_en,multifieldqa_en,"Question: What is the problem encountered when building the fuselage sides?
+","['The longerons bow up from the building surface, forming a ""banana"" shape.']",What is the problem encountered when building the fuselage sides?
+2294,en,Answer:, January 1929.,0e2b2bc81542b95fb86a7fe76cf11c52316937c9aac9123e,64,,multifieldqa_en,multifieldqa_en,"Question: When did Goodwin become a Naval aviator?
+",['Goodwin became a Naval aviator in January 1929.'],When did Goodwin become a Naval aviator?
+898,en,Answer:, 48V,910c9a02ee857c1019702818b6fa2d5c25ed432d08385ba8,64,,multifieldqa_en,multifieldqa_en,"Question: 对于PD3.0协议，FS312BH支持的最高诱骗电压是多少？
+",['48V.'],对于PD3.0协议，FS312BH支持的最高诱骗电压是多少？
+2088,en,Answer:," June 1, 1999.",2d48bbc2bd6052c5e67824752a9296cbbc26351616cd6d7e,64,,multifieldqa_en,multifieldqa_en,"Question: When did Born resign as chairperson of the CFTC?
+","['June 1, 1999.']",When did Born resign as chairperson of the CFTC?
+8281,en,Answer:," The Qaderi, Chishti, Nakshbandi, Suharwardi, and Madaari Orders.",bda4a6b251a601b7f7f956f298b59d8e99993845c1eaf7d6,64,,multifieldqa_en,multifieldqa_en,"Question: Which orders did Mufti-e-Azam-e-Hind receive Khilafat from?
+","['Mufti-e-Azam-e-Hind received Khilafat in the Qaderi, Chishti, Nakshbandi, Suharwardi, and Madaari Orders.']",Which orders did Mufti-e-Azam-e-Hind receive Khilafat from?
+6048,en,Answer:," Privacy concerns, expressed skepticism that the monitoring program would work, and the possibility that taxpayers would be left with a $500,000-a-year bill to operate it.",e84f6371f23c95f766248ac4e52b781f325f52f09c6eb9ae,64,,multifieldqa_en,multifieldqa_en,"Question: What was the reason given by Governor Rick Scott for not implementing a prescription drug monitoring database in Florida?
+",['Privacy concerns and skepticism about its effectiveness.'],What was the reason given by Governor Rick Scott for not implementing a prescription drug monitoring database in Florida?
+3597,en,Answer:, Wallace,462011b6f9beb976aaf7b38082bcf7d70a91c3c74d2c6e95,64,,multifieldqa_en,multifieldqa_en,"Question: In which electorate was Simon English elected to the New Zealand Parliament?
+",['The Wallace electorate.'],In which electorate was Simon English elected to the New Zealand Parliament?
+1856,en,Answer:," 30,223",420ce59c7a0c084e938dd69dfacf59f61ac3ebbd237780c8,64,,multifieldqa_en,multifieldqa_en,"Question: What was the population of McPherson County according to the 2020 census?
+","['30,223.']",What was the population of McPherson County according to the 2020 census?
+1201,en,Answer:, 2013,f20114170ce5bb518f17950edb4ef828d980bba0bba01077,64,,multifieldqa_en,multifieldqa_en,"Question: When did Margaret Way start self-publishing her books as e-books?
+",['Margaret Way started self-publishing her books as e-books in 2013.'],When did Margaret Way start self-publishing her books as e-books?
+3422,en,Answer:, 23 September 2017,94ccf4d54b36e7e9d4aa594a7bc426528630a5b8aff296a4,64,,multifieldqa_en,multifieldqa_en,"Question: When did the 2017 general election be held?
+",['23 September.'],When did the 2017 general election be held?
+2091,en,Answer:, Long Term Capital Management (LTCM),a013f691a7063527fa4e7a4b357081c76656af3cd402a27a,64,,multifieldqa_en,multifieldqa_en,"Question: What hedge fund's collapse in 1998 highlighted the need for regulation of derivatives?
+",['Long Term Capital Management (LTCM).'],What hedge fund's collapse in 1998 highlighted the need for regulation of derivatives?
+669,en,Answer:," The dynamical behavior of the anisotropic order parameter $m$ is well described by the Gaussian theory for all three lattice gas models studied, and in the short-time regime, $m \sim t^{1/2}$.",322b4b2b074049aac101086797d655a21671ef5a9f366353,64,,multifieldqa_en,multifieldqa_en,"Question: What is the dynamical behavior of the anisotropic order parameter following a quench to the critical point?
+",['It is well described by the Gaussian theory.'],What is the dynamical behavior of the anisotropic order parameter following a quench to the critical point?
+2184,en,Answer:, At least 2×2 meters.,ee53f01eb9a44de54723ab03918b7361f2eb630a35ce7b81,64,,multifieldqa_en,multifieldqa_en,"Question: What is the recommended space for using the VR headset?
+",['It is recommended to have at least a 2x2 meter space for using the VR headset.'],What is the recommended space for using the VR headset?
+6312,en,Answer:," The PLM with decimation shows better performances than the PLM with $l_2$ regularization and a mean-field technique, especially in the under-sampling regime $M<N$.",f3374a1971e3cfb4f241e04b82d5016d892e9e32a4aa2b53,64,,multifieldqa_en,multifieldqa_en,"Question: How does the performance of the PLM with decimation compare to other methods?
+",['It outperforms mean-field methods and the PLM with $l_2$ regularization in terms of reconstruction error and true positive rate.'],How does the performance of the PLM with decimation compare to other methods?
+9437,en,Answer:," Exegetical, Theological, and Homiletical.",46a2207a7a3f6d98effa73491cf83b63f92e29e0023c6e52,64,,multifieldqa_en,multifieldqa_en,"Question: What are the three phases of the author's preaching process?
+","['The three phases are exegetical, theological, and homiletical.']",What are the three phases of the author's preaching process?
+1810,en,Answer:," February 15, 2010.",235a5c99cd7fae9e2b410ad99c1b1fafea43799d3f1138a8,64,,multifieldqa_en,multifieldqa_en,"Question: When did KSTP switch to a sports radio format?
+","['KSTP switched to a sports radio format on February 15, 2010.']",When did KSTP switch to a sports radio format?
+2409,en,Answer:, RoBERTa.,fe952dfd723c9b88f1ed4665679b7a13987729fa1c37b0e3,64,,multifieldqa_en,multifieldqa_en,"Question: What was the best performing model for the Spanish language in Track-1?
+",['The best performing model for the Spanish language in Track-1 was Spanish BERT.'],What was the best performing model for the Spanish language in Track-1?
+1045,en,Answer:, The infall rate is 2-5 times smaller and the gas density is 2-5 times smaller in the region close to the black hole.,3074f07df75f95b421d8871cb9f6448e130ad7d948b137b8,64,,multifieldqa_en,multifieldqa_en,"Question: How does the infall rate and gas density in the magnetized model compare to non-magnetized accretion?
+",['Infall rate is 2-5 times smaller and gas density is 2-5 times smaller.'],How does the infall rate and gas density in the magnetized model compare to non-magnetized accretion?
+6599,en,Answer:, The police say they aren’t paid enough to enforce the laws in the streets.,3a63a9ca3248cecdeef9f43282a5162ff154b0bcdcf4ba81,64,,multifieldqa_en,multifieldqa_en,"Question: According to the text, what is Toby Schindelbeck's observation about the police?
+","[""Toby Schindelbeck's observation is that the police say they aren't paid enough to enforce the laws in the streets.""]","According to the text, what is Toby Schindelbeck's observation about the police?"
+8784,en,Answer:, Peter Denning.,80a04c9306d232e6327b14f03e260d28060fe12395d87e31,64,,multifieldqa_en,multifieldqa_en,"Question: Who is the program chair of this conference?
+",['Peter Denning.'],Who is the program chair of this conference?
+4334,en,Answer:, The conduction gap is strongly dependent on the direction of applied strain.,69ea47e54e2cedec193247f452f5d3bbef2566a93f1dd353,64,,multifieldqa_en,multifieldqa_en,"Question: How does the conduction gap depend on the strain direction?
+","['Peaks occur at certain strain directions, while the gap is zero at others.']",How does the conduction gap depend on the strain direction?
+3080,en,Answer:, 7 March 2023,46b15f1200c46251053ec3dfa806dbdf515eb34053a5e0d1,64,,multifieldqa_en,multifieldqa_en,"Question: When was the paper published?
+",['The paper was published on 7 March 2023.'],When was the paper published?
+3737,en,Answer:," V +, V 0, and V −.",60c66572f28b071899547f0aa0b4a271969c3b153e96406b,64,,multifieldqa_en,multifieldqa_en,"Question: What are the three subsets into which the parameter space V is divided?
+","['The three subsets are V+, V0, and V-, determined by the Kullback-Leibler information distance.']",What are the three subsets into which the parameter space V is divided?
+1504,en,Answer:, He loses his job and Njoroge's family is forced to move.,0ecdb8439f1360140995c6f5f6cc99c38cebb9216d1395e4,64,,multifieldqa_en,multifieldqa_en,"Question: What happens to Ngotho after he attacks Jacobo at a workers' strike?
+","[""After attacking Jacobo at a workers' strike, Ngotho loses his job and Njoroge's family is forced to move.""]",What happens to Ngotho after he attacks Jacobo at a workers' strike?
+812,en,Answer:," Jivani Street 2 of the Malatia-Sebastia District, Yerevan.",d5422b0fdbed42c0f1d2213edb6c7637802452e4ca7287eb,64,,multifieldqa_en,multifieldqa_en,"Question: Where is the club's headquarters located?
+","[""The club's headquarters are located on Jivani Street 2 of the Malatia-Sebastia District, Yerevan.""]",Where is the club's headquarters located?
+3996,en,Answer:, NFPA and FPSA greatly outperform GMRES and DSA in both runtime and iteration counts for all cases.,a40877e222497d3ff2efbeb1926e20600f8aac947820063c,64,,multifieldqa_en,multifieldqa_en,"Question: How do the runtimes and iteration counts of NFPA and FPSA compare to GMRES and DSA in the numerical experiments?
+",['NFPA and FPSA greatly outperform GMRES and DSA.'],How do the runtimes and iteration counts of NFPA and FPSA compare to GMRES and DSA in the numerical experiments?
+6097,en,Answer:," Technological limitations, resistance amongst some archaeologists to making their data available, cautions of exposing data to scrutiny, lost opportunities of analysis before others use it, loss of 'capital' of data, control over how data tables are presented, emphasis on creating new data through archaeological research, and low perception of the value of",aeb6cb26b11fc386727a529761d9d233ec7ba8dea9800b0f,64,,multifieldqa_en,multifieldqa_en,"Question: What are some reasons for the lack of data sharing in archaeobotany?
+","['Technological limitations, resistance to exposing data to scrutiny, and desire to hold onto data for personal use.']",What are some reasons for the lack of data sharing in archaeobotany?
+6308,en,Answer:," Physics, biology, social sciences, finance, neuroscience.",c18fe208b75f8f5b4214e2cb17420d75bf525e176e425fc0,64,,multifieldqa_en,multifieldqa_en,"Question: What are some fields in which the inverse problem is encountered?
+","['Physics, biology, social sciences, finance, and neuroscience are some fields in which the inverse problem is encountered.']",What are some fields in which the inverse problem is encountered?
+7021,en,Answer:," 4.5$\times$10$^{8}$\,cm",0da7747b164232cac911a34f6d0421028b27db0ce70e26a7,64,,multifieldqa_en,multifieldqa_en,"Question: What is the maximum radius of the emitting region for the black body model?
+",['4.5x10^8 cm.'],What is the maximum radius of the emitting region for the black body model?
+2295,en,Answer:, VC-10 Squadron.,f084724966601afea0017630eeee76cf0b65099356667bc2,64,,multifieldqa_en,multifieldqa_en,"Question: Which air unit did Goodwin command during the initial landings of Marines on Saipan?
+",['VC-10 Squadron.'],Which air unit did Goodwin command during the initial landings of Marines on Saipan?
+5241,en,Answer:," The bigger the receptive field size, the more complete shapes can be reconstructed using DSP.",4ad542cf320f1c01a4bce92a59628789784cf9722d7d476c,64,,multifieldqa_en,multifieldqa_en,"Question: How does the receptive field size affect the completion of shapes?
+",['Bigger receptive field size leads to more successful shape completion.'],How does the receptive field size affect the completion of shapes?
+3508,en,Answer:," It is a band geometric quantity that measures the k-space curl of the interlayer Berry connection over the occupied states, and hence is also a characteristic of layer-hybridized electronic states.",7d9bc0ed11dfc39ab91980d15a95fcd9f5902d25f85ec436,64,,multifieldqa_en,multifieldqa_en,"Question: What is the significance of the interlayer Berry connection polarizability?
+",['The momentum space curl of the interlayer Berry connection polarizability generates the crossed nonlinear dynamical Hall effect.'],What is the significance of the interlayer Berry connection polarizability?
+5389,en,Answer:, Yes.,13b04172d2261a0c9545a0e3670c1c43105ccab41ce1a726,64,,multifieldqa_en,multifieldqa_en,"Question: Can the denoiser be applied to circuits with non-Clifford noise?
+","['Yes, the denoiser works for non-Clifford local noise channels.']",Can the denoiser be applied to circuits with non-Clifford noise?
+5306,en,Answer:," Legacies of Losing in American Politics, with Nicole Mellow (University of Chicago Press, Fall 2017), and an expanded edition of The Rhetorical Presidency in the Princeton Classics series (Princeton, Fall 2017).",60b19bbfd875f79ca168f6db761d192ab710f9b5f395de89,64,,multifieldqa_en,multifieldqa_en,"Question: What is Professor Tulis's forthcoming book?
+",['Legacies of Losing in American Politics and an expanded edition of The Rhetorical Presidency in the Princeton Classics series.'],What is Professor Tulis's forthcoming book?
+5567,en,Answer:," A media application determines the context of an event by using a content-recognition module or algorithm, which may use object recognition techniques such as edge detection, pattern recognition, optical character recognition, and/or any other suitable technique to determine the objects and/or characteristics in media assets. The content-recognition module may also use speech recognition",690d6407b1ef9f8d373370bbcb02f7ecf198379774101140,64,,multifieldqa_en,multifieldqa_en,"Question: How does a media application determine the context of an event?
+",['It uses a content-recognition module or algorithm.'],How does a media application determine the context of an event?
+2345,en,Answer:," 
+1. Gene transfer to hemophilia A mice via oral delivery of FVIII-chitosan nanoparticles, Journal of Controlled Release, vol. 132 no. 3 (2008), pp. 252-259 
+2. Sustained viral gene delivery through core-shell fibers, Journal of Controlled Release,",edbbdb9727c3a51310d24895d08c5a90673cb9d514770878,64,,multifieldqa_en,multifieldqa_en,"Question: What are the titles of one of Kam W. Leong's publications in Journal of Controlled Release?
+",['Sustained viral gene delivery through core-shell fibers and Gene transfer to hemophilia A mice via oral delivery of FVIII-chitosan nanoparticles.'],What are the titles of one of Kam W. Leong's publications in Journal of Controlled Release?
+818,en,Answer:, FC Banants.,c4f2dfb06f56a185067d2f147c4d846aa0b895f1968eda12,64,,multifieldqa_en,multifieldqa_en,"Question: What was the club known as before being officially renamed FC Urartu?
+",['FC Banants.'],What was the club known as before being officially renamed FC Urartu?
+3247,en,Answer:," There seems to be no margin of safety for neurodevelopmental effects in fetus, for women with high fish consumption unless they decrease their intake of certain fish species.",ac42a5a54b029a05be6e6e13d9001a81761d7b40ad1edfe2,64,,multifieldqa_en,multifieldqa_en,"Question: What was the conclusion of the study?
+",['The conclusion was that fruit consumption may provide a protective effect for mercury exposure in Amazonian riparians.'],What was the conclusion of the study?
+9607,en,Answer:, The scoring engine generates a stream of content for the channel by comparing candidate content items to a model generated for the user and scoring them based on their interestingness to the user.,a9f124fabc341d61e359af8e8badf79dd63a97896c28842e,64,,multifieldqa_en,multifieldqa_en,"Question: How does the scoring engine generate a stream of content for the channel?
+",['By comparing candidate content items to a model and scoring them.'],How does the scoring engine generate a stream of content for the channel?
+821,en,Answer:, 2013–2014.,8e79ff617e6cfd373020194ce4cb84531a6aec6ab7e6cfc2,64,,multifieldqa_en,multifieldqa_en,"Question: When did the club win the Armenian Premier League for the first time?
+",['In the 2013-2014 season.'],When did the club win the Armenian Premier League for the first time?
+1195,en,Answer:, More than 120 novels.,f01044ae4abc16064872421a7dc9b21c98dc2bb4f4b5351a,64,,multifieldqa_en,multifieldqa_en,"Question: How many novels did Margaret Way write?
+",['Margaret Way wrote more than 120 novels.'],How many novels did Margaret Way write?
+2556,en,Answer:," The proposed approach is to approximate the posterior distribution with an isotropic Gaussian distribution, which leads to a linear-complexity algorithm comparable to the standard LMS.",394cb48c037481d97cdf1dbd7adef475061b9e77235842e2,64,,multifieldqa_en,multifieldqa_en,"Question: What is the proposed approach in this research paper?
+",['This research paper proposed an approach based on approximating the posterior distribution with an isotropic Gaussian distribution.'],What is the proposed approach in this research paper?
+2619,en,Answer:, Yes.,dffb383ee06d8413ac40e2c1ec7bde5548ef07fc8f35ad2f,64,,multifieldqa_en,multifieldqa_en,"Question: Does DUO contain more instances per image than COCO?
+","['Yes, DUO has 9.57 instances per image while COCO contains 7.7.']",Does DUO contain more instances per image than COCO?
+7146,en,Answer:," Anemia, bruising, nosebleeds, bleeding of the gums in both sexes, and heavy menstrual bleeding in women.",ad753e5807afddae5d0a133de86b5224cb074edfcc9477bf,64,,multifieldqa_en,multifieldqa_en,"Question: What are the symptoms of vitamin K deficiency?
+","['Symptoms of vitamin K deficiency include anemia, bruising, nosebleeds, bleeding of the gums, and heavy menstrual bleeding in women.']",What are the symptoms of vitamin K deficiency?
+6956,en,Answer:, 172,2646315b4135b08675c4ab2110dc544058659b9b6aab4752,64,,multifieldqa_en,multifieldqa_en,"Question: What is the security parameter for the AES-256 block cipher?
+",['172.'],What is the security parameter for the AES-256 block cipher?
+6706,en,Answer:," Mobile device management (MDM) systems are usually referred to as ""support centralized control of an entire fleet of mobile devices (smartphones and tablets) and mobile applications by applying and ensuring pre-defined configuration settings"".",c60792f391b389a1c44b0a8f62f4a792d9ed82286b1b7f95,64,,multifieldqa_en,multifieldqa_en,"Question: What is the definition of mobile device management (MDM)?
+",['Centralized control of mobile devices and applications.'],What is the definition of mobile device management (MDM)?
+2397,en,Answer:," BERT, RoBERTa, XLM-RoBERTa, ELECTRA, and GPT-2.",635ad5e3696e0d297f3ea8909d42975a5c1eb49a7f4a8466,64,,multifieldqa_en,multifieldqa_en,"Question: What models were used for dialect identification?
+","['BERT, RoBERTa, ELECTRA, GPT-2, and XLM-RoBERTa.']",What models were used for dialect identification?
+10003,en,Answer:," Hosting Subscriber may not use Broadjam's servers or Hosting Subscriber's Website as a source, intermediary, reply to address, or destination address for mail bombs, Internet packet flooding, packet corruption, denial of service, or any other abusive activities. Server hacking or other perpetration of security breaches is strictly prohibited and Broadjam reserves",25d54c0a145838996b56def82126f35b3fabe3e100d10fc0,64,,multifieldqa_en,multifieldqa_en,"Question: What are the restrictions on the use of Broadjam's servers?
+",['No excessive overloading and no use for illegal activity.'],What are the restrictions on the use of Broadjam's servers?
+2355,en,Answer:," The vacuum processing system is configured with a plurality of vacuum processing apparatus arranged in parallel, with all the vacuum processing chambers arranged in alignment.",5a18017502d827b72fc74d91f13f6f14193b4964c3420e47,64,,multifieldqa_en,multifieldqa_en,"Question: How is the vacuum processing system configured in terms of the arrangement of the vacuum processing apparatus?
+",['Multiple vacuum processing apparatuses are arranged in parallel.'],How is the vacuum processing system configured in terms of the arrangement of the vacuum processing apparatus?
+2103,en,Answer:, 21,238c4efe738cecd8346abfdc57707996aef30f9b43d1a577,64,,multifieldqa_en,multifieldqa_en,"Question: How many massive star-forming regions were studied?
+",['21.'],How many massive star-forming regions were studied?
+5906,en,Answer:, 1425 $\mu_{B}$.,583c9765ccee578fbc4e86090b48ca54163aa00fd5911cfe,64,,multifieldqa_en,multifieldqa_en,"Question: What is the average magnetic moment per column in Ge$_{1-x}$Mn$_{x}$ films?
+",['1425 $\\mu_{B}$.'],What is the average magnetic moment per column in Ge$_{1-x}$Mn$_{x}$ films?
+2490,en,Answer:," Nothing can give a solid proof of the existence of heaven and hell, yet, nothing can disprove it either.",b41aef2d0475f46a78a3168c6c8a614170975f82507cf2e4,64,,multifieldqa_en,multifieldqa_en,"Question: Is there any evidence of heaven and hell?
+",['Unknown.'],Is there any evidence of heaven and hell?
+10337,en,Answer:, Never.,d2a588e420083f151239e660bd47ec0cad9732ec308ab9bc,64,,multifieldqa_en,multifieldqa_en,"Question: When will BC leave Boston?
+",['August 25.'],When will BC leave Boston?
+5466,en,Answer:," The benefits of using binary variables in the SLAS formulation include reducing the computational complexity of the optimization problem, allowing for faster execution times, and enabling the use of lazy constraints to further improve computational efficiency.",0e9a32e0989483442381f0195e620fea8c5538e42f130bdb,64,,multifieldqa_en,multifieldqa_en,"Question: What are the benefits of using binary variables in the SLAS formulation?
+",['Reduced computational complexity.'],What are the benefits of using binary variables in the SLAS formulation?
+682,en,Answer:, QuecPython 社区或者联系我们的在线支持：QQ 群 445121768,ec016e90ac78727f3c4aa176db472724bda53c07cb8cb696,64,,multifieldqa_en,multifieldqa_en,"Question: Where can users go for troubleshooting and support?
+","['Online documentation, QuecPython community, online support: QQ group 445121768.']",Where can users go for troubleshooting and support?
+6102,en,Answer:," Severe anemia that begins even before birth, the placenta, heart, liver, spleen, and adrenal glands may all become enlarged, fluid can begin collecting throughout the body as early as the second trimester, causing damage to developing tissues and organs, growth retardation is common, affected fetuses usually miscarry",d427e3ab7584a0e253bfb6a9d76626b726c79b57d5e39f2a,64,,multifieldqa_en,multifieldqa_en,"Question: What are the symptoms of alpha thalassemia major?
+",['Severe anemia that begins even before birth.'],What are the symptoms of alpha thalassemia major?
+3590,en,Answer:, October 2001,67dd297408f3d52f22ede88df0b62644dac86da77f009e71,64,,multifieldqa_en,multifieldqa_en,"Question: When did Simon English become the leader of the National Party?
+",['October 2001.'],When did Simon English become the leader of the National Party?
+7568,en,Answer:," Smartphones are far more compact and power constrained, with a power budget of around 1W, whereas tablets have a power budget of up to 4W for passively cooled devices and as high as 7-8W for systems with fans.",7d357dddfddb09bf71c6ce3d2c6780b3380d725f534d0b91,64,,multifieldqa_en,multifieldqa_en,"Question: How are smartphones and tablets different from a technical perspective?
+",['Smartphones are more compact and power constrained.'],How are smartphones and tablets different from a technical perspective?
+7321,en,Answer:," Spending cuts, policy riders, such as regulating greenhouse gases and abortion.",6ee1971ac8c7c0ee4a5add9ec201557d28d3c2f66b176fb4,64,,multifieldqa_en,multifieldqa_en,"Question: What is the sticking point in the political showdown over the budget?
+",['The sticking point in the political showdown over the budget is how much spending to cut.'],What is the sticking point in the political showdown over the budget?
+6958,en,Answer:, The Director of Town and Country Planning.,a8da0d2585bb54d571a2ab4a539b61eef56b5e271692be42,64,,multifieldqa_en,multifieldqa_en,"Question: Who is responsible for carrying out the functions assigned under the act?
+",['The Director of Town and Country Planning is responsible for carrying out the functions assigned under the act.'],Who is responsible for carrying out the functions assigned under the act?
+3083,en,Answer:, The framework employs a propagator in the latent space to capture the reduced-order dynamics of the system.,47b9dbb6d85243ffdaf6d95e842986b30d49d95913f21b6a,64,,multifieldqa_en,multifieldqa_en,"Question: How does the framework capture the reduced-order dynamics?
+",['By using a propagator in the latent space.'],How does the framework capture the reduced-order dynamics?
+6594,en,Answer:, Just keep deploying and harvesting your bases.,3c8e9fef2eae8f49aae38b7314a3425b99c3ca8b051e8293,64,,multifieldqa_en,multifieldqa_en,"Question: How can you level up in the early levels?
+",['Keep deploying and harvesting your bases to earn experience points and level up quickly.'],How can you level up in the early levels?
+5086,en,Answer:," The electron correlation parameter, $\Gamma_e$, is defined as the ratio of the average unscreened electron-electron potential energy to the electron kinetic energy, given by the equation $\Gamma_e = \frac{e^2}{4\pi \epsilon_0 a_{ws}}\frac{1}{k_B",7f8fc6a04f8be9000b41098aa0f8d7fbfd42e2aa43bf7997,64,,multifieldqa_en,multifieldqa_en,"Question: What is the electron correlation parameter, $\Gamma_e$?
+",['It is the ratio of the average unscreened electron-electron potential energy to kinetic energy.'],"What is the electron correlation parameter, $\Gamma_e$?"
+6743,en,Answer:, Press the 'SKIP' button.,c677827fc67e60c6396dceb5c4194aaba925aa1c61ad7115,64,,multifieldqa_en,multifieldqa_en,"Question: How can players skip dialogue on the quest map?
+","[""Players can skip dialogue on the quest map by pressing the 'SKIP' button.""]",How can players skip dialogue on the quest map?
+1802,en,Answer:, 4 years.,622b577978afc1346c315f98a18678c8e6d5ccbf82511f74,64,,multifieldqa_en,multifieldqa_en,"Question: How many years has KSTP-FM 102.1 been on the air?
+",['Four years.'],How many years has KSTP-FM 102.1 been on the air?
+5660,en,Answer:, C-295,8d72c6709ee1da38a65cdfb4f9d90e7348fd8e356c0a8165,64,,multifieldqa_en,multifieldqa_en,"Question: Besides the Boeing C-17, what other transport aircraft is the IAF considering for acquisition?
+",['The IAF is considering the acquisition of the Airbus A330 MRTT (Multi-Role Tanker Transport) besides the Boeing C-17.'],"Besides the Boeing C-17, what other transport aircraft is the IAF considering for acquisition?"
+2188,en,Answer:, Permanent yellow spot damage on the screen.,45e06726b160cfb851e2179017f90e37f4f4dec62f346e33,64,,multifieldqa_en,multifieldqa_en,"Question: What may happen if the VR headset lenses are exposed to sunlight or strong light?
+",['Exposure to sunlight or strong light may cause permanent yellow spot damage on the screen.'],What may happen if the VR headset lenses are exposed to sunlight or strong light?
+8501,en,Answer:, Because the lady he is renting a room from smokes and he wants to avoid the secondhand smoke.,6065487485ac8c59b14aeb4bfb6c0cc1c26203d0ab1d3b1b,64,,multifieldqa_en,multifieldqa_en,"Question: Why does Craig want to find his own place?
+",['Because his roommate smokes.'],Why does Craig want to find his own place?
+6567,en,Answer:," An ALPHABETICAL LIST OF THE NAMES and PLACES of ABODE of the MERCHANTS and PRINCIPAL TRADERS of the Cities of LONDON and WESTMINSTER, the Borough of SOUTHWARK, and their Environs, with the Number affixed to each House.",c39f97567cff21a8591f02117632ea71e7b566f65d2d62ab,64,,multifieldqa_en,multifieldqa_en,"Question: What did the London Directory proclaim to contain?
+","['An alphabetical list of names and places of abode of the merchants and principal traders of the cities of London and Westminster, the Borough of Southwark, and their environs, with the number affixed to each house.']",What did the London Directory proclaim to contain?
+10325,en,Answer:, It becomes a bit less.,ae5a3edc1bc76fee6fa1aa6557e83bc3cfea0c190763ecce,64,,multifieldqa_en,multifieldqa_en,"Question: What happens to the high resolution of what we focus on at dawn or dusk?
+","[""It becomes a bit less so that what's off to the left or right can be better noted.""]",What happens to the high resolution of what we focus on at dawn or dusk?
+6819,en,Answer:," They are asking him to appoint a blue ribbon commission to conduct research and develop a management plan for the Cove, and to deny or defer approval on any applications for new docks in the Cove until the management plan can be developed and implemented.",7e9ba2f426e81faad004a9aba93c714af689ed705e544d22,64,,multifieldqa_en,multifieldqa_en,"Question: What is the group's request to the Connecticut DEEP Commissioner?
+",['Appointing a blue ribbon commission to conduct the research and develop the management plan and denying or defering approval on any applications for new docks in the Cove until the management plan can be developed and implemented.'],What is the group's request to the Connecticut DEEP Commissioner?
+6766,en,Answer:, Power-law functions.,b16c38bf627891a3bf60ee57f9f3c2f5730f4ea3a0f44b0e,64,,multifieldqa_en,multifieldqa_en,"Question: What type of distribution do the tail distributions of price returns follow?
+",['Power-law functions.'],What type of distribution do the tail distributions of price returns follow?
+1762,en,Answer:," $f'\left(x\right)  = \begin{cases} \frac{6x^2\cos{\left(x^2\right)}+\sin{\left(x^2\right)}}{3\sqrt[3]{x^2}}, & \mbox{if } x \neq",101225d103936ad083c5da47c3dce73ce569b62cbaa093bd,64,,multifieldqa_en,multifieldqa_en,"Question: What is the correct expression for the derivative of the function?
+","['It depends on the value of x, either 0 or (6x^2cos(x^2)+sin(x^2))/(3(x^2)^(1/3)).']",What is the correct expression for the derivative of the function?
+2054,en,Answer:, The John F. Kennedy Profiles in Courage Award,c93a8eb62278ce7c575ba542b2bcd5e610fa15035906463c,64,,multifieldqa_en,multifieldqa_en,"Question: What award did Brooksley Born receive in 2009?
+","['In 2009, Brooksley Born received the John F. Kennedy Profiles in Courage Award.']",What award did Brooksley Born receive in 2009?
+5225,en,Answer:," Nonlinear system vibration problems, i.e., computing transient responses of nonlinear oscillators under arbitrary irregular excitations.",37dfd65b9a8316b9569875b8bcfc5a8bd65e044a88b2e894,64,,multifieldqa_en,multifieldqa_en,"Question: What does the paper aim to solve?
+",['The paper aims to solve nonlinear system vibration problems efficiently.'],What does the paper aim to solve?
+1865,en,Answer:, Fuller's Ranch.,92bf77fcae3c753b768f1289eeb1e899fc8e75a14509a5f9,64,,multifieldqa_en,multifieldqa_en,"Question: What was the name of the first white settlement in McPherson County?
+","[""The first white settlement in McPherson County was Fuller's Ranch, established by Charles O. Fuller.""]",What was the name of the first white settlement in McPherson County?
+2008,en,Answer:, The normalized least mean square (NLMS) algorithm.,73b9b4130b4a4931bed5ea7e24331ce61b59271eac6c6c01,64,,multifieldqa_en,multifieldqa_en,"Question: What algorithm is engaged in the PLMS-PPIC method?
+",['The normalized least mean square (NLMS) algorithm.'],What algorithm is engaged in the PLMS-PPIC method?
+5655,en,Answer:," Accounting for path preference consistently improves performance compared with the goal-only baseline, and the robot's entropy over the goal distribution decreases more steadily, allowing for it to leverage the human's latest observations and reach the goal successfully.",f1b59c798ab323ea8409ba09709de506bd83699885ce61a5,64,,multifieldqa_en,multifieldqa_en,"Question: What is the effect of accounting for path preference on the robot's belief update?
+",['The belief entropy decreases more steadily.'],What is the effect of accounting for path preference on the robot's belief update?
+5514,en,Answer:, An open-shell π-diradical state and a closed-shell state with a para-quinodimethane moiety.,59a29a109088d9bd027b8fb77c20871684aa5069abec8e20,64,,multifieldqa_en,multifieldqa_en,"Question: What are the two ground states observed for indeno[1,2-a]fluorene on NaCl surfaces?
+",['Open-shell π-diradical state and closed-shell state with a para-quinodimethane moiety.'],"What are the two ground states observed for indeno[1,2-a]fluorene on NaCl surfaces?"
+4017,en,Answer:, The main focus of the research paper is to determine the nuclear liquid-gas transition in the strong coupling regime of lattice QCD.,4d6cd243b10a8460d2e2239182b797420ccc36335a74d23e,64,,multifieldqa_en,multifieldqa_en,"Question: What is the main focus of the research paper?
+",['Nuclear liquid-gas transition in lattice QCD.'],What is the main focus of the research paper?
+5646,en,Answer:, γ h,5914446861ce8a3d0d9204dfc9d41edd747de735c3c3fc36,64,,multifieldqa_en,multifieldqa_en,"Question: What is the rationality coefficient used in the observation model?
+",['γh.'],What is the rationality coefficient used in the observation model?
+2952,en,Answer:, Sir Richard Rokebye,dee63735510f6958f4c5bf318421c9b9fac0bc8b3e341a4a,64,,multifieldqa_en,multifieldqa_en,"Question: Who was Ralph Rokebye's brother?
+",['Sir Richard.'],Who was Ralph Rokebye's brother?
+6101,en,Answer:," According to the globin that is affected, hence the names alpha and beta thalassemia.",df53ff06fbc99dbae6bfe13a946420321d4542480eeb56f3,64,,multifieldqa_en,multifieldqa_en,"Question: How are thalassemias classified?
+",['According to the globin that is affected (alpha or beta).'],How are thalassemias classified?
+1852,en,Answer:, McPherson.,ce720011515773e6bd7b4b355c52a7215ad2920f18a1ec14,64,,multifieldqa_en,multifieldqa_en,"Question: Who is the county seat of McPherson County?
+",['McPherson.'],Who is the county seat of McPherson County?
+1860,en,Answer:, 1870,4c9131da4fb2a9dbc8dadce39d20bdc302a092b5740c414a,64,,multifieldqa_en,multifieldqa_en,"Question: When was McPherson County established as a county?
+",['McPherson County was established as a county in 1867.'],When was McPherson County established as a county?
+505,en,Answer:, 1. 使用安装包安装即可。 2. 打开程序后，会显示以下界面，用户可以查看账户（默认创建10个账户）、区块、交易和日志。 3. 点击“设置”，如下图所示，用户还可以设置绑定的,c6eba7d0323b89bbdb0fbad233543848add08dcbfcbd875b,64,,multifieldqa_en,multifieldqa_en,"Question: 如何安装并启动Ganache?
+",['使用安装包安装Ganache；打开程序，用户可以从显示的界面中查看账户、区块、交易和日志；点击“设置”，用户可以设置绑定的ip和端口、账户数量以及gas限制等，点击“restart”后设置生效。此时，Ganache已经在本机运行了一个以太坊私有网络，并绑定了8545端口。.'],如何安装并启动Ganache?
+8232,en,Answer:," Decorrelating the data before running the PLS algorithm improves its performance, especially for dependent observations.",425c85c840db6f65192aa477d41c9c18a60a4ccaf0e1e6df,64,,multifieldqa_en,multifieldqa_en,"Question: What is the advantage of decorrelating the data before running the PLS algorithm?
+",['Decorrelating the data before running the PLS algorithm improves the performance of the algorithm.'],What is the advantage of decorrelating the data before running the PLS algorithm?
+4482,en,Answer:, Coupled Generalized Dynamic Bayesian Network (C-GDBN),2d0e8d88c8dcd187eb0590fb072f6a69bd774c9aa029246b,64,,multifieldqa_en,multifieldqa_en,"Question: What is the name of the generative interactive model used in the method?
+",['The generative interactive model used in the method is called the Coupled Generalized Dynamic Bayesian Network (C-GDBN).'],What is the name of the generative interactive model used in the method?
+5917,en,Answer:," Memory nanodots, nanochannels for spin injection, and silicon compatible room temperature operational devices.",f9b9a553107eed5b994a9aaf07e8ccac487feaa8ff108ec6,64,,multifieldqa_en,multifieldqa_en,"Question: What are some potential applications of ferromagnetic semiconductors?
+","['Spin injection into non magnetic semiconductors, or electrical manipulation of carrier induced magnetism in magnetic semiconductors.']",What are some potential applications of ferromagnetic semiconductors?
+5970,en,Answer:, 62,f9e0095ae38b9c36aac766c4b82f41be5b7560ce8e544675,64,,multifieldqa_en,multifieldqa_en,"Question: How many underclassmen are on the NBA Draft Early-Entry List?
+",['62.'],How many underclassmen are on the NBA Draft Early-Entry List?
+6539,en,Answer:, 1766,229b5bf2402ae2950c72494dcfd5f1c825c396205b49ca50,64,,multifieldqa_en,multifieldqa_en,"Question: When did the London Paving and Lighting Act pass, which mandated the numbering of houses?
+",['1766.'],"When did the London Paving and Lighting Act pass, which mandated the numbering of houses?"
+4468,en,Answer:, Iraq and the US military presence in Iraq.,40a85211345155859f3d2f7268da928f516a65ac6f8c6e08,64,,multifieldqa_en,multifieldqa_en,"Question: What is the main topic of the text?
+","[""The main topic of the text is Iraq's politics and current situation.""]",What is the main topic of the text?
+5588,en,Answer:, SNNs could serve as promising candidates to better model and explain the functional hierarchy and mechanisms of the visual system.,6b35731428ea6d9b480338b90572d21690c2fbb89ebba249,64,,multifieldqa_en,multifieldqa_en,"Question: What is the potential of SNNs in modeling the visual system?
+",['SNNs have the potential to better model and explain the functional hierarchy and mechanisms of the visual system.'],What is the potential of SNNs in modeling the visual system?
+3602,en,Answer:, Deputy Prime Minister and Minister of Finance.,73debbba53d5848cdc1e726c047bb0b82c5730d747fa710c,64,,multifieldqa_en,multifieldqa_en,"Question: What position did Simon English hold in the 2008 general election?
+",['He became deputy prime minister and minister of finance.'],What position did Simon English hold in the 2008 general election?
+2395,en,Answer:, 85.61%,c6d0de0391867185e00e945075301d33fc1c5c05d2a7d082,64,,multifieldqa_en,multifieldqa_en,"Question: What is the score achieved by the authors for Track-2?
+",['85.61%.'],What is the score achieved by the authors for Track-2?
+8366,en,Answer:," In the shock compression stage (t < 0.03), the effect of specific-heat ratio contributes little to the average motion. However, when the shock wave passes through the bubble (t > 0.03), a larger specific-heat ratio speeds up the average motion of the bubbles.",110688fd7522324ef26cbf3ec4f4b7ab29aa0b687aa1ade5,64,,multifieldqa_en,multifieldqa_en,"Question: How does the specific-heat ratio affect the average motion of the bubble?
+",['The specific-heat ratio affects the average motion of the bubble. The bubbles with smaller specific-heat ratios have slower average motion.'],How does the specific-heat ratio affect the average motion of the bubble?
+1853,en,Answer:, McPherson County is located in the U.S. state of Kansas.,71902c8027dca26b265f12709ec21224b5abe8b9ef5750fd,64,,multifieldqa_en,multifieldqa_en,"Question: Where is McPherson County located?
+",['McPherson County is located in the U.S. state of Kansas.'],Where is McPherson County located?
+663,en,Answer:," $O (t, L_{\parallel} ; S_\Delta) = L_{\parallel}^{-\beta/[\nu(1+\Delta)]} \tilde f_O (t/L_{\parallel}^{z/(1+\Delta)} ; S_\Delta)$.",22034e095a602824678c4028e6f605919ce520270dc06089,64,,multifieldqa_en,multifieldqa_en,"Question: What is the scaling form for the alternative order parameter O?
+","['O(t, L_{\\parallel}; S_\\Delta) = L_{\\parallel}^{-\\beta/[\\nu(1+\\Delta)]} \\tilde f_O(t/L_{\\parallel}^{z/(1+\\Delta)}; S_\\Delta).']",What is the scaling form for the alternative order parameter O?
+6133,en,Answer:," The relationships between catch per set and fishing behavior variables are different for different measures of CPUE (CPUE per trip, CPUE per set, CPUE per 100 hooks per set).",cd0ecda68ad8031330b971fbfdd3794916e815109f004d3b,64,,multifieldqa_en,multifieldqa_en,"Question: How are the relationships between catch per set and fishing behavior variables different for different measures of catch per unit effort (CPUE)?
+",['The relationships between catch per set and fishing behavior variables differ when comparing unstandardized CPUE and standardized CPUE.'],How are the relationships between catch per set and fishing behavior variables different for different measures of catch per unit effort (CPUE)?
+1193,en,Answer:, Romance novels and women's fiction.,fc1544761460f97af3a338bbf3e3c648c00ec27b8b297069,64,,multifieldqa_en,multifieldqa_en,"Question: What genre did Margaret Way write in?
+","[""Romance novels and women's fiction.""]",What genre did Margaret Way write in?
+6839,en,Answer:, No.,2914f0d14be47681d3c23b975c5bdadf23943ddd2bdd99d5,64,,multifieldqa_en,multifieldqa_en,"Question: Can someone sell or modify the Agency Spotter Content?
+",['No.'],Can someone sell or modify the Agency Spotter Content?
+2616,en,Answer:, URPC2017 and URPC2018 are most often used for research.,b321c147c0e0a8a35ee8738ad89326ecad1509bf591b4233,64,,multifieldqa_en,multifieldqa_en,"Question: What are the datasets used in this community for research?
+","['URPC2017, URPC2018, URPC2019, URPC2020_ZJ and URPC2020_DL.']",What are the datasets used in this community for research?
+8511,en,Answer:, The research opportunity is a study on the effects of Brazilian Jiu Jitsu and psychotherapy on helping people with autism develop subjective awareness of others.,56514cd4cf8dac4f9081927e3ffaaca1ff1231198b7b16e9,64,,multifieldqa_en,multifieldqa_en,"Question: What is the research opportunity that is mentioned?
+",['A study on the effects of Brazilian Jiu Jitsu and psychotherapy on people with autism.'],What is the research opportunity that is mentioned?
