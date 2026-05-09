@@ -1,0 +1,16 @@
+# Core dependencies
+torch
+transformers
+accelerate
+sentencepiece
+protobuf
+numpy
+
+# GPU benchmark (RunPod) — optional
+requests
+
+# LongBench-E evaluation — optional
+datasets
+
+# Fused CUDA kernels — optional (GPU only)
+# triton
